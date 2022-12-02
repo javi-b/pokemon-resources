@@ -24,21 +24,28 @@ def main():
 
     for i in range(1, MAX_ID + 1):
 
-        filename = GetPokemonFilename(i)
+        filenames_pairs = GetPokemonFilenamesPairs(i)
 
-        print("#" + str(i) + " " + filename + " [", end="")
+        for filenames_pair in filenames_pairs:
 
-        UpdatePokemon(DIR + filename, URL, i, False)
-        UpdatePokemon(SHINY_DIR + filename, URL, i, True)
-        UpdatePokemon(DIR_256 + filename, URL_256, i, False)
-        UpdatePokemon(SHINY_DIR_256 + filename, URL_256, i, True)
+            pogo_filename = filenames_pair[0]
+            filename = filenames_pair[1]
 
-        print("]")
+            print("#" + str(i) + " " + filename + " [", end="")
 
-def UpdatePokemon(path, base_url, pkm_id, is_shiny):
+            UpdatePokemon(URL, pogo_filename, DIR + filename, i, False)
+            UpdatePokemon(URL, pogo_filename, SHINY_DIR + filename, i, True)
+            UpdatePokemon(URL_256, pogo_filename, DIR_256 + filename, i, False)
+            UpdatePokemon(URL_256, pogo_filename, SHINY_DIR_256 + filename, i, True)
 
+            print("]")
+
+def UpdatePokemon(base_url, pogo_filename, path, pkm_id, is_shiny):
     if not exists(path):
-        url = base_url + "pm" + str(pkm_id) + ("", ".s")[is_shiny] + ".icon.png"
+        url = base_url + pogo_filename
+        if (is_shiny):
+            insert_point = url.find(".icon.png")
+            url = url[:insert_point] + ".s" + url[insert_point:]
         res = subprocess.call(["curl", "-f", url, "-o", path],
                 stdout=open(os.devnull, "w"),
                 stderr=subprocess.STDOUT)
@@ -50,9 +57,37 @@ def UpdatePokemon(path, base_url, pkm_id, is_shiny):
         print("-", end="")
     sys.stdout.flush()
 
-def GetPokemonFilename(pkm_id):
-    name = pokemon_names[str(pkm_id)]["name"]
-    return (CleanStr(name) + ".png")
+def GetPokemonFilenamesPairs(pkm_id):
+    """ Gets a list of pairs of filenames.
+    The first filename is used to download the pokemon go asset,
+    the second one is the filename saved on disk following the local
+    name convention.
+    """
+
+    ALOLA_FORM_PKMS = { 19, 20, 26, 27, 28, 37, 38, 50, 51, 52, 53, 74, 75, 
+            76, 88, 89, 103, 105 }
+    GALARIAN_FORM_PKMS = { 52, 77, 78, 79, 80, 83, 110, 122, 144, 145, 146,
+            199, 222, 263, 264, 554, 562, 618 }
+    HISUIAN_FORM_PKMS = { 58, 59, 100, 101, 157, 211, 215, 503, 549, 570,
+            571, 628, 705, 706, 713, 724 }
+
+    filenames_pairs = [];
+
+    pogo_filename = "pm" + str(pkm_id) + ".icon.png"
+    name = CleanStr(pokemon_names[str(pkm_id)]["name"])
+    filenames_pairs.append([pogo_filename, name + ".png"])
+
+    if (pkm_id in ALOLA_FORM_PKMS):
+        pogo_filename = "pm" + str(pkm_id) + ".fALOLA.icon.png"
+        filenames_pairs.append([pogo_filename, name + "-alola.png"])
+    if (pkm_id in GALARIAN_FORM_PKMS):
+        pogo_filename = "pm" + str(pkm_id) + ".fGALARIAN.icon.png"
+        filenames_pairs.append([pogo_filename, name + "-galar.png"])
+    if (pkm_id in HISUIAN_FORM_PKMS):
+        pogo_filename = "pm" + str(pkm_id) + ".fHISUIAN.icon.png"
+        filenames_pairs.append([pogo_filename, name + "-hisuian.png"])
+
+    return filenames_pairs
 
 def CleanStr(string):
     return ("".join(filter(str.isalnum, string.lower())))
