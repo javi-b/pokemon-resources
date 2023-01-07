@@ -61,6 +61,10 @@ def GetPokemonFilenamesPairs(pkm_id):
     name convention.
     """
 
+    MEGA_PKMS = { 3, 6, 9, 15, 18, 65, 80, 94, 115, 127, 130, 142, 150,
+            181, 208, 212, 214, 229, 248, 254, 260, 257, 282, 302, 303,
+            308, 306, 310, 319, 323, 334, 354, 359, 362, 373, 376, 380,
+            384, 381, 428, 445, 448, 460, 475, 531, 719 }
     ALOLA_FORM_PKMS = { 19, 20, 26, 27, 28, 37, 38, 50, 51, 52, 53, 74, 75, 
             76, 88, 89, 103, 105 }
     GALARIAN_FORM_PKMS = { 52, 77, 78, 79, 80, 83, 110, 122, 144, 145, 146,
@@ -74,6 +78,9 @@ def GetPokemonFilenamesPairs(pkm_id):
     name = CleanStr(pokemon_names[str(pkm_id)]["name"])
     filenames_pairs.append([pogo_filename, name + ".png"])
 
+    if (pkm_id in MEGA_PKMS):
+        pogo_filename = "pm" + str(pkm_id) + ".fMEGA.icon.png"
+        filenames_pairs.append([pogo_filename, name + "-mega.png"])
     if (pkm_id in ALOLA_FORM_PKMS):
         pogo_filename = "pm" + str(pkm_id) + ".fALOLA.icon.png"
         filenames_pairs.append([pogo_filename, name + "-alola.png"])
