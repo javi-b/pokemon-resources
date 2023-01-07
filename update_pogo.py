@@ -26,10 +26,7 @@ def main():
 
         filenames_pairs = GetPokemonFilenamesPairs(i)
 
-        for filenames_pair in filenames_pairs:
-
-            pogo_filename = filenames_pair[0]
-            filename = filenames_pair[1]
+        for pogo_filename, filename in filenames_pairs:
 
             print("#" + str(i) + " " + filename + " [", end="")
 
