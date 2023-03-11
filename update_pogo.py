@@ -9,7 +9,7 @@ import json
 
 # global constants and variables
 
-MAX_ID = 905 # maximum pokemon id
+MAX_ID = 1010 # maximum pokemon id
 URL = "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/"
 URL_256 = "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/"
 DIR = "pogo/"

@@ -11,9 +11,53 @@
         "id": 100,
         "name": "Voltorb"
     },
+    "1000": {
+        "id": 1000,
+        "name": "Gholdengo"
+    },
+    "1001": {
+        "id": 1001,
+        "name": "Wo-Chien"
+    },
+    "1002": {
+        "id": 1002,
+        "name": "Chien-Pao"
+    },
+    "1003": {
+        "id": 1003,
+        "name": "Ting-Lu"
+    },
+    "1004": {
+        "id": 1004,
+        "name": "Chi-Yu"
+    },
+    "1005": {
+        "id": 1005,
+        "name": "Roaring Moon"
+    },
+    "1006": {
+        "id": 1006,
+        "name": "Iron Valiant"
+    },
+    "1007": {
+        "id": 1007,
+        "name": "Koraidon"
+    },
+    "1008": {
+        "id": 1008,
+        "name": "Miraidon"
+    },
+    "1009": {
+        "id": 1009,
+        "name": "Walking Wake"
+    },
     "101": {
         "id": 101,
         "name": "Electrode"
+    },
+    "1010": {
+        "id": 1010,
+        "name": "Iron Leaves"
     },
     "102": {
         "id": 102,
@@ -3583,40 +3627,416 @@
         "id": 905,
         "name": "Enamorus"
     },
+    "906": {
+        "id": 906,
+        "name": "Sprigatito"
+    },
+    "907": {
+        "id": 907,
+        "name": "Floragato"
+    },
+    "908": {
+        "id": 908,
+        "name": "Meowscarada"
+    },
+    "909": {
+        "id": 909,
+        "name": "Fuecoco"
+    },
     "91": {
         "id": 91,
         "name": "Cloyster"
+    },
+    "910": {
+        "id": 910,
+        "name": "Crocalor"
+    },
+    "911": {
+        "id": 911,
+        "name": "Skeledirge"
+    },
+    "912": {
+        "id": 912,
+        "name": "Quaxly"
+    },
+    "913": {
+        "id": 913,
+        "name": "Quaxwell"
+    },
+    "914": {
+        "id": 914,
+        "name": "Quaquaval"
+    },
+    "915": {
+        "id": 915,
+        "name": "Lechonk"
+    },
+    "916": {
+        "id": 916,
+        "name": "Oinkologne"
+    },
+    "917": {
+        "id": 917,
+        "name": "Tarountula"
+    },
+    "918": {
+        "id": 918,
+        "name": "Spidops"
+    },
+    "919": {
+        "id": 919,
+        "name": "Nymble"
     },
     "92": {
         "id": 92,
         "name": "Gastly"
     },
+    "920": {
+        "id": 920,
+        "name": "Lokix"
+    },
+    "921": {
+        "id": 921,
+        "name": "Pawmi"
+    },
+    "922": {
+        "id": 922,
+        "name": "Pawmo"
+    },
+    "923": {
+        "id": 923,
+        "name": "Pawmot"
+    },
+    "924": {
+        "id": 924,
+        "name": "Tandemaus"
+    },
+    "925": {
+        "id": 925,
+        "name": "Maushold"
+    },
+    "926": {
+        "id": 926,
+        "name": "Fidough"
+    },
+    "927": {
+        "id": 927,
+        "name": "Dachsbun"
+    },
+    "928": {
+        "id": 928,
+        "name": "Smoliv"
+    },
+    "929": {
+        "id": 929,
+        "name": "Dolliv"
+    },
     "93": {
         "id": 93,
         "name": "Haunter"
+    },
+    "930": {
+        "id": 930,
+        "name": "Arboliva"
+    },
+    "931": {
+        "id": 931,
+        "name": "Squawkabilly"
+    },
+    "932": {
+        "id": 932,
+        "name": "Nacli"
+    },
+    "933": {
+        "id": 933,
+        "name": "Naclstack"
+    },
+    "934": {
+        "id": 934,
+        "name": "Garganacl"
+    },
+    "935": {
+        "id": 935,
+        "name": "Charcadet"
+    },
+    "936": {
+        "id": 936,
+        "name": "Armarouge"
+    },
+    "937": {
+        "id": 937,
+        "name": "Ceruledge"
+    },
+    "938": {
+        "id": 938,
+        "name": "Tadbulb"
+    },
+    "939": {
+        "id": 939,
+        "name": "Bellibolt"
     },
     "94": {
         "id": 94,
         "name": "Gengar"
     },
+    "940": {
+        "id": 940,
+        "name": "Wattrel"
+    },
+    "941": {
+        "id": 941,
+        "name": "Kilowattrel"
+    },
+    "942": {
+        "id": 942,
+        "name": "Maschiff"
+    },
+    "943": {
+        "id": 943,
+        "name": "Mabosstiff"
+    },
+    "944": {
+        "id": 944,
+        "name": "Shroodle"
+    },
+    "945": {
+        "id": 945,
+        "name": "Grafaiai"
+    },
+    "946": {
+        "id": 946,
+        "name": "Bramblin"
+    },
+    "947": {
+        "id": 947,
+        "name": "Brambleghast"
+    },
+    "948": {
+        "id": 948,
+        "name": "Toedscool"
+    },
+    "949": {
+        "id": 949,
+        "name": "Toedscruel"
+    },
     "95": {
         "id": 95,
         "name": "Onix"
+    },
+    "950": {
+        "id": 950,
+        "name": "Klawf"
+    },
+    "951": {
+        "id": 951,
+        "name": "Capsakid"
+    },
+    "952": {
+        "id": 952,
+        "name": "Scovillain"
+    },
+    "953": {
+        "id": 953,
+        "name": "Rellor"
+    },
+    "954": {
+        "id": 954,
+        "name": "Rabsca"
+    },
+    "955": {
+        "id": 955,
+        "name": "Flittle"
+    },
+    "956": {
+        "id": 956,
+        "name": "Espathra"
+    },
+    "957": {
+        "id": 957,
+        "name": "Tinkatink"
+    },
+    "958": {
+        "id": 958,
+        "name": "Tinkatuff"
+    },
+    "959": {
+        "id": 959,
+        "name": "Tinkaton"
     },
     "96": {
         "id": 96,
         "name": "Drowzee"
     },
+    "960": {
+        "id": 960,
+        "name": "Wiglett"
+    },
+    "961": {
+        "id": 961,
+        "name": "Wugtrio"
+    },
+    "962": {
+        "id": 962,
+        "name": "Bombirdier"
+    },
+    "963": {
+        "id": 963,
+        "name": "Finizen"
+    },
+    "964": {
+        "id": 964,
+        "name": "Palafin"
+    },
+    "965": {
+        "id": 965,
+        "name": "Varoom"
+    },
+    "966": {
+        "id": 966,
+        "name": "Revavroom"
+    },
+    "967": {
+        "id": 967,
+        "name": "Cyclizar"
+    },
+    "968": {
+        "id": 968,
+        "name": "Orthworm"
+    },
+    "969": {
+        "id": 969,
+        "name": "Glimmet"
+    },
     "97": {
         "id": 97,
         "name": "Hypno"
+    },
+    "970": {
+        "id": 970,
+        "name": "Glimmora"
+    },
+    "971": {
+        "id": 971,
+        "name": "Greavard"
+    },
+    "972": {
+        "id": 972,
+        "name": "Houndstone"
+    },
+    "973": {
+        "id": 973,
+        "name": "Flamigo"
+    },
+    "974": {
+        "id": 974,
+        "name": "Cetoddle"
+    },
+    "975": {
+        "id": 975,
+        "name": "Cetitan"
+    },
+    "976": {
+        "id": 976,
+        "name": "Veluza"
+    },
+    "977": {
+        "id": 977,
+        "name": "Dondozo"
+    },
+    "978": {
+        "id": 978,
+        "name": "Tatsugiri"
+    },
+    "979": {
+        "id": 979,
+        "name": "Annihilape"
     },
     "98": {
         "id": 98,
         "name": "Krabby"
     },
+    "980": {
+        "id": 980,
+        "name": "Clodsire"
+    },
+    "981": {
+        "id": 981,
+        "name": "Farigiraf"
+    },
+    "982": {
+        "id": 982,
+        "name": "Dudunsparce"
+    },
+    "983": {
+        "id": 983,
+        "name": "Kingambit"
+    },
+    "984": {
+        "id": 984,
+        "name": "Great Tusk"
+    },
+    "985": {
+        "id": 985,
+        "name": "Scream Tail"
+    },
+    "986": {
+        "id": 986,
+        "name": "Brute Bonnet"
+    },
+    "987": {
+        "id": 987,
+        "name": "Flutter Mane"
+    },
+    "988": {
+        "id": 988,
+        "name": "Slither Wing"
+    },
+    "989": {
+        "id": 989,
+        "name": "Sandy Shocks"
+    },
     "99": {
         "id": 99,
         "name": "Kingler"
+    },
+    "990": {
+        "id": 990,
+        "name": "Iron Treads"
+    },
+    "991": {
+        "id": 991,
+        "name": "Iron Bundle"
+    },
+    "992": {
+        "id": 992,
+        "name": "Iron Hands"
+    },
+    "993": {
+        "id": 993,
+        "name": "Iron Jugulis"
+    },
+    "994": {
+        "id": 994,
+        "name": "Iron Moth"
+    },
+    "995": {
+        "id": 995,
+        "name": "Iron Thorns"
+    },
+    "996": {
+        "id": 996,
+        "name": "Frigibax"
+    },
+    "997": {
+        "id": 997,
+        "name": "Arctibax"
+    },
+    "998": {
+        "id": 998,
+        "name": "Baxcalibur"
+    },
+    "999": {
+        "id": 999,
+        "name": "Gimmighoul"
     }
 }
