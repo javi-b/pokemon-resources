@@ -1,5 +1,5 @@
-# updates pogo assets from PokeMiners/pogo_assets in GitHub.
-# sorts the assets following this repo structure and filenames system
+# updates pogo graphics from PokeMiners/pogo_assets in GitHub.
+# sorts the graphics following this repo structure and filenames system
 
 import sys
 import os
@@ -56,7 +56,7 @@ def UpdatePokemon(base_url, pogo_filename, path, pkm_id, is_shiny):
 
 def GetPokemonFilenamesPairs(pkm_id):
     """ Gets a list of pairs of filenames.
-    The first filename is used to download the pokemon go asset,
+    The first filename is used to download the pokemon go graphic,
     the second one is the filename saved on disk following the local
     name convention.
     """
