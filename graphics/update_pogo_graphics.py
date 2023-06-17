@@ -18,7 +18,7 @@ DIR_256 = "pogo-256/"
 SHINY_DIR_256 = "pogo-shiny-256/"
 
 # parses pokemon names json file
-pokemon_names = json.load(open("pokemon_names.json"))
+pokemon_names = json.load(open("../pokemon_names.json"))
 
 def main():
 
