@@ -6628,7 +6628,7 @@
             "Mud Shot"
         ],
         "shadow": true,
-        "shadow_released": true,
+        "shadow_released": false,
         "released": true
     },
     {
@@ -7463,7 +7463,7 @@
             "Megahorn"
         ],
         "shadow": true,
-        "shadow_released": true,
+        "shadow_released": false,
         "released": true
     },
     {
@@ -20314,7 +20314,7 @@
             "Blast Burn"
         ],
         "shadow": true,
-        "shadow_released": true,
+        "shadow_released": false,
         "released": true
     },
     {
@@ -23136,7 +23136,7 @@
             "Rock Wrecker"
         ],
         "shadow": true,
-        "shadow_released": true,
+        "shadow_released": false,
         "released": true
     },
     {
