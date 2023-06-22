@@ -4953,7 +4953,7 @@
             "Thunderbolt"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -5034,7 +5034,7 @@
             "Rock Blast"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -5119,7 +5119,7 @@
             "Rollout"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -10333,7 +10333,7 @@
             "Aerial Ace"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -10360,7 +10360,7 @@
             "Dynamic Punch"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -13466,7 +13466,7 @@
             "Stone Edge"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -14004,9 +14004,9 @@
                     "Dark"
                 ],
                 "stats": {
-                    "baseStamina": 216,
-                    "baseAttack": 310,
-                    "baseDefense": 251
+                    "baseStamina": 225,
+                    "baseAttack": 309,
+                    "baseDefense": 276
                 }
             }
         ],
@@ -14047,9 +14047,9 @@
                     "Dark"
                 ],
                 "stats": {
-                    "baseStamina": 216,
-                    "baseAttack": 310,
-                    "baseDefense": 251
+                    "baseStamina": 225,
+                    "baseAttack": 309,
+                    "baseDefense": 276
                 }
             }
         ],
@@ -16330,6 +16330,19 @@
         ],
         "shadow": true,
         "shadow_released": true,
+        "mega": [
+            {
+                "types": [
+                    "Dark",
+                    "Ghost"
+                ],
+                "stats": {
+                    "baseStamina": 137,
+                    "baseAttack": 151,
+                    "baseDefense": 216
+                }
+            }
+        ],
         "released": true
     },
     {
@@ -16356,6 +16369,19 @@
         ],
         "shadow": true,
         "shadow_released": false,
+        "mega": [
+            {
+                "types": [
+                    "Dark",
+                    "Ghost"
+                ],
+                "stats": {
+                    "baseStamina": 137,
+                    "baseAttack": 151,
+                    "baseDefense": 216
+                }
+            }
+        ],
         "released": true
     },
     {
@@ -16382,6 +16408,19 @@
         ],
         "shadow": true,
         "shadow_released": true,
+        "mega": [
+            {
+                "types": [
+                    "Dark",
+                    "Ghost"
+                ],
+                "stats": {
+                    "baseStamina": 137,
+                    "baseAttack": 151,
+                    "baseDefense": 216
+                }
+            }
+        ],
         "released": true
     },
     {
@@ -19429,7 +19468,7 @@
             "Earthquake"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
     },
@@ -21883,7 +21922,7 @@
             "Aerial Ace"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -21908,7 +21947,7 @@
             "Aerial Ace"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -22245,7 +22284,7 @@
             "Body Slam"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -22297,7 +22336,7 @@
             "Flamethrower"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {

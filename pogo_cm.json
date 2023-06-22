@@ -1798,5 +1798,14 @@
         "damage_window_start": 2000,
         "damage_window_end": 2700,
         "energy_delta": -33
+    },
+    {
+        "name": "386",
+        "type": "Fire",
+        "power": 75.0,
+        "duration": 2500,
+        "damage_window_start": 1300,
+        "damage_window_end": 2800,
+        "energy_delta": -33
     }
 ]
