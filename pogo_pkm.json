@@ -1981,7 +1981,7 @@
     {
         "id": 25,
         "name": "Pikachu",
-        "form": "Normal",
+        "form": "Summer_2023_e",
         "types": [
             "Electric"
         ],
@@ -37145,12 +37145,14 @@
         },
         "fm": [
             "Ember",
-            "Fire Spin"
+            "Fire Spin",
+            "Incinerate"
         ],
         "cm": [
             "Overheat",
             "Flamethrower",
-            "Dragon Pulse"
+            "Dragon Pulse",
+            "Flash Cannon"
         ],
         "shadow": false,
         "shadow_released": false,
