@@ -2,6 +2,7 @@ import urllib.request
 import requests
 import lxml.html
 import json
+import os
 
 # global constants and variables
 
@@ -44,6 +45,8 @@ def main():
     json.dump(pogo_pkm, open(JSON_PKM_PATH, "w"), indent=4)
     json.dump(pogo_fm, open(JSON_FM_PATH, "w"), indent=4)
     json.dump(pogo_cm, open(JSON_CM_PATH, "w"), indent=4)
+
+    os.system("pause")
 
 def ScrapeList(html, xpath, name):
     lis = html.xpath(xpath)
