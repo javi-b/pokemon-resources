@@ -1800,6 +1800,15 @@
         "energy_delta": -33
     },
     {
+        "name": "Dragon Ascent",
+        "type": "Flying",
+        "power": 140.0,
+        "duration": 3500,
+        "damage_window_start": 3250,
+        "damage_window_end": 3400,
+        "energy_delta": -50
+    },
+    {
         "name": "Magma Storm",
         "type": "Fire",
         "power": 75.0,

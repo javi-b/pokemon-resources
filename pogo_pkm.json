@@ -24207,6 +24207,9 @@
             "Flamethrower",
             "Earth Power"
         ],
+        "elite_cm": [
+            "Magma Storm"
+        ],
         "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
