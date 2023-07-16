@@ -1,6 +1,7 @@
 # updates pogo graphics from PokeMiners/pogo_assets in GitHub.
 # sorts the graphics following this repo structure and filenames system
 
+import urllib.request
 import sys
 import os
 import subprocess
@@ -9,7 +10,8 @@ import json
 
 # global constants and variables
 
-MAX_ID = 1010 # maximum pokemon id
+URL_GAME_MASTER = "https://raw.githubusercontent.com/PokeMiners/game_masters/master/latest/latest.json"
+
 URL = "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon/Addressable%20Assets/"
 URL_256 = "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/Addressable%20Assets/"
 DIR = "pogo/"
@@ -22,24 +24,68 @@ pokemon_names = json.load(open("../pokemon_names.json"))
 
 def main():
 
-    for i in range(1, MAX_ID + 1):
+    print("loading game master...")
+    game_master = json.load(urllib.request.urlopen(URL_GAME_MASTER))
+    print("downloading nonexisting graphics...")
+    for gm_obj in game_master:
+        id = gm_obj["templateId"]
+        if id[0] == "V" and id[6:13] == "POKEMON" and id.find("REVERSION") == -1:
+            filenames_pairs = GetFilenamesPairs(gm_obj)
+            for pm_filename, filename in filenames_pairs:
+                print(pm_filename + " -> " + filename + " [", end="")
+                UpdatePokemon(URL + pm_filename, DIR + filename, False)
+                UpdatePokemon(URL + pm_filename, SHINY_DIR + filename, True)
+                UpdatePokemon(URL_256 + pm_filename, DIR_256 + filename, False)
+                UpdatePokemon(URL_256 + pm_filename, SHINY_DIR_256 + filename, True)
+                print("]")
 
-        filenames_pairs = GetPokemonFilenamesPairs(i)
+    os.system("pause")
 
-        for pogo_filename, filename in filenames_pairs:
+def GetFilenamesPairs(gm_obj):
 
-            print("#" + str(i) + " " + filename + " [", end="")
+    filenames_pairs = [];
 
-            UpdatePokemon(URL, pogo_filename, DIR + filename, i, False)
-            UpdatePokemon(URL, pogo_filename, SHINY_DIR + filename, i, True)
-            UpdatePokemon(URL_256, pogo_filename, DIR_256 + filename, i, False)
-            UpdatePokemon(URL_256, pogo_filename, SHINY_DIR_256 + filename, i, True)
+    gm_obj_s = gm_obj["data"]["pokemonSettings"]
+    id = int(gm_obj["templateId"][1:5])
+    name = CleanStr(pokemon_names[str(id)]["name"])
+    if id == 29: # female Nidoran
+        name += "f"
+    elif id == 32: # male Nidoran
+        name += "m"
 
-            print("]")
+    # name
+    pm_filename = "pm" + str(id)
+    filename = name
 
-def UpdatePokemon(base_url, pogo_filename, path, pkm_id, is_shiny):
+    # form
+    if "form" in gm_obj_s and isinstance(gm_obj_s["form"], str):
+        form = gm_obj_s["form"]
+        if gm_obj_s["pokemonId"] in form:
+            form = form.replace(gm_obj_s["pokemonId"], "")[1:]
+        if form != "NORMAL":
+            pm_filename += ".f" + form;
+            filename += "-" + CleanStr(form)
+
+    # suffix
+    pm_filename += ".icon.png"
+    filename += ".png";
+
+    filenames_pairs.append((pm_filename, filename))
+
+    # extra mega filenames pairs
+    if "tempEvoOverrides" in gm_obj_s:
+        if id == 6 or id == 150: # Charizard or Mewtwo
+            filenames_pairs.append(("pm"+str(id)+".fMEGA_X.icon.png", name+"-megax.png"))
+            filenames_pairs.append(("pm"+str(id)+".fMEGA_Y.icon.png", name+"-megay.png"))
+        elif id == 382 or id == 383: # Kyogre or Groudon
+            filenames_pairs.append(("pm"+str(id)+".fPRIMAL.icon.png", name+"-primal.png"))
+        else:
+            filenames_pairs.append(("pm"+str(id)+".fMEGA.icon.png", name+"-mega.png"))
+
+    return filenames_pairs;
+
+def UpdatePokemon(url, path, is_shiny):
     if not exists(path):
-        url = base_url + pogo_filename
         if (is_shiny):
             insert_point = url.find(".icon.png")
             url = url[:insert_point] + ".s" + url[insert_point:]
@@ -53,45 +99,6 @@ def UpdatePokemon(base_url, pogo_filename, path, pkm_id, is_shiny):
     else:
         print("-", end="")
     sys.stdout.flush()
-
-def GetPokemonFilenamesPairs(pkm_id):
-    """ Gets a list of pairs of filenames.
-    The first filename is used to download the pokemon go graphic,
-    the second one is the filename saved on disk following the local
-    name convention.
-    """
-
-    MEGA_PKMS = { 3, 6, 9, 15, 18, 65, 80, 94, 115, 127, 130, 142, 150,
-            181, 208, 212, 214, 229, 248, 254, 260, 257, 282, 302, 303,
-            308, 306, 310, 319, 323, 334, 354, 359, 362, 373, 376, 380,
-            384, 381, 428, 445, 448, 460, 475, 531, 719 }
-    ALOLA_FORM_PKMS = { 19, 20, 26, 27, 28, 37, 38, 50, 51, 52, 53, 74, 75,
-            76, 88, 89, 103, 105 }
-    GALARIAN_FORM_PKMS = { 52, 77, 78, 79, 80, 83, 110, 122, 144, 145, 146,
-            199, 222, 263, 264, 554, 562, 618 }
-    HISUIAN_FORM_PKMS = { 58, 59, 100, 101, 157, 211, 215, 503, 549, 570,
-            571, 628, 705, 706, 713, 724 }
-
-    filenames_pairs = [];
-
-    pogo_filename = "pm" + str(pkm_id) + ".icon.png"
-    name = CleanStr(pokemon_names[str(pkm_id)]["name"])
-    filenames_pairs.append((pogo_filename, name + ".png"))
-
-    if (pkm_id in MEGA_PKMS):
-        pogo_filename = "pm" + str(pkm_id) + ".fMEGA.icon.png"
-        filenames_pairs.append((pogo_filename, name + "-mega.png"))
-    if (pkm_id in ALOLA_FORM_PKMS):
-        pogo_filename = "pm" + str(pkm_id) + ".fALOLA.icon.png"
-        filenames_pairs.append((pogo_filename, name + "-alola.png"))
-    if (pkm_id in GALARIAN_FORM_PKMS):
-        pogo_filename = "pm" + str(pkm_id) + ".fGALARIAN.icon.png"
-        filenames_pairs.append((pogo_filename, name + "-galar.png"))
-    if (pkm_id in HISUIAN_FORM_PKMS):
-        pogo_filename = "pm" + str(pkm_id) + ".fHISUIAN.icon.png"
-        filenames_pairs.append((pogo_filename, name + "-hisuian.png"))
-
-    return filenames_pairs
 
 def CleanStr(string):
     return ("".join(filter(str.isalnum, string.lower())))
