@@ -1659,6 +1659,35 @@
     {
         "id": 25,
         "name": "Pikachu",
+        "form": "Normal",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge",
+            "Fly"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
         "form": "Flying_5th_anniv",
         "types": [
             "Electric"
@@ -1738,6 +1767,31 @@
         "elite_cm": [
             "Surf",
             "Thunder"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "form": "Normal",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -19905,6 +19959,19 @@
         ],
         "shadow": false,
         "shadow_released": false,
+        "mega": [
+            {
+                "types": [
+                    "Dragon",
+                    "Flying"
+                ],
+                "stats": {
+                    "baseStamina": 227,
+                    "baseAttack": 377,
+                    "baseDefense": 210
+                }
+            }
+        ],
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
     },
@@ -34684,7 +34751,11 @@
             "Dragon",
             "Ground"
         ],
-        "stats": {},
+        "stats": {
+            "baseStamina": 239,
+            "baseAttack": 203,
+            "baseDefense": 232
+        },
         "fm": [
             "Dragon Tail",
             "Bite",
@@ -34697,8 +34768,158 @@
             "Hyper Beam",
             "Bulldoze"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": false
+    },
+    {
+        "id": 718,
+        "name": "Zygarde",
+        "form": "Complete",
+        "types": [
+            "Dragon",
+            "Ground"
+        ],
+        "stats": {
+            "baseStamina": 389,
+            "baseAttack": 184,
+            "baseDefense": 207
+        },
+        "fm": [
+            "Dragon Tail",
+            "Bite",
+            "Zen Headbutt"
+        ],
+        "cm": [
+            "Outrage",
+            "Earthquake",
+            "Crunch",
+            "Hyper Beam",
+            "Bulldoze"
+        ],
+        "shadow": true,
+        "shadow_released": true,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": false
+    },
+    {
+        "id": 718,
+        "name": "Zygarde",
+        "form": "Complete_fifty_percent",
+        "types": [
+            "Dragon",
+            "Ground"
+        ],
+        "stats": {
+            "baseStamina": 239,
+            "baseAttack": 203,
+            "baseDefense": 232
+        },
+        "fm": [
+            "Dragon Tail",
+            "Bite",
+            "Zen Headbutt"
+        ],
+        "cm": [
+            "Outrage",
+            "Earthquake",
+            "Crunch",
+            "Hyper Beam",
+            "Bulldoze"
+        ],
+        "shadow": true,
+        "shadow_released": true,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": false
+    },
+    {
+        "id": 718,
+        "name": "Zygarde",
+        "form": "Complete_ten_percent",
+        "types": [
+            "Dragon",
+            "Ground"
+        ],
+        "stats": {
+            "baseStamina": 144,
+            "baseAttack": 205,
+            "baseDefense": 173
+        },
+        "fm": [
+            "Dragon Tail",
+            "Bite",
+            "Zen Headbutt"
+        ],
+        "cm": [
+            "Outrage",
+            "Earthquake",
+            "Crunch",
+            "Hyper Beam",
+            "Bulldoze"
+        ],
+        "shadow": true,
+        "shadow_released": true,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": false
+    },
+    {
+        "id": 718,
+        "name": "Zygarde",
+        "form": "Fifty_percent",
+        "types": [
+            "Dragon",
+            "Ground"
+        ],
+        "stats": {
+            "baseStamina": 239,
+            "baseAttack": 203,
+            "baseDefense": 232
+        },
+        "fm": [
+            "Dragon Tail",
+            "Bite",
+            "Zen Headbutt"
+        ],
+        "cm": [
+            "Outrage",
+            "Earthquake",
+            "Crunch",
+            "Hyper Beam",
+            "Bulldoze"
+        ],
+        "shadow": true,
+        "shadow_released": true,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": false
+    },
+    {
+        "id": 718,
+        "name": "Zygarde",
+        "form": "Ten_percent",
+        "types": [
+            "Dragon",
+            "Ground"
+        ],
+        "stats": {
+            "baseStamina": 144,
+            "baseAttack": 205,
+            "baseDefense": 173
+        },
+        "fm": [
+            "Dragon Tail",
+            "Bite",
+            "Zen Headbutt"
+        ],
+        "cm": [
+            "Outrage",
+            "Earthquake",
+            "Crunch",
+            "Hyper Beam",
+            "Bulldoze"
+        ],
+        "shadow": true,
+        "shadow_released": true,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": false
     },
