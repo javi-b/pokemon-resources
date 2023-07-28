@@ -2174,6 +2174,38 @@
     {
         "id": 25,
         "name": "Pikachu",
+        "form": "Normal",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "elite_cm": [
+            "Surf",
+            "Thunder"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
         "form": "Winter_2020",
         "types": [
             "Electric"
@@ -34095,7 +34127,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 704,
@@ -34771,7 +34803,7 @@
         "shadow": true,
         "shadow_released": true,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": true
     },
     {
         "id": 718,
@@ -34801,7 +34833,7 @@
         "shadow": true,
         "shadow_released": true,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": true
     },
     {
         "id": 718,
@@ -34891,7 +34923,7 @@
         "shadow": true,
         "shadow_released": true,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": true
     },
     {
         "id": 718,
@@ -34921,7 +34953,7 @@
         "shadow": true,
         "shadow_released": true,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": true
     },
     {
         "id": 719,
@@ -34947,6 +34979,19 @@
         ],
         "shadow": false,
         "shadow_released": false,
+        "mega": [
+            {
+                "types": [
+                    "Rock",
+                    "Fairy"
+                ],
+                "stats": {
+                    "baseStamina": 137,
+                    "baseAttack": 342,
+                    "baseDefense": 235
+                }
+            }
+        ],
         "class": "POKEMON_CLASS_MYTHIC",
         "released": false
     },
@@ -36533,7 +36578,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 770,
@@ -36559,7 +36604,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 771,
@@ -37352,7 +37397,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 776,
@@ -37380,7 +37425,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 777,
