@@ -657,6 +657,15 @@
         "energy_delta": 18
     },
     {
+        "name": "Water Shuriken",
+        "type": "Water",
+        "power": 10.0,
+        "duration": 1100,
+        "damage_window_start": 1000,
+        "damage_window_end": 1100,
+        "energy_delta": 15
+    },
+    {
         "name": "Leafage",
         "type": "Grass",
         "power": 9.0,
@@ -664,5 +673,14 @@
         "damage_window_start": 400,
         "damage_window_end": 900,
         "energy_delta": 6
+    },
+    {
+        "name": "387",
+        "type": "Fairy",
+        "power": 20.0,
+        "duration": 1500,
+        "damage_window_start": 1000,
+        "damage_window_end": 1500,
+        "energy_delta": 14
     }
 ]

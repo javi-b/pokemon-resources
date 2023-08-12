@@ -1934,7 +1934,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 25,
@@ -1966,7 +1966,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 25,
@@ -1998,7 +1998,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 25,
@@ -2030,7 +2030,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 25,
@@ -4359,6 +4359,9 @@
             "Power Up Punch",
             "Scald"
         ],
+        "elite_fm": [
+            "Counter"
+        ],
         "elite_cm": [
             "Submission"
         ],
@@ -4390,6 +4393,9 @@
             "Ice Punch",
             "Power Up Punch",
             "Scald"
+        ],
+        "elite_fm": [
+            "Counter"
         ],
         "elite_cm": [
             "Submission"
@@ -9159,7 +9165,7 @@
                 }
             }
         ],
-        "released": false
+        "released": true
     },
     {
         "id": 143,
@@ -11147,7 +11153,8 @@
             "Weather Ball Water"
         ],
         "elite_cm": [
-            "Earthquake"
+            "Earthquake",
+            "Ice Beam"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -11176,7 +11183,8 @@
             "Weather Ball Water"
         ],
         "elite_cm": [
-            "Earthquake"
+            "Earthquake",
+            "Ice Beam"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -24043,7 +24051,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 479,
@@ -34993,7 +35001,7 @@
             }
         ],
         "class": "POKEMON_CLASS_MYTHIC",
-        "released": false
+        "released": true
     },
     {
         "id": 720,
@@ -36500,7 +36508,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 767,

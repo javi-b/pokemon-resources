@@ -1816,5 +1816,14 @@
         "damage_window_start": 1300,
         "damage_window_end": 2800,
         "energy_delta": -33
+    },
+    {
+        "name": "389",
+        "type": "Flying",
+        "power": 85.0,
+        "duration": 2000,
+        "damage_window_start": 1500,
+        "damage_window_end": 1900,
+        "energy_delta": -50
     }
 ]
