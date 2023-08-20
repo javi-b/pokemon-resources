@@ -30754,13 +30754,17 @@
         },
         "fm": [
             "Feint Attack",
-            "Bubble"
+            "Bubble",
+            "Water Shuriken"
         ],
         "cm": [
             "Night Slash",
             "Aerial Ace",
             "Surf",
             "Hydro Pump"
+        ],
+        "elite_cm": [
+            "Hydro Cannon"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -34748,6 +34752,9 @@
             "Giga Impact",
             "Thunder"
         ],
+        "elite_fm": [
+            "387"
+        ],
         "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -34777,6 +34784,9 @@
             "Focus Blast",
             "Hyper Beam",
             "Psychic"
+        ],
+        "elite_cm": [
+            "389"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -41660,6 +41670,2442 @@
         "released": true
     },
     {
+        "id": 906,
+        "name": "Sprigatito",
+        "form": "Normal",
+        "types": [
+            "Grass"
+        ],
+        "stats": {
+            "baseStamina": 120,
+            "baseAttack": 116,
+            "baseDefense": 99
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 907,
+        "name": "Floragato",
+        "form": "Normal",
+        "types": [
+            "Grass"
+        ],
+        "stats": {
+            "baseStamina": 156,
+            "baseAttack": 157,
+            "baseDefense": 128
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 908,
+        "name": "Meowscarada",
+        "form": "Normal",
+        "types": [
+            "Grass",
+            "Dark"
+        ],
+        "stats": {
+            "baseStamina": 183,
+            "baseAttack": 233,
+            "baseDefense": 153
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 909,
+        "name": "Fuecoco",
+        "form": "Normal",
+        "types": [
+            "Fire"
+        ],
+        "stats": {
+            "baseStamina": 167,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 910,
+        "name": "Crocalor",
+        "form": "Normal",
+        "types": [
+            "Fire"
+        ],
+        "stats": {
+            "baseStamina": 191,
+            "baseAttack": 162,
+            "baseDefense": 134
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 911,
+        "name": "Skeledirge",
+        "form": "Normal",
+        "types": [
+            "Fire",
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 232,
+            "baseAttack": 207,
+            "baseDefense": 178
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 912,
+        "name": "Quaxly",
+        "form": "Normal",
+        "types": [
+            "Water"
+        ],
+        "stats": {
+            "baseStamina": 146,
+            "baseAttack": 120,
+            "baseDefense": 86
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 913,
+        "name": "Quaxwell",
+        "form": "Normal",
+        "types": [
+            "Water"
+        ],
+        "stats": {
+            "baseStamina": 172,
+            "baseAttack": 162,
+            "baseDefense": 123
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 914,
+        "name": "Quaquaval",
+        "form": "Normal",
+        "types": [
+            "Water",
+            "Fighting"
+        ],
+        "stats": {
+            "baseStamina": 198,
+            "baseAttack": 236,
+            "baseDefense": 159
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 915,
+        "name": "Lechonk",
+        "form": "Normal",
+        "types": [
+            "Normal"
+        ],
+        "stats": {
+            "baseStamina": 144,
+            "baseAttack": 81,
+            "baseDefense": 79
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 916,
+        "name": "Oinkologne",
+        "form": "Normal",
+        "types": [
+            "Normal"
+        ],
+        "stats": {
+            "baseStamina": 242,
+            "baseAttack": 186,
+            "baseDefense": 153
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 916,
+        "name": "Oinkologne",
+        "form": "Female",
+        "types": [
+            "Normal"
+        ],
+        "stats": {
+            "baseStamina": 251,
+            "baseAttack": 169,
+            "baseDefense": 162
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 916,
+        "name": "Oinkologne",
+        "form": "Normal",
+        "types": [
+            "Normal"
+        ],
+        "stats": {
+            "baseStamina": 242,
+            "baseAttack": 186,
+            "baseDefense": 153
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 917,
+        "name": "Tarountula",
+        "form": "Normal",
+        "types": [
+            "Bug"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 70,
+            "baseDefense": 77
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 918,
+        "name": "Spidops",
+        "form": "Normal",
+        "types": [
+            "Bug"
+        ],
+        "stats": {
+            "baseStamina": 155,
+            "baseAttack": 139,
+            "baseDefense": 166
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 919,
+        "name": "Nymble",
+        "form": "Normal",
+        "types": [
+            "Bug"
+        ],
+        "stats": {
+            "baseStamina": 107,
+            "baseAttack": 81,
+            "baseDefense": 65
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 920,
+        "name": "Lokix",
+        "form": "Normal",
+        "types": [
+            "Bug",
+            "Dark"
+        ],
+        "stats": {
+            "baseStamina": 174,
+            "baseAttack": 199,
+            "baseDefense": 144
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 921,
+        "name": "Pawmi",
+        "form": "Normal",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 128,
+            "baseAttack": 95,
+            "baseDefense": 45
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 922,
+        "name": "Pawmo",
+        "form": "Normal",
+        "types": [
+            "Electric",
+            "Fighting"
+        ],
+        "stats": {
+            "baseStamina": 155,
+            "baseAttack": 147,
+            "baseDefense": 82
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 923,
+        "name": "Pawmot",
+        "form": "Normal",
+        "types": [
+            "Electric",
+            "Fighting"
+        ],
+        "stats": {
+            "baseStamina": 172,
+            "baseAttack": 232,
+            "baseDefense": 141
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 924,
+        "name": "Tandemaus",
+        "form": "Normal",
+        "types": [
+            "Normal"
+        ],
+        "stats": {
+            "baseStamina": 137,
+            "baseAttack": 98,
+            "baseDefense": 90
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 925,
+        "name": "Maushold",
+        "form": "Normal",
+        "types": [
+            "Normal"
+        ],
+        "stats": {
+            "baseStamina": 179,
+            "baseAttack": 159,
+            "baseDefense": 157
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 925,
+        "name": "Maushold",
+        "form": "Family_of_four",
+        "types": [
+            "Normal"
+        ],
+        "stats": {
+            "baseStamina": 179,
+            "baseAttack": 159,
+            "baseDefense": 157
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 925,
+        "name": "Maushold",
+        "form": "Family_of_three",
+        "types": [
+            "Normal"
+        ],
+        "stats": {
+            "baseStamina": 179,
+            "baseAttack": 159,
+            "baseDefense": 157
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 926,
+        "name": "Fidough",
+        "form": "Normal",
+        "types": [
+            "Fairy"
+        ],
+        "stats": {
+            "baseStamina": 114,
+            "baseAttack": 102,
+            "baseDefense": 126
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 927,
+        "name": "Dachsbun",
+        "form": "Normal",
+        "types": [
+            "Fairy"
+        ],
+        "stats": {
+            "baseStamina": 149,
+            "baseAttack": 159,
+            "baseDefense": 212
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 928,
+        "name": "Smoliv",
+        "form": "Normal",
+        "types": [
+            "Grass",
+            "Normal"
+        ],
+        "stats": {
+            "baseStamina": 121,
+            "baseAttack": 100,
+            "baseDefense": 89
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 929,
+        "name": "Dolliv",
+        "form": "Normal",
+        "types": [
+            "Grass",
+            "Normal"
+        ],
+        "stats": {
+            "baseStamina": 141,
+            "baseAttack": 137,
+            "baseDefense": 131
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 930,
+        "name": "Arboliva",
+        "form": "Normal",
+        "types": [
+            "Grass",
+            "Normal"
+        ],
+        "stats": {
+            "baseStamina": 186,
+            "baseAttack": 219,
+            "baseDefense": 189
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 931,
+        "name": "Squawkabilly",
+        "form": "Normal",
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "stats": {
+            "baseStamina": 193,
+            "baseAttack": 185,
+            "baseDefense": 105
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 931,
+        "name": "Squawkabilly",
+        "form": "Blue",
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "stats": {
+            "baseStamina": 193,
+            "baseAttack": 185,
+            "baseDefense": 105
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 931,
+        "name": "Squawkabilly",
+        "form": "Green",
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "stats": {
+            "baseStamina": 193,
+            "baseAttack": 185,
+            "baseDefense": 105
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 931,
+        "name": "Squawkabilly",
+        "form": "White",
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "stats": {
+            "baseStamina": 193,
+            "baseAttack": 185,
+            "baseDefense": 105
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 931,
+        "name": "Squawkabilly",
+        "form": "Yellow",
+        "types": [
+            "Normal",
+            "Flying"
+        ],
+        "stats": {
+            "baseStamina": 193,
+            "baseAttack": 185,
+            "baseDefense": 105
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 932,
+        "name": "Nacli",
+        "form": "Normal",
+        "types": [
+            "Rock"
+        ],
+        "stats": {
+            "baseStamina": 146,
+            "baseAttack": 95,
+            "baseDefense": 108
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 933,
+        "name": "Naclstack",
+        "form": "Normal",
+        "types": [
+            "Rock"
+        ],
+        "stats": {
+            "baseStamina": 155,
+            "baseAttack": 105,
+            "baseDefense": 160
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 934,
+        "name": "Garganacl",
+        "form": "Normal",
+        "types": [
+            "Rock"
+        ],
+        "stats": {
+            "baseStamina": 225,
+            "baseAttack": 171,
+            "baseDefense": 212
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 935,
+        "name": "Charcadet",
+        "form": "Normal",
+        "types": [
+            "Fire"
+        ],
+        "stats": {
+            "baseStamina": 120,
+            "baseAttack": 92,
+            "baseDefense": 74
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 936,
+        "name": "Armarouge",
+        "form": "Normal",
+        "types": [
+            "Fire",
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 198,
+            "baseAttack": 234,
+            "baseDefense": 185
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 937,
+        "name": "Ceruledge",
+        "form": "Normal",
+        "types": [
+            "Fire",
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 181,
+            "baseAttack": 239,
+            "baseDefense": 189
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 938,
+        "name": "Tadbulb",
+        "form": "Normal",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 156,
+            "baseAttack": 104,
+            "baseDefense": 73
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 939,
+        "name": "Bellibolt",
+        "form": "Normal",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 240,
+            "baseAttack": 184,
+            "baseDefense": 165
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 940,
+        "name": "Wattrel",
+        "form": "Normal",
+        "types": [
+            "Electric",
+            "Flying"
+        ],
+        "stats": {
+            "baseStamina": 120,
+            "baseAttack": 105,
+            "baseDefense": 75
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 941,
+        "name": "Kilowattrel",
+        "form": "Normal",
+        "types": [
+            "Electric",
+            "Flying"
+        ],
+        "stats": {
+            "baseStamina": 172,
+            "baseAttack": 221,
+            "baseDefense": 132
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 942,
+        "name": "Maschiff",
+        "form": "Normal",
+        "types": [
+            "Dark"
+        ],
+        "stats": {
+            "baseStamina": 155,
+            "baseAttack": 140,
+            "baseDefense": 108
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 943,
+        "name": "Mabosstiff",
+        "form": "Normal",
+        "types": [
+            "Dark"
+        ],
+        "stats": {
+            "baseStamina": 190,
+            "baseAttack": 230,
+            "baseDefense": 168
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 944,
+        "name": "Shroodle",
+        "form": "Normal",
+        "types": [
+            "Poison",
+            "Normal"
+        ],
+        "stats": {
+            "baseStamina": 120,
+            "baseAttack": 124,
+            "baseDefense": 70
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 945,
+        "name": "Grafaiai",
+        "form": "Normal",
+        "types": [
+            "Poison",
+            "Normal"
+        ],
+        "stats": {
+            "baseStamina": 160,
+            "baseAttack": 199,
+            "baseDefense": 149
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 946,
+        "name": "Bramblin",
+        "form": "Normal",
+        "types": [
+            "Grass",
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 120,
+            "baseAttack": 121,
+            "baseDefense": 64
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 947,
+        "name": "Brambleghast",
+        "form": "Normal",
+        "types": [
+            "Grass",
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 146,
+            "baseAttack": 228,
+            "baseDefense": 144
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 948,
+        "name": "Toedscool",
+        "form": "Normal",
+        "types": [
+            "Ground",
+            "Grass"
+        ],
+        "stats": {
+            "baseStamina": 120,
+            "baseAttack": 97,
+            "baseDefense": 149
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 949,
+        "name": "Toedscruel",
+        "form": "Normal",
+        "types": [
+            "Ground",
+            "Grass"
+        ],
+        "stats": {
+            "baseStamina": 190,
+            "baseAttack": 166,
+            "baseDefense": 209
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 950,
+        "name": "Klawf",
+        "form": "Normal",
+        "types": [
+            "Rock"
+        ],
+        "stats": {
+            "baseStamina": 172,
+            "baseAttack": 184,
+            "baseDefense": 185
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 951,
+        "name": "Capsakid",
+        "form": "Normal",
+        "types": [
+            "Grass"
+        ],
+        "stats": {
+            "baseStamina": 137,
+            "baseAttack": 118,
+            "baseDefense": 76
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 952,
+        "name": "Scovillain",
+        "form": "Normal",
+        "types": [
+            "Grass",
+            "Fire"
+        ],
+        "stats": {
+            "baseStamina": 163,
+            "baseAttack": 216,
+            "baseDefense": 130
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 953,
+        "name": "Rellor",
+        "form": "Normal",
+        "types": [
+            "Bug"
+        ],
+        "stats": {
+            "baseStamina": 121,
+            "baseAttack": 86,
+            "baseDefense": 108
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 954,
+        "name": "Rabsca",
+        "form": "Normal",
+        "types": [
+            "Bug",
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 181,
+            "baseAttack": 201,
+            "baseDefense": 178
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 955,
+        "name": "Flittle",
+        "form": "Normal",
+        "types": [
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 102,
+            "baseAttack": 105,
+            "baseDefense": 60
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 956,
+        "name": "Espathra",
+        "form": "Normal",
+        "types": [
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 216,
+            "baseAttack": 204,
+            "baseDefense": 127
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 957,
+        "name": "Tinkatink",
+        "form": "Normal",
+        "types": [
+            "Fairy",
+            "Steel"
+        ],
+        "stats": {
+            "baseStamina": 137,
+            "baseAttack": 85,
+            "baseDefense": 110
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 958,
+        "name": "Tinkatuff",
+        "form": "Normal",
+        "types": [
+            "Fairy",
+            "Steel"
+        ],
+        "stats": {
+            "baseStamina": 163,
+            "baseAttack": 109,
+            "baseDefense": 145
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 959,
+        "name": "Tinkaton",
+        "form": "Normal",
+        "types": [
+            "Fairy",
+            "Steel"
+        ],
+        "stats": {
+            "baseStamina": 198,
+            "baseAttack": 155,
+            "baseDefense": 196
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 960,
+        "name": "Wiglett",
+        "form": "Normal",
+        "types": [
+            "Water"
+        ],
+        "stats": {
+            "baseStamina": 67,
+            "baseAttack": 109,
+            "baseDefense": 52
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 961,
+        "name": "Wugtrio",
+        "form": "Normal",
+        "types": [
+            "Water"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 205,
+            "baseDefense": 136
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 962,
+        "name": "Bombirdier",
+        "form": "Normal",
+        "types": [
+            "Flying",
+            "Dark"
+        ],
+        "stats": {
+            "baseStamina": 172,
+            "baseAttack": 198,
+            "baseDefense": 172
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 963,
+        "name": "Finizen",
+        "form": "Normal",
+        "types": [
+            "Water"
+        ],
+        "stats": {
+            "baseStamina": 172,
+            "baseAttack": 90,
+            "baseDefense": 80
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 964,
+        "name": "Palafin",
+        "form": "Normal",
+        "types": [
+            "Water"
+        ],
+        "stats": {
+            "baseStamina": 225,
+            "baseAttack": 143,
+            "baseDefense": 144
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 964,
+        "name": "Palafin",
+        "form": "Hero",
+        "types": [
+            "Water"
+        ],
+        "stats": {
+            "baseStamina": 225,
+            "baseAttack": 322,
+            "baseDefense": 196
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 964,
+        "name": "Palafin",
+        "form": "Zero",
+        "types": [
+            "Water"
+        ],
+        "stats": {
+            "baseStamina": 225,
+            "baseAttack": 143,
+            "baseDefense": 144
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 965,
+        "name": "Varoom",
+        "form": "Normal",
+        "types": [
+            "Steel",
+            "Poison"
+        ],
+        "stats": {
+            "baseStamina": 128,
+            "baseAttack": 123,
+            "baseDefense": 107
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 966,
+        "name": "Revavroom",
+        "form": "Normal",
+        "types": [
+            "Steel",
+            "Poison"
+        ],
+        "stats": {
+            "baseStamina": 190,
+            "baseAttack": 229,
+            "baseDefense": 168
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 967,
+        "name": "Cyclizar",
+        "form": "Normal",
+        "types": [
+            "Dragon",
+            "Normal"
+        ],
+        "stats": {
+            "baseStamina": 172,
+            "baseAttack": 205,
+            "baseDefense": 142
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 968,
+        "name": "Orthworm",
+        "form": "Normal",
+        "types": [
+            "Steel"
+        ],
+        "stats": {
+            "baseStamina": 172,
+            "baseAttack": 161,
+            "baseDefense": 219
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 969,
+        "name": "Glimmet",
+        "form": "Normal",
+        "types": [
+            "Rock",
+            "Poison"
+        ],
+        "stats": {
+            "baseStamina": 134,
+            "baseAttack": 187,
+            "baseDefense": 104
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 970,
+        "name": "Glimmora",
+        "form": "Normal",
+        "types": [
+            "Rock",
+            "Poison"
+        ],
+        "stats": {
+            "baseStamina": 195,
+            "baseAttack": 246,
+            "baseDefense": 177
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 971,
+        "name": "Greavard",
+        "form": "Normal",
+        "types": [
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 137,
+            "baseAttack": 105,
+            "baseDefense": 106
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 972,
+        "name": "Houndstone",
+        "form": "Normal",
+        "types": [
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 176,
+            "baseAttack": 186,
+            "baseDefense": 195
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 973,
+        "name": "Flamigo",
+        "form": "Normal",
+        "types": [
+            "Flying",
+            "Fighting"
+        ],
+        "stats": {
+            "baseStamina": 193,
+            "baseAttack": 227,
+            "baseDefense": 145
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 974,
+        "name": "Cetoddle",
+        "form": "Normal",
+        "types": [
+            "Ice"
+        ],
+        "stats": {
+            "baseStamina": 239,
+            "baseAttack": 119,
+            "baseDefense": 80
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 975,
+        "name": "Cetitan",
+        "form": "Normal",
+        "types": [
+            "Ice"
+        ],
+        "stats": {
+            "baseStamina": 347,
+            "baseAttack": 208,
+            "baseDefense": 123
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 976,
+        "name": "Veluza",
+        "form": "Normal",
+        "types": [
+            "Water",
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 207,
+            "baseAttack": 196,
+            "baseDefense": 139
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 977,
+        "name": "Dondozo",
+        "form": "Normal",
+        "types": [
+            "Water"
+        ],
+        "stats": {
+            "baseStamina": 312,
+            "baseAttack": 176,
+            "baseDefense": 178
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 978,
+        "name": "Tatsugiri",
+        "form": "Normal",
+        "types": [
+            "Dragon",
+            "Water"
+        ],
+        "stats": {
+            "baseStamina": 169,
+            "baseAttack": 226,
+            "baseDefense": 166
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 978,
+        "name": "Tatsugiri",
+        "form": "Curly",
+        "types": [
+            "Dragon",
+            "Water"
+        ],
+        "stats": {
+            "baseStamina": 169,
+            "baseAttack": 226,
+            "baseDefense": 166
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 978,
+        "name": "Tatsugiri",
+        "form": "Droopy",
+        "types": [
+            "Dragon",
+            "Water"
+        ],
+        "stats": {
+            "baseStamina": 169,
+            "baseAttack": 226,
+            "baseDefense": 166
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 978,
+        "name": "Tatsugiri",
+        "form": "Stretchy",
+        "types": [
+            "Dragon",
+            "Water"
+        ],
+        "stats": {
+            "baseStamina": 169,
+            "baseAttack": 226,
+            "baseDefense": 166
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 979,
+        "name": "Annihilape",
+        "form": "Normal",
+        "types": [
+            "Fighting",
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 242,
+            "baseAttack": 220,
+            "baseDefense": 178
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 980,
+        "name": "Clodsire",
+        "form": "Normal",
+        "types": [
+            "Poison",
+            "Ground"
+        ],
+        "stats": {
+            "baseStamina": 277,
+            "baseAttack": 127,
+            "baseDefense": 151
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 981,
+        "name": "Farigiraf",
+        "form": "Normal",
+        "types": [
+            "Normal",
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 260,
+            "baseAttack": 209,
+            "baseDefense": 136
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 982,
+        "name": "Dudunsparce",
+        "form": "Normal",
+        "types": [
+            "Normal"
+        ],
+        "stats": {
+            "baseStamina": 268,
+            "baseAttack": 188,
+            "baseDefense": 150
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 982,
+        "name": "Dudunsparce",
+        "form": "Three",
+        "types": [
+            "Normal"
+        ],
+        "stats": {
+            "baseStamina": 268,
+            "baseAttack": 188,
+            "baseDefense": 150
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 982,
+        "name": "Dudunsparce",
+        "form": "Two",
+        "types": [
+            "Normal"
+        ],
+        "stats": {
+            "baseStamina": 268,
+            "baseAttack": 188,
+            "baseDefense": 150
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 983,
+        "name": "Kingambit",
+        "form": "Normal",
+        "types": [
+            "Dark",
+            "Steel"
+        ],
+        "stats": {
+            "baseStamina": 225,
+            "baseAttack": 238,
+            "baseDefense": 203
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 984,
+        "name": "Great Tusk",
+        "form": "Normal",
+        "types": [
+            "Ground",
+            "Fighting"
+        ],
+        "stats": {
+            "baseStamina": 251,
+            "baseAttack": 249,
+            "baseDefense": 209
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 985,
+        "name": "Scream Tail",
+        "form": "Normal",
+        "types": [
+            "Fairy",
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 251,
+            "baseAttack": 139,
+            "baseDefense": 234
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 986,
+        "name": "Brute Bonnet",
+        "form": "Normal",
+        "types": [
+            "Grass",
+            "Dark"
+        ],
+        "stats": {
+            "baseStamina": 244,
+            "baseAttack": 232,
+            "baseDefense": 190
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 987,
+        "name": "Flutter Mane",
+        "form": "Normal",
+        "types": [
+            "Ghost",
+            "Fairy"
+        ],
+        "stats": {
+            "baseStamina": 146,
+            "baseAttack": 280,
+            "baseDefense": 235
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 988,
+        "name": "Slither Wing",
+        "form": "Normal",
+        "types": [
+            "Bug",
+            "Fighting"
+        ],
+        "stats": {
+            "baseStamina": 198,
+            "baseAttack": 261,
+            "baseDefense": 193
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 989,
+        "name": "Sandy Shocks",
+        "form": "Normal",
+        "types": [
+            "Electric",
+            "Ground"
+        ],
+        "stats": {
+            "baseStamina": 198,
+            "baseAttack": 244,
+            "baseDefense": 195
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 990,
+        "name": "Iron Treads",
+        "form": "Normal",
+        "types": [
+            "Ground",
+            "Steel"
+        ],
+        "stats": {
+            "baseStamina": 207,
+            "baseAttack": 227,
+            "baseDefense": 216
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 991,
+        "name": "Iron Bundle",
+        "form": "Normal",
+        "types": [
+            "Ice",
+            "Water"
+        ],
+        "stats": {
+            "baseStamina": 148,
+            "baseAttack": 266,
+            "baseDefense": 211
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 992,
+        "name": "Iron Hands",
+        "form": "Normal",
+        "types": [
+            "Fighting",
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 319,
+            "baseAttack": 245,
+            "baseDefense": 177
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 993,
+        "name": "Iron Jugulis",
+        "form": "Normal",
+        "types": [
+            "Dark",
+            "Flying"
+        ],
+        "stats": {
+            "baseStamina": 214,
+            "baseAttack": 249,
+            "baseDefense": 179
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 994,
+        "name": "Iron Moth",
+        "form": "Normal",
+        "types": [
+            "Fire",
+            "Poison"
+        ],
+        "stats": {
+            "baseStamina": 190,
+            "baseAttack": 281,
+            "baseDefense": 196
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 995,
+        "name": "Iron Thorns",
+        "form": "Normal",
+        "types": [
+            "Rock",
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 225,
+            "baseAttack": 250,
+            "baseDefense": 200
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 996,
+        "name": "Frigibax",
+        "form": "Normal",
+        "types": [
+            "Dragon",
+            "Ice"
+        ],
+        "stats": {
+            "baseStamina": 163,
+            "baseAttack": 134,
+            "baseDefense": 86
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 997,
+        "name": "Arctibax",
+        "form": "Normal",
+        "types": [
+            "Dragon",
+            "Ice"
+        ],
+        "stats": {
+            "baseStamina": 207,
+            "baseAttack": 173,
+            "baseDefense": 128
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 998,
+        "name": "Baxcalibur",
+        "form": "Normal",
+        "types": [
+            "Dragon",
+            "Ice"
+        ],
+        "stats": {
+            "baseStamina": 251,
+            "baseAttack": 280,
+            "baseDefense": 184
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
         "id": 999,
         "name": "Gimmighoul",
         "form": "Normal",
@@ -41706,5 +44152,243 @@
         "shadow": false,
         "shadow_released": false,
         "released": true
+    },
+    {
+        "id": 1001,
+        "name": "Wo-Chien",
+        "form": "Normal",
+        "types": [
+            "Dark",
+            "Grass"
+        ],
+        "stats": {
+            "baseStamina": 198,
+            "baseAttack": 186,
+            "baseDefense": 242
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": false
+    },
+    {
+        "id": 1002,
+        "name": "Chien-Pao",
+        "form": "Normal",
+        "types": [
+            "Dark",
+            "Ice"
+        ],
+        "stats": {
+            "baseStamina": 190,
+            "baseAttack": 261,
+            "baseDefense": 167
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": false
+    },
+    {
+        "id": 1003,
+        "name": "Ting-Lu",
+        "form": "Normal",
+        "types": [
+            "Dark",
+            "Ground"
+        ],
+        "stats": {
+            "baseStamina": 321,
+            "baseAttack": 194,
+            "baseDefense": 203
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": false
+    },
+    {
+        "id": 1004,
+        "name": "Chi-Yu",
+        "form": "Normal",
+        "types": [
+            "Dark",
+            "Fire"
+        ],
+        "stats": {
+            "baseStamina": 146,
+            "baseAttack": 269,
+            "baseDefense": 221
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": false
+    },
+    {
+        "id": 1005,
+        "name": "Roaring Moon",
+        "form": "Normal",
+        "types": [
+            "Dragon",
+            "Dark"
+        ],
+        "stats": {
+            "baseStamina": 233,
+            "baseAttack": 280,
+            "baseDefense": 196
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 1006,
+        "name": "Iron Valiant",
+        "form": "Normal",
+        "types": [
+            "Fairy",
+            "Fighting"
+        ],
+        "stats": {
+            "baseStamina": 179,
+            "baseAttack": 279,
+            "baseDefense": 171
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 1007,
+        "name": "Koraidon",
+        "form": "Normal",
+        "types": [
+            "Fighting",
+            "Dragon"
+        ],
+        "stats": {
+            "baseStamina": 205,
+            "baseAttack": 263,
+            "baseDefense": 223
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": false
+    },
+    {
+        "id": 1007,
+        "name": "Koraidon",
+        "form": "Apex",
+        "types": [
+            "Fighting",
+            "Dragon"
+        ],
+        "stats": {
+            "baseStamina": 205,
+            "baseAttack": 263,
+            "baseDefense": 223
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": false
+    },
+    {
+        "id": 1008,
+        "name": "Miraidon",
+        "form": "Normal",
+        "types": [
+            "Electric",
+            "Dragon"
+        ],
+        "stats": {
+            "baseStamina": 205,
+            "baseAttack": 263,
+            "baseDefense": 223
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": false
+    },
+    {
+        "id": 1008,
+        "name": "Miraidon",
+        "form": "Ultimate",
+        "types": [
+            "Electric",
+            "Dragon"
+        ],
+        "stats": {
+            "baseStamina": 205,
+            "baseAttack": 263,
+            "baseDefense": 223
+        },
+        "fm": [
+            "Splash"
+        ],
+        "cm": [
+            "Struggle"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": false
     }
 ]
