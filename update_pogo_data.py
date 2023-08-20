@@ -126,10 +126,7 @@ def AddMove(gm_obj, is_fast):
     gm_obj_s = gm_obj["data"]["moveSettings"]
 
     move_obj = {}
-    if isinstance(gm_obj_s["movementId"], str):
-        move_obj["name"] = CleanMove(gm_obj_s["movementId"], is_fast)
-    else:
-        move_obj["name"] = str(gm_obj_s["movementId"])
+    move_obj["name"] = CleanMove(gm_obj_s["movementId"], is_fast)
     move_obj["type"] = CleanType(gm_obj_s["pokemonType"])
     if "power" in gm_obj_s:
         move_obj["power"] = gm_obj_s["power"]
@@ -158,7 +155,10 @@ def CleanMoves(moves, is_fast):
     return clean_moves
 
 def CleanMove(move, is_fast):
-    return (move[:-5] if is_fast else move).replace("_", " ").title()
+    if isinstance(move, str):
+        return (move[:-5] if is_fast else move).replace("_", " ").title()
+    else:
+        return str(move);
 
 if __name__=="__main__":
     main()
