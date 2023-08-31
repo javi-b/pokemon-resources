@@ -41682,10 +41682,13 @@
             "baseDefense": 99
         },
         "fm": [
-            "Splash"
+            "Leafage",
+            "Charm"
         ],
         "cm": [
-            "Struggle"
+            "Grass Knot",
+            "Play Rough",
+            "Energy Ball"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -41704,10 +41707,13 @@
             "baseDefense": 128
         },
         "fm": [
-            "Splash"
+            "Leafage",
+            "Charm"
         ],
         "cm": [
-            "Struggle"
+            "Grass Knot",
+            "Play Rough",
+            "Energy Ball"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -41727,10 +41733,14 @@
             "baseDefense": 153
         },
         "fm": [
-            "Splash"
+            "Leafage",
+            "Charm"
         ],
         "cm": [
-            "Struggle"
+            "Grass Knot",
+            "Play Rough",
+            "Energy Ball",
+            "Night Slash"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -41749,10 +41759,13 @@
             "baseDefense": 96
         },
         "fm": [
-            "Splash"
+            "Incinerate",
+            "Bite"
         ],
         "cm": [
-            "Struggle"
+            "Flamethrower",
+            "Disarming Voice",
+            "Crunch"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -41771,10 +41784,13 @@
             "baseDefense": 134
         },
         "fm": [
-            "Splash"
+            "Incinerate",
+            "Bite"
         ],
         "cm": [
-            "Struggle"
+            "Flamethrower",
+            "Disarming Voice",
+            "Crunch"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -41794,10 +41810,14 @@
             "baseDefense": 178
         },
         "fm": [
-            "Splash"
+            "Incinerate",
+            "Bite"
         ],
         "cm": [
-            "Struggle"
+            "Flamethrower",
+            "Disarming Voice",
+            "Crunch",
+            "Shadow Ball"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -41816,10 +41836,13 @@
             "baseDefense": 86
         },
         "fm": [
-            "Splash"
+            "Water Gun",
+            "Wing Attack"
         ],
         "cm": [
-            "Struggle"
+            "Aqua Jet",
+            "Aerial Ace",
+            "Liquidation"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -41838,10 +41861,13 @@
             "baseDefense": 123
         },
         "fm": [
-            "Splash"
+            "Water Gun",
+            "Wing Attack"
         ],
         "cm": [
-            "Struggle"
+            "Aqua Jet",
+            "Aerial Ace",
+            "Liquidation"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -41861,10 +41887,14 @@
             "baseDefense": 159
         },
         "fm": [
-            "Splash"
+            "Water Gun",
+            "Wing Attack"
         ],
         "cm": [
-            "Struggle"
+            "Aqua Jet",
+            "Aerial Ace",
+            "Liquidation",
+            "Close Combat"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -41883,10 +41913,13 @@
             "baseDefense": 79
         },
         "fm": [
-            "Splash"
+            "Tackle",
+            "Take Down"
         ],
         "cm": [
-            "Struggle"
+            "Dig",
+            "392",
+            "Body Slam"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -41905,10 +41938,13 @@
             "baseDefense": 153
         },
         "fm": [
-            "Splash"
+            "Tackle",
+            "Take Down"
         ],
         "cm": [
-            "Struggle"
+            "Dig",
+            "392",
+            "Body Slam"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -41927,10 +41963,13 @@
             "baseDefense": 162
         },
         "fm": [
-            "Splash"
+            "Tackle",
+            "Take Down"
         ],
         "cm": [
-            "Struggle"
+            "Dig",
+            "392",
+            "Body Slam"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -41949,10 +41988,13 @@
             "baseDefense": 153
         },
         "fm": [
-            "Splash"
+            "Tackle",
+            "Take Down"
         ],
         "cm": [
-            "Struggle"
+            "Dig",
+            "392",
+            "Body Slam"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -41971,10 +42013,13 @@
             "baseDefense": 77
         },
         "fm": [
-            "Splash"
+            "Bug Bite",
+            "Struggle Bug"
         ],
         "cm": [
-            "Struggle"
+            "X Scissor",
+            "Grass Knot",
+            "Lunge"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -41993,10 +42038,14 @@
             "baseDefense": 166
         },
         "fm": [
-            "Splash"
+            "Bug Bite",
+            "Counter"
         ],
         "cm": [
-            "Struggle"
+            "X Scissor",
+            "Grass Knot",
+            "Lunge",
+            "Rock Tomb"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42015,10 +42064,13 @@
             "baseDefense": 65
         },
         "fm": [
-            "Splash"
+            "Bug Bite",
+            "Struggle Bug"
         ],
         "cm": [
-            "Struggle"
+            "X Scissor",
+            "392",
+            "Bug Buzz"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42038,10 +42090,14 @@
             "baseDefense": 144
         },
         "fm": [
-            "Splash"
+            "Bug Bite",
+            "Sucker Punch"
         ],
         "cm": [
-            "Struggle"
+            "X Scissor",
+            "392",
+            "Bug Buzz",
+            "Dark Pulse"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42060,10 +42116,13 @@
             "baseDefense": 45
         },
         "fm": [
-            "Splash"
+            "Spark",
+            "Charge Beam"
         ],
         "cm": [
-            "Struggle"
+            "Thunderbolt",
+            "Discharge",
+            "Wild Charge"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42083,10 +42142,13 @@
             "baseDefense": 82
         },
         "fm": [
-            "Splash"
+            "Spark",
+            "Charge Beam"
         ],
         "cm": [
-            "Struggle"
+            "Thunderbolt",
+            "Discharge",
+            "Wild Charge"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42106,10 +42168,15 @@
             "baseDefense": 141
         },
         "fm": [
-            "Splash"
+            "Spark",
+            "Charge Beam",
+            "Low Kick"
         ],
         "cm": [
-            "Struggle"
+            "Thunderbolt",
+            "Discharge",
+            "Wild Charge",
+            "Close Combat"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42128,10 +42195,14 @@
             "baseDefense": 90
         },
         "fm": [
-            "Splash"
+            "Take Down",
+            "Mud Shot",
+            "Bullet Seed"
         ],
         "cm": [
-            "Struggle"
+            "Swift",
+            "Play Rough",
+            "Crunch"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42150,10 +42221,14 @@
             "baseDefense": 157
         },
         "fm": [
-            "Splash"
+            "Take Down",
+            "Mud Shot",
+            "Bullet Seed"
         ],
         "cm": [
-            "Struggle"
+            "Swift",
+            "Play Rough",
+            "Crunch"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42172,10 +42247,14 @@
             "baseDefense": 157
         },
         "fm": [
-            "Splash"
+            "Take Down",
+            "Mud Shot",
+            "Bullet Seed"
         ],
         "cm": [
-            "Struggle"
+            "Swift",
+            "Play Rough",
+            "Crunch"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42194,10 +42273,14 @@
             "baseDefense": 157
         },
         "fm": [
-            "Splash"
+            "Take Down",
+            "Mud Shot",
+            "Bullet Seed"
         ],
         "cm": [
-            "Struggle"
+            "Swift",
+            "Play Rough",
+            "Crunch"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42216,10 +42299,13 @@
             "baseDefense": 126
         },
         "fm": [
-            "Splash"
+            "Charm",
+            "Bite"
         ],
         "cm": [
-            "Struggle"
+            "Body Slam",
+            "Play Rough",
+            "Psychic Fangs"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42238,10 +42324,13 @@
             "baseDefense": 212
         },
         "fm": [
-            "Splash"
+            "Charm",
+            "Bite"
         ],
         "cm": [
-            "Struggle"
+            "Body Slam",
+            "Play Rough",
+            "Psychic Fangs"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42261,10 +42350,13 @@
             "baseDefense": 89
         },
         "fm": [
-            "Splash"
+            "Razor Leaf",
+            "Tackle"
         ],
         "cm": [
-            "Struggle"
+            "Seed Bomb",
+            "Energy Ball",
+            "Earth Power"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42284,10 +42376,14 @@
             "baseDefense": 131
         },
         "fm": [
-            "Splash"
+            "Razor Leaf",
+            "Tackle",
+            "Magical Leaf"
         ],
         "cm": [
-            "Struggle"
+            "Seed Bomb",
+            "Energy Ball",
+            "Earth Power"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42307,10 +42403,14 @@
             "baseDefense": 189
         },
         "fm": [
-            "Splash"
+            "Razor Leaf",
+            "Tackle",
+            "Magical Leaf"
         ],
         "cm": [
-            "Struggle"
+            "Seed Bomb",
+            "Energy Ball",
+            "Earth Power"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42330,10 +42430,13 @@
             "baseDefense": 105
         },
         "fm": [
-            "Splash"
+            "Peck",
+            "Air Slash"
         ],
         "cm": [
-            "Struggle"
+            "Aerial Ace",
+            "Brave Bird",
+            "Fly"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42353,10 +42456,13 @@
             "baseDefense": 105
         },
         "fm": [
-            "Splash"
+            "Peck",
+            "Air Slash"
         ],
         "cm": [
-            "Struggle"
+            "Aerial Ace",
+            "Brave Bird",
+            "Fly"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42376,10 +42482,13 @@
             "baseDefense": 105
         },
         "fm": [
-            "Splash"
+            "Peck",
+            "Air Slash"
         ],
         "cm": [
-            "Struggle"
+            "Aerial Ace",
+            "Brave Bird",
+            "Fly"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42399,10 +42508,13 @@
             "baseDefense": 105
         },
         "fm": [
-            "Splash"
+            "Peck",
+            "Air Slash"
         ],
         "cm": [
-            "Struggle"
+            "Aerial Ace",
+            "Brave Bird",
+            "Fly"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42422,10 +42534,13 @@
             "baseDefense": 105
         },
         "fm": [
-            "Splash"
+            "Peck",
+            "Air Slash"
         ],
         "cm": [
-            "Struggle"
+            "Aerial Ace",
+            "Brave Bird",
+            "Fly"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42444,10 +42559,13 @@
             "baseDefense": 108
         },
         "fm": [
-            "Splash"
+            "Rock Throw",
+            "Mud Shot"
         ],
         "cm": [
-            "Struggle"
+            "Rock Blast",
+            "Rock Tomb",
+            "Ancient Power"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42466,10 +42584,13 @@
             "baseDefense": 160
         },
         "fm": [
-            "Splash"
+            "Smack Down",
+            "Mud Shot"
         ],
         "cm": [
-            "Struggle"
+            "Rock Blast",
+            "Rock Tomb",
+            "Ancient Power"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42488,10 +42609,13 @@
             "baseDefense": 212
         },
         "fm": [
-            "Splash"
+            "Smack Down",
+            "Mud Shot"
         ],
         "cm": [
-            "Struggle"
+            "Rock Slide",
+            "Rock Tomb",
+            "Ancient Power"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42510,10 +42634,13 @@
             "baseDefense": 74
         },
         "fm": [
-            "Splash"
+            "Ember",
+            "Incinerate"
         ],
         "cm": [
-            "Struggle"
+            "Flame Charge",
+            "Heat Wave",
+            "Flamethrower"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42533,10 +42660,14 @@
             "baseDefense": 185
         },
         "fm": [
-            "Splash"
+            "Ember",
+            "Incinerate"
         ],
         "cm": [
-            "Struggle"
+            "Flame Charge",
+            "Heat Wave",
+            "Flamethrower",
+            "Psyshock"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42556,10 +42687,14 @@
             "baseDefense": 189
         },
         "fm": [
-            "Splash"
+            "Ember",
+            "Incinerate"
         ],
         "cm": [
-            "Struggle"
+            "Flame Charge",
+            "Heat Wave",
+            "Flamethrower",
+            "Shadow Ball"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42578,10 +42713,13 @@
             "baseDefense": 73
         },
         "fm": [
-            "Splash"
+            "Thunder Shock",
+            "Water Gun"
         ],
         "cm": [
-            "Struggle"
+            "Parabolic Charge",
+            "Discharge",
+            "Zap Cannon"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42600,10 +42738,13 @@
             "baseDefense": 165
         },
         "fm": [
-            "Splash"
+            "Thunder Shock",
+            "Water Gun"
         ],
         "cm": [
-            "Struggle"
+            "Parabolic Charge",
+            "Discharge",
+            "Zap Cannon"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42623,10 +42764,13 @@
             "baseDefense": 75
         },
         "fm": [
-            "Splash"
+            "Thunder Shock",
+            "Peck"
         ],
         "cm": [
-            "Struggle"
+            "Acrobatics",
+            "Aerial Ace",
+            "Thunderbolt"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42646,10 +42790,13 @@
             "baseDefense": 132
         },
         "fm": [
-            "Splash"
+            "Thunder Shock",
+            "Air Slash"
         ],
         "cm": [
-            "Struggle"
+            "Acrobatics",
+            "Aerial Ace",
+            "Thunderbolt"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42668,10 +42815,13 @@
             "baseDefense": 108
         },
         "fm": [
-            "Splash"
+            "Snarl",
+            "Bite"
         ],
         "cm": [
-            "Struggle"
+            "Crunch",
+            "Payback",
+            "Dig"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42690,10 +42840,13 @@
             "baseDefense": 168
         },
         "fm": [
-            "Splash"
+            "Snarl",
+            "Bite"
         ],
         "cm": [
-            "Struggle"
+            "Crunch",
+            "Payback",
+            "Dig"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42713,10 +42866,13 @@
             "baseDefense": 70
         },
         "fm": [
-            "Splash"
+            "Mud Slap",
+            "Poison Jab"
         ],
         "cm": [
-            "Struggle"
+            "Acid Spray",
+            "Poison Fang",
+            "Sludge Bomb"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42736,10 +42892,13 @@
             "baseDefense": 149
         },
         "fm": [
-            "Splash"
+            "Mud Slap",
+            "Poison Jab"
         ],
         "cm": [
-            "Struggle"
+            "Acid Spray",
+            "Poison Fang",
+            "Sludge Bomb"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42759,10 +42918,13 @@
             "baseDefense": 64
         },
         "fm": [
-            "Splash"
+            "Astonish",
+            "Bullet Seed"
         ],
         "cm": [
-            "Struggle"
+            "Shadow Sneak",
+            "Night Shade",
+            "Power Whip"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42782,10 +42944,13 @@
             "baseDefense": 144
         },
         "fm": [
-            "Splash"
+            "Hex",
+            "Bullet Seed"
         ],
         "cm": [
-            "Struggle"
+            "Shadow Sneak",
+            "Night Shade",
+            "Power Whip"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42805,10 +42970,13 @@
             "baseDefense": 149
         },
         "fm": [
-            "Splash"
+            "Mud Slap",
+            "Mud Shot"
         ],
         "cm": [
-            "Struggle"
+            "Earth Power",
+            "Seed Bomb",
+            "Wrap"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42828,10 +42996,13 @@
             "baseDefense": 209
         },
         "fm": [
-            "Splash"
+            "Mud Slap",
+            "Mud Shot"
         ],
         "cm": [
-            "Struggle"
+            "Earth Power",
+            "Seed Bomb",
+            "Acid Spray"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42850,10 +43021,13 @@
             "baseDefense": 185
         },
         "fm": [
-            "Splash"
+            "Rock Throw",
+            "Mud Slap"
         ],
         "cm": [
-            "Struggle"
+            "Rock Slide",
+            "Rock Tomb",
+            "Bulldoze"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42872,10 +43046,13 @@
             "baseDefense": 76
         },
         "fm": [
-            "Splash"
+            "Leafage",
+            "Razor Leaf"
         ],
         "cm": [
-            "Struggle"
+            "Leaf Storm",
+            "Grass Knot",
+            "Seed Bomb"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42895,10 +43072,14 @@
             "baseDefense": 130
         },
         "fm": [
-            "Splash"
+            "Leafage",
+            "Fire Fang"
         ],
         "cm": [
-            "Struggle"
+            "Leaf Storm",
+            "Grass Knot",
+            "Overheat",
+            "Flamethrower"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42917,10 +43098,13 @@
             "baseDefense": 108
         },
         "fm": [
-            "Splash"
+            "Bug Bite",
+            "Struggle Bug"
         ],
         "cm": [
-            "Struggle"
+            "Dig",
+            "Bug Buzz",
+            "Lunge"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42940,10 +43124,14 @@
             "baseDefense": 178
         },
         "fm": [
-            "Splash"
+            "Bug Bite",
+            "Confusion"
         ],
         "cm": [
-            "Struggle"
+            "Dig",
+            "Bug Buzz",
+            "Lunge",
+            "Psybeam"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42962,10 +43150,13 @@
             "baseDefense": 60
         },
         "fm": [
-            "Splash"
+            "Peck",
+            "Confusion"
         ],
         "cm": [
-            "Struggle"
+            "Psybeam",
+            "Psyshock",
+            "Psychic"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42984,10 +43175,13 @@
             "baseDefense": 127
         },
         "fm": [
-            "Splash"
+            "Peck",
+            "Confusion"
         ],
         "cm": [
-            "Struggle"
+            "Psybeam",
+            "Psyshock",
+            "Psychic"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43007,10 +43201,13 @@
             "baseDefense": 110
         },
         "fm": [
-            "Splash"
+            "Fairy Wind",
+            "Rock Smash"
         ],
         "cm": [
-            "Struggle"
+            "Play Rough",
+            "Brutal Swing",
+            "Flash Cannon"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43030,10 +43227,13 @@
             "baseDefense": 145
         },
         "fm": [
-            "Splash"
+            "Fairy Wind",
+            "Rock Smash"
         ],
         "cm": [
-            "Struggle"
+            "Play Rough",
+            "Brutal Swing",
+            "Flash Cannon"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43053,10 +43253,14 @@
             "baseDefense": 196
         },
         "fm": [
-            "Splash"
+            "Fairy Wind",
+            "Rock Smash"
         ],
         "cm": [
-            "Struggle"
+            "Play Rough",
+            "Brutal Swing",
+            "Flash Cannon",
+            "Heavy Slam"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43075,10 +43279,13 @@
             "baseDefense": 52
         },
         "fm": [
-            "Splash"
+            "Water Gun",
+            "Mud Slap"
         ],
         "cm": [
-            "Struggle"
+            "Liquidation",
+            "Dig",
+            "Surf"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43097,10 +43304,13 @@
             "baseDefense": 136
         },
         "fm": [
-            "Splash"
+            "Water Gun",
+            "Mud Slap"
         ],
         "cm": [
-            "Struggle"
+            "Liquidation",
+            "Dig",
+            "Surf"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43120,10 +43330,13 @@
             "baseDefense": 172
         },
         "fm": [
-            "Splash"
+            "Wing Attack",
+            "Rock Throw"
         ],
         "cm": [
-            "Struggle"
+            "Payback",
+            "Aerial Ace",
+            "Fly"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43142,10 +43355,13 @@
             "baseDefense": 80
         },
         "fm": [
-            "Splash"
+            "Waterfall",
+            "Charm"
         ],
         "cm": [
-            "Struggle"
+            "Aqua Jet",
+            "Water Pulse",
+            "Icy Wind"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43164,10 +43380,16 @@
             "baseDefense": 144
         },
         "fm": [
-            "Splash"
+            "Waterfall",
+            "Charm",
+            "Counter"
         ],
         "cm": [
-            "Struggle"
+            "Aqua Jet",
+            "Water Pulse",
+            "Icy Wind",
+            "Drain Punch",
+            "Acrobatics"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43186,10 +43408,16 @@
             "baseDefense": 196
         },
         "fm": [
-            "Splash"
+            "Waterfall",
+            "Charm",
+            "Counter"
         ],
         "cm": [
-            "Struggle"
+            "Aqua Jet",
+            "Water Pulse",
+            "Icy Wind",
+            "Drain Punch",
+            "Acrobatics"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43208,10 +43436,16 @@
             "baseDefense": 144
         },
         "fm": [
-            "Splash"
+            "Waterfall",
+            "Charm",
+            "Counter"
         ],
         "cm": [
-            "Struggle"
+            "Aqua Jet",
+            "Water Pulse",
+            "Icy Wind",
+            "Drain Punch",
+            "Acrobatics"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43231,10 +43465,13 @@
             "baseDefense": 107
         },
         "fm": [
-            "Splash"
+            "Lick",
+            "Poison Jab"
         ],
         "cm": [
-            "Struggle"
+            "Acid Spray",
+            "Gunk Shot",
+            "Gyro Ball"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43254,10 +43491,14 @@
             "baseDefense": 168
         },
         "fm": [
-            "Splash"
+            "Lick",
+            "Poison Jab"
         ],
         "cm": [
-            "Struggle"
+            "Acid Spray",
+            "Gunk Shot",
+            "Gyro Ball",
+            "Overheat"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43277,10 +43518,13 @@
             "baseDefense": 142
         },
         "fm": [
-            "Splash"
+            "Dragon Tail",
+            "Take Down"
         ],
         "cm": [
-            "Struggle"
+            "Dragon Claw",
+            "Body Slam",
+            "392"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43299,10 +43543,13 @@
             "baseDefense": 219
         },
         "fm": [
-            "Splash"
+            "Iron Tail",
+            "Mud Slap"
         ],
         "cm": [
-            "Struggle"
+            "Rock Tomb",
+            "Earthquake",
+            "Iron Head"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43322,10 +43569,13 @@
             "baseDefense": 104
         },
         "fm": [
-            "Splash"
+            "Rock Throw",
+            "Smack Down"
         ],
         "cm": [
-            "Struggle"
+            "Dazzling Gleam",
+            "Rock Slide",
+            "Sludge Wave"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43345,10 +43595,13 @@
             "baseDefense": 177
         },
         "fm": [
-            "Splash"
+            "Rock Throw",
+            "Smack Down"
         ],
         "cm": [
-            "Struggle"
+            "Dazzling Gleam",
+            "Rock Slide",
+            "Sludge Wave"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43367,10 +43620,13 @@
             "baseDefense": 106
         },
         "fm": [
-            "Splash"
+            "Lick",
+            "Bite"
         ],
         "cm": [
-            "Struggle"
+            "Shadow Ball",
+            "Dig",
+            "Psychic Fangs"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43389,10 +43645,13 @@
             "baseDefense": 195
         },
         "fm": [
-            "Splash"
+            "Lick",
+            "Bite"
         ],
         "cm": [
-            "Struggle"
+            "Shadow Ball",
+            "Dig",
+            "Psychic Fangs"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43412,10 +43671,13 @@
             "baseDefense": 145
         },
         "fm": [
-            "Splash"
+            "Wing Attack",
+            "Double Kick"
         ],
         "cm": [
-            "Struggle"
+            "Aerial Ace",
+            "Brave Bird",
+            "Close Combat"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43434,10 +43696,13 @@
             "baseDefense": 80
         },
         "fm": [
-            "Splash"
+            "Ice Shard",
+            "Tackle"
         ],
         "cm": [
-            "Struggle"
+            "Body Slam",
+            "Avalanche",
+            "Heavy Slam"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43456,10 +43721,13 @@
             "baseDefense": 123
         },
         "fm": [
-            "Splash"
+            "Ice Shard",
+            "Tackle"
         ],
         "cm": [
-            "Struggle"
+            "Body Slam",
+            "Avalanche",
+            "Heavy Slam"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43479,10 +43747,14 @@
             "baseDefense": 139
         },
         "fm": [
-            "Splash"
+            "Ice Fang",
+            "Zen Headbutt"
         ],
         "cm": [
-            "Struggle"
+            "Water Pulse",
+            "Psychic Fangs",
+            "Drill Run",
+            "Crunch"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43501,10 +43773,14 @@
             "baseDefense": 178
         },
         "fm": [
-            "Splash"
+            "Waterfall",
+            "Water Gun"
         ],
         "cm": [
-            "Struggle"
+            "Outrage",
+            "Surf",
+            "Hydro Pump",
+            "Liquidation"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43524,10 +43800,14 @@
             "baseDefense": 166
         },
         "fm": [
-            "Splash"
+            "Take Down",
+            "Water Gun"
         ],
         "cm": [
-            "Struggle"
+            "Outrage",
+            "Surf",
+            "Hydro Pump",
+            "Muddy Water"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43547,10 +43827,14 @@
             "baseDefense": 166
         },
         "fm": [
-            "Splash"
+            "Take Down",
+            "Water Gun"
         ],
         "cm": [
-            "Struggle"
+            "Outrage",
+            "Surf",
+            "Hydro Pump",
+            "Muddy Water"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43570,10 +43854,14 @@
             "baseDefense": 166
         },
         "fm": [
-            "Splash"
+            "Take Down",
+            "Water Gun"
         ],
         "cm": [
-            "Struggle"
+            "Outrage",
+            "Surf",
+            "Hydro Pump",
+            "Muddy Water"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43593,10 +43881,14 @@
             "baseDefense": 166
         },
         "fm": [
-            "Splash"
+            "Take Down",
+            "Water Gun"
         ],
         "cm": [
-            "Struggle"
+            "Outrage",
+            "Surf",
+            "Hydro Pump",
+            "Muddy Water"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43616,10 +43908,14 @@
             "baseDefense": 178
         },
         "fm": [
-            "Splash"
+            "Low Kick",
+            "Counter"
         ],
         "cm": [
-            "Struggle"
+            "Close Combat",
+            "Low Sweep",
+            "Night Slash",
+            "Ice Punch"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43639,10 +43935,15 @@
             "baseDefense": 151
         },
         "fm": [
-            "Splash"
+            "Poison Jab",
+            "Mud Shot"
         ],
         "cm": [
-            "Struggle"
+            "Sludge Bomb",
+            "Earthquake",
+            "Stone Edge",
+            "Acid Spray",
+            "Surf"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43662,10 +43963,15 @@
             "baseDefense": 136
         },
         "fm": [
-            "Splash"
+            "Tackle",
+            "Confusion",
+            "Double Kick"
         ],
         "cm": [
-            "Struggle"
+            "Psychic",
+            "Thunderbolt",
+            "Mirror Coat",
+            "Psychic Fangs"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43684,10 +43990,14 @@
             "baseDefense": 150
         },
         "fm": [
-            "Splash"
+            "Bite",
+            "Astonish",
+            "Rollout"
         ],
         "cm": [
-            "Struggle"
+            "Dig",
+            "Rock Slide",
+            "Drill Run"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43706,10 +44016,14 @@
             "baseDefense": 150
         },
         "fm": [
-            "Splash"
+            "Bite",
+            "Astonish",
+            "Rollout"
         ],
         "cm": [
-            "Struggle"
+            "Dig",
+            "Rock Slide",
+            "Drill Run"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43728,10 +44042,14 @@
             "baseDefense": 150
         },
         "fm": [
-            "Splash"
+            "Bite",
+            "Astonish",
+            "Rollout"
         ],
         "cm": [
-            "Struggle"
+            "Dig",
+            "Rock Slide",
+            "Drill Run"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43751,10 +44069,14 @@
             "baseDefense": 203
         },
         "fm": [
-            "Splash"
+            "Snarl",
+            "Metal Claw"
         ],
         "cm": [
-            "Struggle"
+            "Dark Pulse",
+            "Iron Head",
+            "X Scissor",
+            "Focus Blast"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -44050,10 +44372,13 @@
             "baseDefense": 86
         },
         "fm": [
-            "Splash"
+            "Dragon Breath",
+            "Ice Fang"
         ],
         "cm": [
-            "Struggle"
+            "Dragon Claw",
+            "Avalanche",
+            "Outrage"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -44073,10 +44398,13 @@
             "baseDefense": 128
         },
         "fm": [
-            "Splash"
+            "Dragon Breath",
+            "Ice Fang"
         ],
         "cm": [
-            "Struggle"
+            "Dragon Claw",
+            "Avalanche",
+            "Outrage"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -44096,10 +44424,14 @@
             "baseDefense": 184
         },
         "fm": [
-            "Splash"
+            "Dragon Breath",
+            "Ice Fang"
         ],
         "cm": [
-            "Struggle"
+            "Dragon Claw",
+            "Avalanche",
+            "Outrage",
+            "Blizzard"
         ],
         "shadow": false,
         "shadow_released": false,

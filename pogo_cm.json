@@ -1825,5 +1825,32 @@
         "damage_window_start": 1500,
         "damage_window_end": 1900,
         "energy_delta": -50
+    },
+    {
+        "name": "391",
+        "type": "Ice",
+        "power": 60.0,
+        "duration": 2000,
+        "damage_window_start": 1500,
+        "damage_window_end": 1700,
+        "energy_delta": -33
+    },
+    {
+        "name": "392",
+        "type": "Grass",
+        "power": 65.0,
+        "duration": 2000,
+        "damage_window_start": 1200,
+        "damage_window_end": 1900,
+        "energy_delta": -50
+    },
+    {
+        "name": "393",
+        "type": "Ground",
+        "power": 95.0,
+        "duration": 3200,
+        "damage_window_start": 1600,
+        "damage_window_end": 2500,
+        "energy_delta": -50
     }
 ]
