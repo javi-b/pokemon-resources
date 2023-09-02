@@ -1827,7 +1827,7 @@
         "energy_delta": -50
     },
     {
-        "name": "391",
+        "name": "Triple Axel",
         "type": "Ice",
         "power": 60.0,
         "duration": 2000,
@@ -1836,7 +1836,7 @@
         "energy_delta": -33
     },
     {
-        "name": "392",
+        "name": "Trailblaze",
         "type": "Grass",
         "power": 65.0,
         "duration": 2000,
@@ -1845,7 +1845,7 @@
         "energy_delta": -50
     },
     {
-        "name": "393",
+        "name": "Scorching Sands",
         "type": "Ground",
         "power": 95.0,
         "duration": 3200,
