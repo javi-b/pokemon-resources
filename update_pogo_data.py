@@ -158,7 +158,18 @@ def CleanMove(move, is_fast):
     if isinstance(move, str):
         return (move[:-5] if is_fast else move).replace("_", " ").title()
     else:
-        return str(move);
+        if move == 387:
+            return "Geomancy"
+        elif move == 389:
+            return "Oblivion Wing"
+        elif move == 391:
+            return "Triple Axel";
+        elif move == 392:
+            return "Trailblaze";
+        elif move == 393:
+            return "Scorching Sands";
+        else:
+            return str(move);
 
 if __name__=="__main__":
     main()
