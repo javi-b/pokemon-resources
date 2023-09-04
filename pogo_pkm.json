@@ -9320,7 +9320,7 @@
             "Brave Bird"
         ],
         "shadow": true,
-        "shadow_released": true,
+        "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
     },
@@ -9408,7 +9408,7 @@
             "Brave Bird"
         ],
         "shadow": true,
-        "shadow_released": true,
+        "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
     },
@@ -9497,7 +9497,7 @@
             "Brave Bird"
         ],
         "shadow": true,
-        "shadow_released": true,
+        "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
     },
@@ -34950,7 +34950,7 @@
             "Bulldoze"
         ],
         "shadow": true,
-        "shadow_released": true,
+        "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
     },
@@ -34980,7 +34980,7 @@
             "Bulldoze"
         ],
         "shadow": true,
-        "shadow_released": true,
+        "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
     },
@@ -35010,7 +35010,7 @@
             "Bulldoze"
         ],
         "shadow": true,
-        "shadow_released": true,
+        "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": false
     },
@@ -35040,7 +35040,7 @@
             "Bulldoze"
         ],
         "shadow": true,
-        "shadow_released": true,
+        "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": false
     },
@@ -35070,7 +35070,7 @@
             "Bulldoze"
         ],
         "shadow": true,
-        "shadow_released": true,
+        "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
     },
@@ -35100,7 +35100,7 @@
             "Bulldoze"
         ],
         "shadow": true,
-        "shadow_released": true,
+        "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
     },
@@ -40357,7 +40357,7 @@
             "Triple Axel"
         ],
         "shadow": true,
-        "shadow_released": true,
+        "shadow_released": false,
         "released": true
     },
     {
@@ -40386,7 +40386,7 @@
             "Triple Axel"
         ],
         "shadow": true,
-        "shadow_released": true,
+        "shadow_released": false,
         "released": true
     },
     {
