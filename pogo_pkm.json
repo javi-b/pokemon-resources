@@ -35012,7 +35012,7 @@
         "shadow": true,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": true
     },
     {
         "id": 718,
@@ -35042,7 +35042,7 @@
         "shadow": true,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": true
     },
     {
         "id": 718,
@@ -41849,7 +41849,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 907,
@@ -41874,7 +41874,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 908,
@@ -41901,7 +41901,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 909,
@@ -41926,7 +41926,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 910,
@@ -41951,7 +41951,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 911,
@@ -41978,7 +41978,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 912,
@@ -42003,7 +42003,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 913,
@@ -42028,7 +42028,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 914,
@@ -42055,7 +42055,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 915,
@@ -42080,7 +42080,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 916,
@@ -42105,7 +42105,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 916,
@@ -42130,7 +42130,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 916,
@@ -42155,7 +42155,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 917,
@@ -42231,7 +42231,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 920,
@@ -42258,7 +42258,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 921,
@@ -42283,7 +42283,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 922,
@@ -42309,7 +42309,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 923,
@@ -42337,7 +42337,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 924,
@@ -43497,7 +43497,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 963,
@@ -44539,7 +44539,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 997,
@@ -44565,7 +44565,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 998,
@@ -44592,7 +44592,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 999,
