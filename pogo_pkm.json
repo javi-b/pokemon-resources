@@ -26291,6 +26291,9 @@
             "Focus Blast",
             "Stone Edge"
         ],
+        "elite_cm": [
+            "Brutal Swing"
+        ],
         "shadow": false,
         "shadow_released": false,
         "released": true
