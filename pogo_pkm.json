@@ -33152,7 +33152,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 673,
@@ -33179,7 +33179,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 674,
@@ -35695,7 +35695,7 @@
             "Discharge",
             "Crunch"
         ],
-		"elite_fm": [
+        "elite_fm": [
             "Volt Switch"
         ],
         "shadow": false,
@@ -42520,7 +42520,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 929,
@@ -42547,7 +42547,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 930,
@@ -42574,7 +42574,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 931,
