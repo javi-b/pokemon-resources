@@ -6305,8 +6305,8 @@
         "elite_cm": [
             "Ominous Wind"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -6336,8 +6336,8 @@
         "elite_fm": [
             "Lick"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -6372,8 +6372,8 @@
             "Psychic",
             "Shadow Punch"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "mega": [
             {
                 "types": [
@@ -6421,8 +6421,8 @@
             "Psychic",
             "Shadow Punch"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "mega": [
             {
                 "types": [
@@ -6470,8 +6470,8 @@
             "Psychic",
             "Shadow Punch"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "mega": [
             {
                 "types": [
@@ -7525,7 +7525,7 @@
             "Stomp"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -7581,7 +7581,7 @@
             "Megahorn"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -17992,8 +17992,8 @@
             "Ice Beam",
             "Mud Bomb"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -18018,8 +18018,8 @@
             "Blizzard",
             "Mud Bomb"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -21142,8 +21142,8 @@
             "Ancient Power",
             "Bulldoze"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -21167,8 +21167,8 @@
             "Outrage",
             "Flamethrower"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -21193,8 +21193,8 @@
             "Ancient Power",
             "Heavy Slam"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -21219,8 +21219,8 @@
             "Flamethrower",
             "Flash Cannon"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -23389,7 +23389,7 @@
             "Rock Wrecker"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -24453,8 +24453,8 @@
             "Focus Blast",
             "Thunder"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
     },
@@ -26162,8 +26162,8 @@
             "Dig",
             "Drill Run"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -26191,8 +26191,8 @@
             "Iron Head",
             "Scorching Sands"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -28785,8 +28785,8 @@
             "Heat Wave",
             "Mystical Fire"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -28811,8 +28811,8 @@
             "Flame Burst",
             "Heat Wave"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -28842,8 +28842,8 @@
         "elite_cm": [
             "Poltergeist"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
