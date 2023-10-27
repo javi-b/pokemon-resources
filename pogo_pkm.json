@@ -35671,6 +35671,9 @@
             "Discharge",
             "Crunch"
         ],
+        "elite_fm": [
+            "Volt Switch"
+        ],
         "shadow": false,
         "shadow_released": false,
         "released": true
