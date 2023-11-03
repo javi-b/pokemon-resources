@@ -11586,6 +11586,32 @@
         "released": true
     },
     {
+        "id": 194,
+        "name": "Wooper",
+        "form": "Paldea",
+        "types": [
+            "Poison",
+            "Ground"
+        ],
+        "stats": {
+            "baseStamina": 146,
+            "baseAttack": 75,
+            "baseDefense": 66
+        },
+        "fm": [
+            "Poison Jab",
+            "Mud Shot"
+        ],
+        "cm": [
+            "Sludge Wave",
+            "Dig",
+            "Body Slam"
+        ],
+        "shadow": true,
+        "shadow_released": true,
+        "released": false
+    },
+    {
         "id": 195,
         "name": "Quagsire",
         "form": "Normal",
@@ -41803,8 +41829,8 @@
             "Close Combat",
             "X Scissor"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -44101,7 +44127,7 @@
             "baseDefense": 151
         },
         "fm": [
-            "Poison Jab",
+            "Poison Sting",
             "Mud Shot"
         ],
         "cm": [
@@ -44109,7 +44135,7 @@
             "Earthquake",
             "Stone Edge",
             "Acid Spray",
-            "Surf"
+            "Water Pulse"
         ],
         "shadow": false,
         "shadow_released": false,
