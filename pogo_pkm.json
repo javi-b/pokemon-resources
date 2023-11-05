@@ -11637,7 +11637,10 @@
         ],
         "shadow": true,
         "shadow_released": true,
-        "released": true
+        "released": true,
+        "elite_cm": [
+            "Aqua Tail"
+        ]
     },
     {
         "id": 195,
@@ -11665,7 +11668,10 @@
         ],
         "shadow": true,
         "shadow_released": true,
-        "released": true
+        "released": true,
+        "elite_cm": [
+            "Aqua Tail"
+        ]
     },
     {
         "id": 196,
@@ -44139,7 +44145,10 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true,
+        "elite_cm": [
+            "Megahorn"
+        ]
     },
     {
         "id": 981,

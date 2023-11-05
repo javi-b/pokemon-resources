@@ -48,6 +48,14 @@
         "shadow_released": false
     },
     {
+        "id": 195,
+        "name": "Quagsire",
+        "form": "Normal",
+        "elite_cm": [
+            "Aqua Tail"
+        ]
+    },
+    {
         "id": 339,
         "name": "Barboach",
         "form": "Normal",
@@ -221,5 +229,14 @@
         "name": "Mr. Rime",
         "form": "Normal",
         "shadow_released": false
+    },
+    {
+        "id": 980,
+        "name": "Clodsire",
+        "form": "Normal",
+        "released" : true,
+        "elite_cm": [
+            "Megahorn"
+        ]
     }
 ]
