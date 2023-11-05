@@ -24,6 +24,9 @@ pogo_cm = [] # pogo charged moves object, will become json file
 
 def main():
 
+    # gets user input
+    wants_manual_patch = input("do you want to apply the manual patch? [y/n] ")
+
     # scrapes relevant unused lists from pokeminers.com into 'pogo_unused'
     print("scraping " + URL_UNUSED + "...")
     html = lxml.html.fromstring(requests.get(URL_UNUSED).content)
@@ -32,16 +35,25 @@ def main():
     ScrapeList(html, '//ul[@id="Shadows-list"]/li/text()', 'shadows')
     ScrapeList(html, '//ul[@id="Moves-list"]/li/text()', 'moves')
 
-    # creates jsons
+    # loads game master
     print("loading game master...")
     game_master = json.load(urllib.request.urlopen(URL_GAME_MASTER))
-    print("creating JSON files...")
+
+    # creates objects from game master
+    print("creating objects from game master...")
     for gm_obj in game_master:
         id = gm_obj["templateId"]
         if id[0] == "V" and id[6:13] == "POKEMON" and id.find("REVERSION") == -1:
             AddPokemon(gm_obj)
         if id[0] == "V" and id[6:10] == "MOVE":
             AddMove(gm_obj, id[-4:] == "FAST")
+
+    # if wanted, applies manual patch to objects
+    if wants_manual_patch == "y":
+        ManualPatch()
+
+    # dumps objects into JSON files
+    print("dumping objects into JSON files...")
     json.dump(pogo_pkm, open(JSON_PKM_PATH, "w"), indent=4)
     json.dump(pogo_fm, open(JSON_FM_PATH, "w"), indent=4)
     json.dump(pogo_cm, open(JSON_CM_PATH, "w"), indent=4)
@@ -170,6 +182,42 @@ def CleanMove(move, is_fast):
             return "Scorching Sands";
         else:
             return str(move);
+
+def ManualPatch():
+    """
+    Modifies 'pogo_pkm' values to match values in 'pogo_pkm_manual.json'.
+    """
+    print("applying manual patch to objects...")
+
+    pogo_pkm_manual = json.load(open("pogo_pkm_manual.json"))
+    num_changes = 0
+
+    for pkm_obj in pogo_pkm:
+        for manual_obj in pogo_pkm_manual:
+            if pkm_obj["id"] == manual_obj["id"] and pkm_obj["name"] == manual_obj["name"] and pkm_obj["form"] == manual_obj["form"]:
+                if "fm" in manual_obj:
+                    pkm_obj["fm"] = manual_obj["fm"]
+                    num_changes += 1
+                if "cm" in manual_obj:
+                    pkm_obj["cm"] = manual_obj["cm"]
+                    num_changes += 1
+                if "elite_fm" in manual_obj:
+                    pkm_obj["elite_fm"] = manual_obj["elite_fm"]
+                    num_changes += 1
+                if "elite_cm" in manual_obj:
+                    pkm_obj["elite_cm"] = manual_obj["elite_cm"]
+                    num_changes += 1
+                if "shadow" in manual_obj:
+                    pkm_obj["shadow"] = manual_obj["shadow"]
+                    num_changes += 1
+                if "shadow_released" in manual_obj:
+                    pkm_obj["shadow_released"] = manual_obj["shadow_released"]
+                    num_changes += 1
+                if "released" in manual_obj:
+                    pkm_obj["released"] = manual_obj["released"]
+                    num_changes += 1
+    
+    print(" " + str(num_changes) + " changes done")
 
 if __name__=="__main__":
     main()

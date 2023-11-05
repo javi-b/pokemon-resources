@@ -1,0 +1,225 @@
+[
+    {
+        "id": 92,
+        "name": "Gastly",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 93,
+        "name": "Haunter",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 94,
+        "name": "Gengar",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 111,
+        "name": "Rhyhorn",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 112,
+        "name": "Rhydon",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 144,
+        "name": "Articuno",
+        "form": "Galarian",
+        "shadow_released": false
+    },
+    {
+        "id": 145,
+        "name": "Zapdos",
+        "form": "Galarian",
+        "shadow_released": false
+    },
+    {
+        "id": 146,
+        "name": "Moltres",
+        "form": "Galarian",
+        "shadow_released": false
+    },
+    {
+        "id": 339,
+        "name": "Barboach",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 340,
+        "name": "Whiscash",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 384,
+        "name": "Rayquaza",
+        "form": "Normal",
+        "elite_cm": [
+            "Hurricane",
+            "Breaking Swipe",
+            "Dragon Ascent"
+        ]
+    },
+    {
+        "id": 408,
+        "name": "Cranidos",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 409,
+        "name": "Rampardos",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 410,
+        "name": "Shieldon",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 411,
+        "name": "Bastiodon",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 464,
+        "name": "Rhyperior",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 486,
+        "name": "Regigigas",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 492,
+        "name": "Shaymin",
+        "form": "Normal",
+        "fm": [
+            "Hidden Power",
+            "Zen Headbutt",
+            "Magical Leaf"
+        ]
+    },
+    {
+        "id": 492,
+        "name": "Shaymin",
+        "form": "Land",
+        "fm": [
+            "Hidden Power",
+            "Zen Headbutt",
+            "Magical Leaf"
+        ]
+    },
+    {
+        "id": 492,
+        "name": "Shaymin",
+        "form": "Sky",
+        "fm": [
+            "Hidden Power",
+            "Zen Headbutt",
+            "Magical Leaf"
+        ]
+    },
+    {
+        "id": 529,
+        "name": "Drilbur",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 530,
+        "name": "Excadrill",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 607,
+        "name": "Litwick",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 609,
+        "name": "Chandelure",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 672,
+        "name": "Skiddo",
+        "form": "Normal",
+        "cm": [
+            "Brick Break",
+            "Rock Slide",
+            "Seed Bomb"
+        ]
+    },
+    {
+        "id": 673,
+        "name": "Gogoat",
+        "form": "Normal",
+        "cm": [
+            "Brick Break",
+            "Rock Slide",
+            "Leaf Blade",
+            "Seed Bomb"
+        ]
+    },
+    {
+        "id": 718,
+        "name": "Zygarde",
+        "form": "Normal",
+        "shadow_released": false
+    },
+    {
+        "id": 718,
+        "name": "Zygarde",
+        "form": "Complete",
+        "shadow_released": false
+    },
+    {
+        "id": 718,
+        "name": "Zygarde",
+        "form": "Complete_fifty_percent",
+        "shadow_released": false
+    },
+    {
+        "id": 718,
+        "name": "Zygarde",
+        "form": "Complete_ten_percent",
+        "shadow_released": false
+    },
+    {
+        "id": 718,
+        "name": "Zygarde",
+        "form": "Fifty_percent",
+        "shadow_released": false
+    },
+    {
+        "id": 718,
+        "name": "Zygarde",
+        "form": "Ten_percent",
+        "shadow_released": false
+    },
+    {
+        "id": 866,
+        "name": "Mr. Rime",
+        "form": "Normal",
+        "shadow_released": false
+    }
+]
