@@ -11635,12 +11635,12 @@
             "Acid Spray",
             "Mud Bomb"
         ],
-        "shadow": true,
-        "shadow_released": true,
-        "released": true,
         "elite_cm": [
             "Aqua Tail"
-        ]
+        ],
+        "shadow": true,
+        "shadow_released": true,
+        "released": true
     },
     {
         "id": 195,
@@ -11666,12 +11666,12 @@
             "Acid Spray",
             "Mud Bomb"
         ],
-        "shadow": true,
-        "shadow_released": true,
-        "released": true,
         "elite_cm": [
             "Aqua Tail"
-        ]
+        ],
+        "shadow": true,
+        "shadow_released": true,
+        "released": true
     },
     {
         "id": 196,
@@ -22628,6 +22628,19 @@
         ],
         "shadow": true,
         "shadow_released": true,
+        "mega": [
+            {
+                "types": [
+                    "Dragon",
+                    "Ground"
+                ],
+                "stats": {
+                    "baseStamina": 239,
+                    "baseAttack": 339,
+                    "baseDefense": 222
+                }
+            }
+        ],
         "released": true
     },
     {
@@ -22658,6 +22671,19 @@
         ],
         "shadow": true,
         "shadow_released": true,
+        "mega": [
+            {
+                "types": [
+                    "Dragon",
+                    "Ground"
+                ],
+                "stats": {
+                    "baseStamina": 239,
+                    "baseAttack": 339,
+                    "baseDefense": 222
+                }
+            }
+        ],
         "released": true
     },
     {
@@ -44143,12 +44169,12 @@
             "Acid Spray",
             "Water Pulse"
         ],
-        "shadow": false,
-        "shadow_released": false,
-        "released": true,
         "elite_cm": [
             "Megahorn"
-        ]
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
     },
     {
         "id": 981,
