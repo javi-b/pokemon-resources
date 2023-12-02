@@ -1818,6 +1818,15 @@
         "energy_delta": -33
     },
     {
+        "name": "Spacial Rend",
+        "type": "Dragon",
+        "power": 160.0,
+        "duration": 2500,
+        "damage_window_start": 1370,
+        "damage_window_end": 2950,
+        "energy_delta": -100
+    },
+    {
         "name": "Oblivion Wing",
         "type": "Flying",
         "power": 85.0,
@@ -1852,5 +1861,50 @@
         "damage_window_start": 1600,
         "damage_window_end": 2500,
         "energy_delta": -50
+    },
+    {
+        "name": "Roar Of Time",
+        "type": "Dragon",
+        "power": 160.0,
+        "duration": 2200,
+        "damage_window_start": 1050,
+        "damage_window_end": 2500,
+        "energy_delta": -100
+    },
+    {
+        "name": "Bleakwind Storm",
+        "type": "Flying",
+        "power": 140.0,
+        "duration": 2300,
+        "damage_window_start": 1800,
+        "damage_window_end": 2600,
+        "energy_delta": -100
+    },
+    {
+        "name": "Sandsear Storm",
+        "type": "Ground",
+        "power": 140.0,
+        "duration": 2300,
+        "damage_window_start": 1800,
+        "damage_window_end": 2600,
+        "energy_delta": -100
+    },
+    {
+        "name": "Wildbolt Storm",
+        "type": "Electric",
+        "power": 140.0,
+        "duration": 2300,
+        "damage_window_start": 1800,
+        "damage_window_end": 2600,
+        "energy_delta": -100
+    },
+    {
+        "name": "Spirit Shackle",
+        "type": "Ghost",
+        "power": 70.0,
+        "duration": 2500,
+        "damage_window_start": 2000,
+        "damage_window_end": 3400,
+        "energy_delta": -33
     }
 ]

@@ -1659,7 +1659,7 @@
     {
         "id": 25,
         "name": "Pikachu",
-        "form": "Normal",
+        "form": "Flying_03",
         "types": [
             "Electric"
         ],
@@ -1775,7 +1775,7 @@
     {
         "id": 25,
         "name": "Pikachu",
-        "form": "Normal",
+        "form": "Jeju",
         "types": [
             "Electric"
         ],
@@ -2174,7 +2174,7 @@
     {
         "id": 25,
         "name": "Pikachu",
-        "form": "Normal",
+        "form": "Wcs_2023",
         "types": [
             "Electric"
         ],
@@ -2257,7 +2257,8 @@
             "Brick Break",
             "Thunder Punch",
             "Wild Charge",
-            "Skull Bash"
+            "Skull Bash",
+            "Trailblaze"
         ],
         "elite_cm": [
             "Thunder"
@@ -2288,7 +2289,8 @@
             "Psychic",
             "Thunder Punch",
             "Wild Charge",
-            "Grass Knot"
+            "Grass Knot",
+            "Trailblaze"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -2316,7 +2318,8 @@
             "Brick Break",
             "Thunder Punch",
             "Wild Charge",
-            "Skull Bash"
+            "Skull Bash",
+            "Trailblaze"
         ],
         "elite_cm": [
             "Thunder"
@@ -2458,7 +2461,8 @@
             "Gyro Ball",
             "Bulldoze",
             "Ice Punch",
-            "Drill Run"
+            "Drill Run",
+            "Aerial Ace"
         ],
         "elite_fm": [
             "Shadow Claw"
@@ -3106,7 +3110,8 @@
             "Hyper Beam",
             "Play Rough",
             "Ice Beam",
-            "Disarming Voice"
+            "Disarming Voice",
+            "Icy Wind"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -3752,7 +3757,8 @@
         "cm": [
             "Night Slash",
             "Dark Pulse",
-            "Foul Play"
+            "Foul Play",
+            "Trailblaze"
         ],
         "shadow": true,
         "shadow_released": false,
@@ -3861,7 +3867,8 @@
             "Foul Play",
             "Dark Pulse",
             "Play Rough",
-            "Payback"
+            "Payback",
+            "Trailblaze"
         ],
         "shadow": true,
         "shadow_released": false,
@@ -4364,7 +4371,8 @@
             "Dynamic Punch",
             "Ice Punch",
             "Power Up Punch",
-            "Scald"
+            "Scald",
+            "Icy Wind"
         ],
         "elite_fm": [
             "Counter"
@@ -4399,7 +4407,8 @@
             "Dynamic Punch",
             "Ice Punch",
             "Power Up Punch",
-            "Scald"
+            "Scald",
+            "Icy Wind"
         ],
         "elite_fm": [
             "Counter"
@@ -5543,7 +5552,8 @@
         "cm": [
             "Water Pulse",
             "Psychic",
-            "Ice Beam"
+            "Ice Beam",
+            "Scald"
         ],
         "elite_cm": [
             "Surf"
@@ -5585,7 +5595,8 @@
         "cm": [
             "Water Pulse",
             "Psychic",
-            "Ice Beam"
+            "Ice Beam",
+            "Scald"
         ],
         "elite_cm": [
             "Surf"
@@ -5627,7 +5638,8 @@
         "cm": [
             "Focus Blast",
             "Psychic",
-            "Sludge Bomb"
+            "Sludge Bomb",
+            "Scald"
         ],
         "elite_cm": [
             "Surf"
@@ -5656,7 +5668,8 @@
         "cm": [
             "Water Pulse",
             "Psychic",
-            "Ice Beam"
+            "Ice Beam",
+            "Scald"
         ],
         "elite_cm": [
             "Surf"
@@ -9287,7 +9300,8 @@
             "Ice Beam",
             "Icy Wind",
             "Blizzard",
-            "Ancient Power"
+            "Ancient Power",
+            "Triple Axel"
         ],
         "elite_cm": [
             "Hurricane"
@@ -9345,7 +9359,8 @@
             "Ice Beam",
             "Icy Wind",
             "Blizzard",
-            "Ancient Power"
+            "Ancient Power",
+            "Triple Axel"
         ],
         "elite_cm": [
             "Hurricane"
@@ -10150,6 +10165,33 @@
     {
         "id": 157,
         "name": "Typhlosion",
+        "form": "Hisuian",
+        "types": [
+            "Fire",
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 177,
+            "baseAttack": 238,
+            "baseDefense": 172
+        },
+        "fm": [
+            "Hex",
+            "Ember"
+        ],
+        "cm": [
+            "Fire Punch",
+            "Wild Charge",
+            "Shadow Ball",
+            "Overheat"
+        ],
+        "shadow": true,
+        "shadow_released": true,
+        "released": false
+    },
+    {
+        "id": 157,
+        "name": "Typhlosion",
         "form": "Normal",
         "types": [
             "Fire"
@@ -10543,7 +10585,8 @@
             "Shadow Sneak",
             "Megahorn",
             "Cross Poison",
-            "Lunge"
+            "Lunge",
+            "Trailblaze"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -11200,7 +11243,8 @@
             "Hydro Pump",
             "Blizzard",
             "Surf",
-            "Weather Ball Water"
+            "Weather Ball Water",
+            "Scald"
         ],
         "elite_cm": [
             "Earthquake",
@@ -11230,7 +11274,8 @@
             "Hydro Pump",
             "Blizzard",
             "Surf",
-            "Weather Ball Water"
+            "Weather Ball Water",
+            "Scald"
         ],
         "elite_cm": [
             "Earthquake",
@@ -11803,7 +11848,8 @@
         "cm": [
             "Blizzard",
             "Psychic",
-            "Fire Blast"
+            "Fire Blast",
+            "Scald"
         ],
         "elite_cm": [
             "Surf"
@@ -11832,7 +11878,8 @@
         "cm": [
             "Blizzard",
             "Psychic",
-            "Fire Blast"
+            "Fire Blast",
+            "Scald"
         ],
         "elite_cm": [
             "Surf"
@@ -11862,7 +11909,8 @@
         "cm": [
             "Futuresight",
             "Shadow Ball",
-            "Sludge Wave"
+            "Sludge Wave",
+            "Scald"
         ],
         "elite_cm": [
             "Surf"
@@ -11891,7 +11939,8 @@
         "cm": [
             "Blizzard",
             "Psychic",
-            "Fire Blast"
+            "Fire Blast",
+            "Scald"
         ],
         "elite_cm": [
             "Surf"
@@ -12441,7 +12490,8 @@
             "Ice Beam",
             "Sludge Wave",
             "Acid Spray",
-            "Fell Stinger"
+            "Fell Stinger",
+            "Scald"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -12497,7 +12547,8 @@
             "Ice Beam",
             "Sludge Wave",
             "Acid Spray",
-            "Fell Stinger"
+            "Fell Stinger",
+            "Scald"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -13105,7 +13156,9 @@
         "cm": [
             "Ice Punch",
             "Icy Wind",
-            "Aerial Ace"
+            "Aerial Ace",
+            "Fly",
+            "Triple Axel"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -13130,7 +13183,9 @@
         "cm": [
             "Ice Punch",
             "Icy Wind",
-            "Aerial Ace"
+            "Aerial Ace",
+            "Fly",
+            "Triple Axel"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -13155,7 +13210,9 @@
         "cm": [
             "Ice Punch",
             "Icy Wind",
-            "Aerial Ace"
+            "Aerial Ace",
+            "Fly",
+            "Triple Axel"
         ],
         "shadow": true,
         "shadow_released": false,
@@ -13986,7 +14043,8 @@
             "Hydro Pump",
             "Bubble Beam",
             "Water Pulse",
-            "Ice Beam"
+            "Ice Beam",
+            "Scald"
         ],
         "elite_fm": [
             "Hidden Power"
@@ -14017,7 +14075,8 @@
             "Hydro Pump",
             "Bubble Beam",
             "Water Pulse",
-            "Ice Beam"
+            "Ice Beam",
+            "Scald"
         ],
         "elite_fm": [
             "Hidden Power"
@@ -14048,7 +14107,8 @@
             "Hydro Pump",
             "Bubble Beam",
             "Water Pulse",
-            "Ice Beam"
+            "Ice Beam",
+            "Scald"
         ],
         "elite_fm": [
             "Hidden Power"
@@ -15336,7 +15396,8 @@
         ],
         "cm": [
             "Bubble Beam",
-            "Energy Ball"
+            "Energy Ball",
+            "Scald"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -15362,7 +15423,8 @@
         "cm": [
             "Bubble Beam",
             "Ice Beam",
-            "Grass Knot"
+            "Grass Knot",
+            "Scald"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -15391,7 +15453,8 @@
             "Solar Beam",
             "Ice Beam",
             "Energy Ball",
-            "Leaf Storm"
+            "Leaf Storm",
+            "Scald"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -16013,7 +16076,8 @@
         "cm": [
             "Body Slam",
             "Bulldoze",
-            "Brick Break"
+            "Brick Break",
+            "Rock Slide"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -17373,7 +17437,8 @@
         "cm": [
             "Heavy Slam",
             "Water Pulse",
-            "Body Slam"
+            "Body Slam",
+            "Scald"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -17398,7 +17463,8 @@
         "cm": [
             "Surf",
             "Blizzard",
-            "Hyper Beam"
+            "Hyper Beam",
+            "Scald"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -17746,7 +17812,8 @@
             "Grass Knot",
             "Brick Break",
             "Seed Bomb",
-            "Payback"
+            "Payback",
+            "Trailblaze"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -17772,7 +17839,8 @@
             "Grass Knot",
             "Brick Break",
             "Seed Bomb",
-            "Payback"
+            "Payback",
+            "Trailblaze"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -17799,7 +17867,8 @@
             "Dark Pulse",
             "Dynamic Punch",
             "Grass Knot",
-            "Payback"
+            "Payback",
+            "Trailblaze"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -17826,7 +17895,8 @@
             "Dark Pulse",
             "Dynamic Punch",
             "Grass Knot",
-            "Payback"
+            "Payback",
+            "Trailblaze"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -18022,7 +18092,8 @@
         "cm": [
             "Aqua Tail",
             "Ice Beam",
-            "Mud Bomb"
+            "Mud Bomb",
+            "Scald"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -18048,7 +18119,8 @@
         "cm": [
             "Water Pulse",
             "Blizzard",
-            "Mud Bomb"
+            "Mud Bomb",
+            "Scald"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -18074,7 +18146,8 @@
             "Vice Grip",
             "Bubble Beam",
             "Aqua Jet",
-            "Razor Shell"
+            "Razor Shell",
+            "Scald"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -18102,7 +18175,8 @@
             "Bubble Beam",
             "Night Slash",
             "Crabhammer",
-            "Razor Shell"
+            "Razor Shell",
+            "Scald"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -20711,7 +20785,8 @@
         ],
         "cm": [
             "Aerial Ace",
-            "Brave Bird"
+            "Brave Bird",
+            "Fly"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -20736,7 +20811,8 @@
         ],
         "cm": [
             "Aerial Ace",
-            "Brave Bird"
+            "Brave Bird",
+            "Fly"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -20762,7 +20838,8 @@
         "cm": [
             "Aerial Ace",
             "Brave Bird",
-            "Heat Wave"
+            "Heat Wave",
+            "Fly"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -20788,7 +20865,8 @@
         "cm": [
             "Aerial Ace",
             "Brave Bird",
-            "Heat Wave"
+            "Heat Wave",
+            "Fly"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -20814,7 +20892,8 @@
         "cm": [
             "Brave Bird",
             "Heat Wave",
-            "Close Combat"
+            "Close Combat",
+            "Fly"
         ],
         "elite_fm": [
             "Gust"
@@ -20843,7 +20922,8 @@
         "cm": [
             "Brave Bird",
             "Heat Wave",
-            "Close Combat"
+            "Close Combat",
+            "Fly"
         ],
         "elite_fm": [
             "Gust"
@@ -23034,7 +23114,8 @@
         "cm": [
             "Dynamic Punch",
             "Mud Bomb",
-            "Sludge Bomb"
+            "Sludge Bomb",
+            "Shadow Ball"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -23217,7 +23298,8 @@
             "Blizzard",
             "Energy Ball",
             "Outrage",
-            "Weather Ball Ice"
+            "Weather Ball Ice",
+            "Icy Wind"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -23258,7 +23340,8 @@
             "Blizzard",
             "Energy Ball",
             "Outrage",
-            "Weather Ball Ice"
+            "Weather Ball Ice",
+            "Icy Wind"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -24137,7 +24220,8 @@
         "cm": [
             "Avalanche",
             "Crunch",
-            "Shadow Ball"
+            "Shadow Ball",
+            "Triple Axel"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -25531,6 +25615,64 @@
         "shadow": false,
         "shadow_released": false,
         "released": true
+    },
+    {
+        "id": 503,
+        "name": "Samurott",
+        "form": "Normal",
+        "types": [
+            "Water"
+        ],
+        "stats": {
+            "baseStamina": 216,
+            "baseAttack": 212,
+            "baseDefense": 157
+        },
+        "fm": [
+            "Fury Cutter",
+            "Waterfall"
+        ],
+        "cm": [
+            "Hydro Pump",
+            "Blizzard",
+            "Megahorn",
+            "Razor Shell",
+            "Liquidation"
+        ],
+        "elite_cm": [
+            "Hydro Cannon"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 503,
+        "name": "Samurott",
+        "form": "Hisuian",
+        "types": [
+            "Water",
+            "Dark"
+        ],
+        "stats": {
+            "baseStamina": 207,
+            "baseAttack": 218,
+            "baseDefense": 152
+        },
+        "fm": [
+            "Waterfall",
+            "Fury Cutter",
+            "Snarl"
+        ],
+        "cm": [
+            "Razor Shell",
+            "Icy Wind",
+            "X Scissor",
+            "Dark Pulse"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
     },
     {
         "id": 503,
@@ -29156,7 +29298,8 @@
             "Aurora Beam",
             "Night Slash",
             "Solar Beam",
-            "Water Pulse"
+            "Water Pulse",
+            "Triple Axel"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -29521,7 +29664,8 @@
         "cm": [
             "Aerial Ace",
             "Brave Bird",
-            "Rock Tomb"
+            "Rock Tomb",
+            "Fly"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -29548,7 +29692,8 @@
             "Heat Wave",
             "Brave Bird",
             "Rock Slide",
-            "Close Combat"
+            "Close Combat",
+            "Fly"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -29575,7 +29720,8 @@
             "Dazzling Gleam",
             "Brave Bird",
             "Psychic",
-            "Ominous Wind"
+            "Ominous Wind",
+            "Fly"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -29602,7 +29748,8 @@
             "Heat Wave",
             "Brave Bird",
             "Rock Slide",
-            "Close Combat"
+            "Close Combat",
+            "Fly"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -31031,7 +31178,8 @@
         "cm": [
             "Aerial Ace",
             "Heat Wave",
-            "Swift"
+            "Swift",
+            "Fly"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -31058,7 +31206,8 @@
         "cm": [
             "Aerial Ace",
             "Heat Wave",
-            "Flame Charge"
+            "Flame Charge",
+            "Fly"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -31086,7 +31235,8 @@
             "Brave Bird",
             "Fire Blast",
             "Flame Charge",
-            "Hurricane"
+            "Hurricane",
+            "Fly"
         ],
         "elite_fm": [
             "Incinerate"
@@ -34301,7 +34451,8 @@
         ],
         "cm": [
             "Discharge",
-            "Play Rough"
+            "Play Rough",
+            "Parabolic Charge"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -34805,7 +34956,8 @@
             "Avalanche",
             "Earthquake",
             "Body Slam",
-            "Mirror Coat"
+            "Mirror Coat",
+            "Icy Wind"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -34832,7 +34984,8 @@
         "cm": [
             "Crunch",
             "Rock Slide",
-            "Blizzard"
+            "Blizzard",
+            "Icy Wind"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -34859,7 +35012,8 @@
             "Avalanche",
             "Earthquake",
             "Body Slam",
-            "Mirror Coat"
+            "Mirror Coat",
+            "Icy Wind"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -35399,6 +35553,61 @@
         "released": true
     },
     {
+        "id": 724,
+        "name": "Decidueye",
+        "form": "Hisuian",
+        "types": [
+            "Grass",
+            "Fighting"
+        ],
+        "stats": {
+            "baseStamina": 204,
+            "baseAttack": 213,
+            "baseDefense": 174
+        },
+        "fm": [
+            "Magical Leaf",
+            "Psycho Cut"
+        ],
+        "cm": [
+            "Trailblaze",
+            "Energy Ball",
+            "Aura Sphere",
+            "Aerial Ace"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 724,
+        "name": "Decidueye",
+        "form": "Normal",
+        "types": [
+            "Grass",
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 186,
+            "baseAttack": 210,
+            "baseDefense": 179
+        },
+        "fm": [
+            "Astonish",
+            "Razor Leaf",
+            "Leafage",
+            "Magical Leaf"
+        ],
+        "cm": [
+            "Shadow Sneak",
+            "Energy Ball",
+            "Brave Bird"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
         "id": 725,
         "name": "Litten",
         "form": "Normal",
@@ -35757,7 +35966,8 @@
         "cm": [
             "X Scissor",
             "Discharge",
-            "Crunch"
+            "Crunch",
+            "Fly"
         ],
         "elite_fm": [
             "Volt Switch"
@@ -36699,7 +36909,8 @@
         "cm": [
             "Psychic",
             "Foul Play",
-            "Futuresight"
+            "Futuresight",
+            "Trailblaze"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -38981,7 +39192,8 @@
         ],
         "cm": [
             "Body Slam",
-            "Crunch"
+            "Crunch",
+            "Trailblaze"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42294,7 +42506,8 @@
         "cm": [
             "X Scissor",
             "Trailblaze",
-            "Bug Buzz"
+            "Bug Buzz",
+            "Trailblaze"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42580,7 +42793,8 @@
         "cm": [
             "Seed Bomb",
             "Energy Ball",
-            "Earth Power"
+            "Earth Power",
+            "Trailblaze"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42607,7 +42821,8 @@
         "cm": [
             "Seed Bomb",
             "Energy Ball",
-            "Earth Power"
+            "Earth Power",
+            "Trailblaze"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42634,7 +42849,8 @@
         "cm": [
             "Seed Bomb",
             "Energy Ball",
-            "Earth Power"
+            "Earth Power",
+            "Trailblaze"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -44605,7 +44821,8 @@
         "cm": [
             "Dragon Claw",
             "Avalanche",
-            "Outrage"
+            "Outrage",
+            "Icy Wind"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -44631,7 +44848,8 @@
         "cm": [
             "Dragon Claw",
             "Avalanche",
-            "Outrage"
+            "Outrage",
+            "Icy Wind"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -44658,7 +44876,8 @@
             "Dragon Claw",
             "Avalanche",
             "Outrage",
-            "Blizzard"
+            "Blizzard",
+            "Icy Wind"
         ],
         "shadow": false,
         "shadow_released": false,
