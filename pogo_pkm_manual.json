@@ -1,35 +1,5 @@
 [
     {
-        "id": 92,
-        "name": "Gastly",
-        "form": "Normal",
-        "shadow_released": true
-    },
-    {
-        "id": 93,
-        "name": "Haunter",
-        "form": "Normal",
-        "shadow_released": true
-    },
-    {
-        "id": 94,
-        "name": "Gengar",
-        "form": "Normal",
-        "shadow_released": true
-    },
-    {
-        "id": 111,
-        "name": "Rhyhorn",
-        "form": "Normal",
-        "shadow_released": true
-    },
-    {
-        "id": 112,
-        "name": "Rhydon",
-        "form": "Normal",
-        "shadow_released": true
-    },
-    {
         "id": 144,
         "name": "Articuno",
         "form": "Galarian",
@@ -48,18 +18,6 @@
         "shadow_released": false
     },
     {
-        "id": 339,
-        "name": "Barboach",
-        "form": "Normal",
-        "shadow_released": true
-    },
-    {
-        "id": 340,
-        "name": "Whiscash",
-        "form": "Normal",
-        "shadow_released": true
-    },
-    {
         "id": 384,
         "name": "Rayquaza",
         "form": "Normal",
@@ -68,42 +26,6 @@
             "Breaking Swipe",
             "Dragon Ascent"
         ]
-    },
-    {
-        "id": 408,
-        "name": "Cranidos",
-        "form": "Normal",
-        "shadow_released": true
-    },
-    {
-        "id": 409,
-        "name": "Rampardos",
-        "form": "Normal",
-        "shadow_released": true
-    },
-    {
-        "id": 410,
-        "name": "Shieldon",
-        "form": "Normal",
-        "shadow_released": true
-    },
-    {
-        "id": 411,
-        "name": "Bastiodon",
-        "form": "Normal",
-        "shadow_released": true
-    },
-    {
-        "id": 464,
-        "name": "Rhyperior",
-        "form": "Normal",
-        "shadow_released": true
-    },
-    {
-        "id": 486,
-        "name": "Regigigas",
-        "form": "Normal",
-        "shadow_released": true
     },
     {
         "id": 492,
@@ -134,30 +56,6 @@
             "Zen Headbutt",
             "Magical Leaf"
         ]
-    },
-    {
-        "id": 529,
-        "name": "Drilbur",
-        "form": "Normal",
-        "shadow_released": true
-    },
-    {
-        "id": 530,
-        "name": "Excadrill",
-        "form": "Normal",
-        "shadow_released": true
-    },
-    {
-        "id": 607,
-        "name": "Litwick",
-        "form": "Normal",
-        "shadow_released": true
-    },
-    {
-        "id": 609,
-        "name": "Chandelure",
-        "form": "Normal",
-        "shadow_released": true
     },
     {
         "id": 672,
@@ -221,11 +119,5 @@
         "name": "Mr. Rime",
         "form": "Normal",
         "shadow_released": false
-    },
-    {
-        "id": 980,
-        "name": "Clodsire",
-        "form": "Normal",
-        "released" : true
     }
 ]
