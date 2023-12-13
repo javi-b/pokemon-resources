@@ -11654,7 +11654,7 @@
         ],
         "shadow": true,
         "shadow_released": true,
-        "released": false
+        "released": true
     },
     {
         "id": 195,
@@ -25672,7 +25672,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 503,
@@ -43163,7 +43163,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 939,
@@ -43188,7 +43188,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 940,
@@ -44070,7 +44070,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 972,
@@ -44095,7 +44095,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 973,
