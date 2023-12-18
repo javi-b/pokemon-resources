@@ -119,5 +119,17 @@
         "name": "Mr. Rime",
         "form": "Normal",
         "shadow_released": false
+    },
+    {
+        "id": 974,
+        "name": "Cetoddle",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 975,
+        "name": "Cetitan",
+        "form": "Normal",
+        "released": true
     }
 ]
