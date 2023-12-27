@@ -41993,6 +41993,34 @@
         "released": false
     },
     {
+        "id": 899,
+        "name": "Wyrdeer",
+        "form": "Normal",
+        "types": [
+            "Normal",
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 230,
+            "baseAttack": 206,
+            "baseDefense": 145
+        },
+        "fm": [
+            "Tackle",
+            "Zen Headbutt",
+            "Confusion"
+        ],
+        "cm": [
+            "Stomp",
+            "Wild Charge",
+            "Megahorn",
+            "Psychic"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
         "id": 900,
         "name": "Kleavor",
         "form": "Normal",
@@ -42506,8 +42534,7 @@
         "cm": [
             "X Scissor",
             "Trailblaze",
-            "Bug Buzz",
-            "Trailblaze"
+            "Bug Buzz"
         ],
         "shadow": false,
         "shadow_released": false,
