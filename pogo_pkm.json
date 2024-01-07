@@ -35546,11 +35546,15 @@
         "cm": [
             "Shadow Sneak",
             "Energy Ball",
-            "Brave Bird"
+            "Brave Bird",
+            "Spirit Shackle"
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": true
+        "released": true,
+        "elite_cm": [
+            "Frenzy Plant"
+        ]
     },
     {
         "id": 724,
@@ -35601,11 +35605,15 @@
         "cm": [
             "Shadow Sneak",
             "Energy Ball",
-            "Brave Bird"
+            "Brave Bird",
+            "Spirit Shackle"
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": true
+        "released": true,
+        "elite_cm": [
+            "Frenzy Plant"
+        ]
     },
     {
         "id": 725,
