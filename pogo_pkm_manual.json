@@ -115,20 +115,6 @@
         "shadow_released": false
     },
     {
-        "id": 724,
-        "name": "Decidueye",
-        "form": "Normal",
-        "cm": [
-            "Shadow Sneak",
-            "Energy Ball",
-            "Brave Bird",
-            "Spirit Shackle"
-        ],
-        "elite_cm": [
-            "Frenzy Plant"
-        ]
-    },
-    {
         "id": 866,
         "name": "Mr. Rime",
         "form": "Normal",

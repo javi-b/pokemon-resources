@@ -1775,6 +1775,106 @@
     {
         "id": 25,
         "name": "Pikachu",
+        "form": "Gotour_2024_a",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "form": "Gotour_2024_a_02",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "form": "Gotour_2024_b",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "form": "Gotour_2024_b_02",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
         "form": "Jeju",
         "types": [
             "Electric"
@@ -24515,6 +24615,60 @@
         "released": true
     },
     {
+        "id": 483,
+        "name": "Dialga",
+        "form": "Normal",
+        "types": [
+            "Steel",
+            "Dragon"
+        ],
+        "stats": {
+            "baseStamina": 205,
+            "baseAttack": 275,
+            "baseDefense": 211
+        },
+        "fm": [
+            "Dragon Breath",
+            "Metal Claw"
+        ],
+        "cm": [
+            "Draco Meteor",
+            "Iron Head",
+            "Thunder"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": true
+    },
+    {
+        "id": 483,
+        "name": "Dialga",
+        "form": "Origin",
+        "types": [
+            "Steel",
+            "Dragon"
+        ],
+        "stats": {
+            "baseStamina": 205,
+            "baseAttack": 270,
+            "baseDefense": 225
+        },
+        "fm": [
+            "Dragon Breath",
+            "Metal Claw"
+        ],
+        "cm": [
+            "Draco Meteor",
+            "Iron Head",
+            "Thunder"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": true
+    },
+    {
         "id": 484,
         "name": "Palkia",
         "form": "Normal",
@@ -24526,6 +24680,62 @@
             "baseStamina": 189,
             "baseAttack": 280,
             "baseDefense": 215
+        },
+        "fm": [
+            "Dragon Breath",
+            "Dragon Tail"
+        ],
+        "cm": [
+            "Draco Meteor",
+            "Fire Blast",
+            "Hydro Pump",
+            "Aqua Tail"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": true
+    },
+    {
+        "id": 484,
+        "name": "Palkia",
+        "form": "Normal",
+        "types": [
+            "Water",
+            "Dragon"
+        ],
+        "stats": {
+            "baseStamina": 189,
+            "baseAttack": 280,
+            "baseDefense": 215
+        },
+        "fm": [
+            "Dragon Breath",
+            "Dragon Tail"
+        ],
+        "cm": [
+            "Draco Meteor",
+            "Fire Blast",
+            "Hydro Pump",
+            "Aqua Tail"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": true
+    },
+    {
+        "id": 484,
+        "name": "Palkia",
+        "form": "Origin",
+        "types": [
+            "Water",
+            "Dragon"
+        ],
+        "stats": {
+            "baseStamina": 189,
+            "baseAttack": 286,
+            "baseDefense": 223
         },
         "fm": [
             "Dragon Breath",
@@ -30162,6 +30372,9 @@
             "Focus Blast",
             "Hurricane"
         ],
+        "elite_cm": [
+            "Bleakwind Storm"
+        ],
         "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -35549,12 +35762,12 @@
             "Brave Bird",
             "Spirit Shackle"
         ],
-        "shadow": false,
-        "shadow_released": false,
-        "released": true,
         "elite_cm": [
             "Frenzy Plant"
-        ]
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
     },
     {
         "id": 724,
@@ -35608,12 +35821,12 @@
             "Brave Bird",
             "Spirit Shackle"
         ],
-        "shadow": false,
-        "shadow_released": false,
-        "released": true,
         "elite_cm": [
             "Frenzy Plant"
-        ]
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
     },
     {
         "id": 725,
@@ -36215,6 +36428,58 @@
         "shadow": false,
         "shadow_released": false,
         "released": true
+    },
+    {
+        "id": 744,
+        "name": "Rockruff",
+        "form": "Normal",
+        "types": [
+            "Rock"
+        ],
+        "stats": {
+            "baseStamina": 128,
+            "baseAttack": 117,
+            "baseDefense": 78
+        },
+        "fm": [
+            "Tackle",
+            "Rock Throw"
+        ],
+        "cm": [
+            "Stone Edge",
+            "Rock Tomb",
+            "Crunch",
+            "Trailblaze"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 744,
+        "name": "Rockruff",
+        "form": "Dusk",
+        "types": [
+            "Rock"
+        ],
+        "stats": {
+            "baseStamina": 128,
+            "baseAttack": 117,
+            "baseDefense": 78
+        },
+        "fm": [
+            "Tackle",
+            "Rock Throw"
+        ],
+        "cm": [
+            "Stone Edge",
+            "Rock Tomb",
+            "Crunch",
+            "Trailblaze"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
     },
     {
         "id": 744,
