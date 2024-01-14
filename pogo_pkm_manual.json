@@ -18,6 +18,12 @@
         "shadow_released": false
     },
     {
+        "id": 157,
+        "name": "Typhlosion",
+        "form": "Hisuian",
+        "released": true
+    },
+    {
         "id": 384,
         "name": "Rayquaza",
         "form": "Normal",
