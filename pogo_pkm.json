@@ -27173,6 +27173,31 @@
         "released": true
     },
     {
+        "id": 550,
+        "name": "Basculin",
+        "form": "White_striped",
+        "types": [
+            "Water"
+        ],
+        "stats": {
+            "baseStamina": 172,
+            "baseAttack": 189,
+            "baseDefense": 129
+        },
+        "fm": [
+            "Tackle",
+            "Water Gun"
+        ],
+        "cm": [
+            "Aqua Jet",
+            "Aqua Tail",
+            "Muddy Water"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
         "id": 551,
         "name": "Sandile",
         "form": "Normal",
@@ -30458,6 +30483,9 @@
             "Thunder",
             "Focus Blast",
             "Thunderbolt"
+        ],
+        "elite_cm": [
+            "Wildbolt Storm"
         ],
         "shadow": false,
         "shadow_released": false,
