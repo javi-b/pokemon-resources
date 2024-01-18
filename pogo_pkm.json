@@ -39069,10 +39069,13 @@
             "baseDefense": 133
         },
         "fm": [
-            "Str"
+            "Poison Jab",
+            "Peck"
         ],
         "cm": [
-            "Struggle"
+            "Sludge Bomb",
+            "Sludge Wave",
+            "Fell Stinger"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -39093,10 +39096,14 @@
             "baseDefense": 159
         },
         "fm": [
-            "Str"
+            "Poison Jab",
+            "Air Slash"
         ],
         "cm": [
-            "Struggle"
+            "Sludge Bomb",
+            "Acrobatics",
+            "Fell Stinger",
+            "Dragon Pulse"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -39117,10 +39124,13 @@
             "baseDefense": 298
         },
         "fm": [
-            "Str"
+            "Rock Throw",
+            "Take Down"
         ],
         "cm": [
-            "Struggle"
+            "Flash Cannon",
+            "Stone Edge",
+            "Bulldoze"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -39141,10 +39151,13 @@
             "baseDefense": 148
         },
         "fm": [
-            "Str"
+            "Incinerate",
+            "Astonish"
         ],
         "cm": [
-            "Struggle"
+            "Mystical Fire",
+            "Shadow Ball",
+            "Overheat"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -39164,10 +39177,13 @@
             "baseDefense": 177
         },
         "fm": [
-            "Str"
+            "Spark",
+            "Volt Switch"
         ],
         "cm": [
-            "Struggle"
+            "Thunder Punch",
+            "Discharge",
+            "Wild Charge"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -44683,7 +44699,8 @@
             "Close Combat",
             "Low Sweep",
             "Night Slash",
-            "Ice Punch"
+            "Ice Punch",
+            "Shadow Ball"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -45273,10 +45290,13 @@
             "baseDefense": 242
         },
         "fm": [
-            "Splash"
+            "Magical Leaf",
+            "Snarl"
         ],
         "cm": [
-            "Struggle"
+            "Dark Pulse",
+            "Grass Knot",
+            "Leaf Storm"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -45297,10 +45317,13 @@
             "baseDefense": 167
         },
         "fm": [
-            "Splash"
+            "Powder Snow",
+            "Snarl"
         ],
         "cm": [
-            "Struggle"
+            "Dark Pulse",
+            "Avalanche",
+            "Blizzard"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -45321,10 +45344,13 @@
             "baseDefense": 203
         },
         "fm": [
-            "Splash"
+            "Mud Shot",
+            "Snarl"
         ],
         "cm": [
-            "Struggle"
+            "Dark Pulse",
+            "Bulldoze",
+            "Earthquake"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -45345,10 +45371,13 @@
             "baseDefense": 221
         },
         "fm": [
-            "Splash"
+            "Incinerate",
+            "Snarl"
         ],
         "cm": [
-            "Struggle"
+            "Dark Pulse",
+            "Flame Charge",
+            "Flame Wheel"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -45415,10 +45444,14 @@
             "baseDefense": 223
         },
         "fm": [
-            "Splash"
+            "Rock Smash",
+            "Dragon Tail"
         ],
         "cm": [
-            "Struggle"
+            "Giga Impact",
+            "Dragon Claw",
+            "Close Combat",
+            "Outrage"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -45439,10 +45472,14 @@
             "baseDefense": 223
         },
         "fm": [
-            "Splash"
+            "Rock Smash",
+            "Dragon Tail"
         ],
         "cm": [
-            "Struggle"
+            "Giga Impact",
+            "Dragon Claw",
+            "Close Combat",
+            "Outrage"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -45463,10 +45500,14 @@
             "baseDefense": 223
         },
         "fm": [
-            "Splash"
+            "Thunder Shock",
+            "Dragon Breath"
         ],
         "cm": [
-            "Struggle"
+            "Hyper Beam",
+            "Dragon Pulse",
+            "Thunder",
+            "Outrage"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -45487,10 +45528,14 @@
             "baseDefense": 223
         },
         "fm": [
-            "Splash"
+            "Thunder Shock",
+            "Dragon Breath"
         ],
         "cm": [
-            "Struggle"
+            "Hyper Beam",
+            "Dragon Pulse",
+            "Thunder",
+            "Outrage"
         ],
         "shadow": false,
         "shadow_released": false,
