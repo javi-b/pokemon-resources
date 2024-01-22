@@ -25,6 +25,12 @@
         "released": true
     },
     {
+        "id": 382,
+        "name": "Kyogre",
+        "form": "Normal",
+        "shadow": true
+    },
+    {
         "id": 384,
         "name": "Rayquaza",
         "form": "Normal",
@@ -32,6 +38,22 @@
             "Hurricane",
             "Breaking Swipe",
             "Dragon Ascent"
+        ]
+    },
+    {
+        "id": 483,
+        "name": "Dialga",
+        "form": "Origin",
+        "elite_cm": [
+            "Roar Of Time"
+        ]
+    },
+    {
+        "id": 484,
+        "name": "Palkia",
+        "form": "Origin",
+        "elite_cm": [
+            "Spacial Rend"
         ]
     },
     {
@@ -62,6 +84,14 @@
             "Hidden Power",
             "Zen Headbutt",
             "Magical Leaf"
+        ]
+    },
+    {
+        "id": 645,
+        "name": "Landorus",
+        "form": "Therian",
+        "elite_cm": [
+            "Sandsear Storm"
         ]
     },
     {

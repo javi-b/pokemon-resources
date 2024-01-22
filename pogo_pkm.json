@@ -20204,7 +20204,7 @@
         "elite_cm": [
             "Origin Pulse"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "mega": [
             {
@@ -24666,7 +24666,10 @@
         "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": true
+        "released": true,
+        "elite_cm": [
+            "Roar Of Time"
+        ]
     },
     {
         "id": 484,
@@ -24750,7 +24753,10 @@
         "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": true
+        "released": true,
+        "elite_cm": [
+            "Spacial Rend"
+        ]
     },
     {
         "id": 485,
@@ -30636,7 +30642,10 @@
         "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": true
+        "released": true,
+        "elite_cm": [
+            "Sandsear Storm"
+        ]
     },
     {
         "id": 646,
