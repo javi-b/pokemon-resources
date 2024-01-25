@@ -5080,7 +5080,7 @@
             "Water Pulse",
             "Wrap"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -5108,7 +5108,7 @@
             "Acid Spray",
             "Scald"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -18249,7 +18249,7 @@
             "Razor Shell",
             "Scald"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -18278,7 +18278,7 @@
             "Razor Shell",
             "Scald"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -18573,7 +18573,7 @@
         "cm": [
             "Mirror Coat"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -18598,7 +18598,7 @@
             "Blizzard",
             "Hyper Beam"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -19153,8 +19153,8 @@
             "Icy Wind",
             "Shadow Ball"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -19178,8 +19178,8 @@
             "Gyro Ball",
             "Shadow Ball"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "mega": [
             {
                 "types": [
@@ -20807,7 +20807,7 @@
             "Drill Peck",
             "Icy Wind"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -20832,7 +20832,7 @@
             "Hydro Pump",
             "Icy Wind"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -20862,7 +20862,7 @@
         "elite_cm": [
             "Hydro Cannon"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -23189,7 +23189,7 @@
             "Low Sweep",
             "Sludge Bomb"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -23217,7 +23217,7 @@
             "Sludge Bomb",
             "Shadow Ball"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -24323,7 +24323,7 @@
             "Shadow Ball",
             "Triple Axel"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -27535,7 +27535,7 @@
             "X Scissor",
             "Rock Tomb"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -27561,7 +27561,7 @@
             "X Scissor",
             "Rock Slide"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -28970,7 +28970,7 @@
             "Flash Cannon",
             "Iron Head"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -28998,7 +28998,7 @@
             "Thunder",
             "Mirror Shot"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -30639,13 +30639,13 @@
             "Stone Edge",
             "Super Power"
         ],
+        "elite_cm": [
+            "Sandsear Storm"
+        ],
         "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": true,
-        "elite_cm": [
-            "Sandsear Storm"
-        ]
+        "released": true
     },
     {
         "id": 646,
