@@ -28,7 +28,8 @@
         "id": 382,
         "name": "Kyogre",
         "form": "Normal",
-        "shadow": true
+        "shadow": true,
+        "shadow_released": true
     },
     {
         "id": 384,
@@ -148,6 +149,18 @@
         "name": "Mr. Rime",
         "form": "Normal",
         "shadow_released": false
+    },
+    {
+        "id": 965,
+        "name": "Varoom",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 966,
+        "name": "Revavroom",
+        "form": "Normal",
+        "released": true
     },
     {
         "id": 974,

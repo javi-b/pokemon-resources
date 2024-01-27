@@ -20205,7 +20205,7 @@
             "Origin Pulse"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "mega": [
             {
                 "types": [
@@ -44268,7 +44268,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 966,
@@ -44295,7 +44295,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 967,
