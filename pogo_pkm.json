@@ -18250,7 +18250,7 @@
             "Scald"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -18279,7 +18279,7 @@
             "Scald"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -20648,7 +20648,7 @@
             "Flame Charge"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -20699,7 +20699,7 @@
             "Low Sweep"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -20754,7 +20754,7 @@
             "Blast Burn"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -20808,7 +20808,7 @@
             "Icy Wind"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -20833,7 +20833,7 @@
             "Icy Wind"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -20863,7 +20863,7 @@
             "Hydro Cannon"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -23190,7 +23190,7 @@
             "Sludge Bomb"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -23218,7 +23218,7 @@
             "Shadow Ball"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -24324,7 +24324,7 @@
             "Triple Axel"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -27536,7 +27536,7 @@
             "Rock Tomb"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -27562,7 +27562,7 @@
             "Rock Slide"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -28971,7 +28971,7 @@
             "Iron Head"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -28999,7 +28999,7 @@
             "Mirror Shot"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {

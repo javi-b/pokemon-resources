@@ -25,10 +25,21 @@
         "released": true
     },
     {
+        "id": 341,
+        "name": "Corphish",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 342,
+        "name": "Crawdaunt",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
         "id": 382,
         "name": "Kyogre",
         "form": "Normal",
-        "shadow": true,
         "shadow_released": true
     },
     {
@@ -40,6 +51,60 @@
             "Breaking Swipe",
             "Dragon Ascent"
         ]
+    },
+    {
+        "id": 390,
+        "name": "Chimchar",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 391,
+        "name": "Monferno",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 392,
+        "name": "Infernape",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 393,
+        "name": "Piplup",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 394,
+        "name": "Prinplup",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 395,
+        "name": "Empoleon",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 453,
+        "name": "Croagunk",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 454,
+        "name": "Toxicroak",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 478,
+        "name": "Froslass",
+        "form": "Normal",
+        "shadow_released": true
     },
     {
         "id": 483,
@@ -86,6 +151,30 @@
             "Zen Headbutt",
             "Magical Leaf"
         ]
+    },
+    {
+        "id": 557,
+        "name": "Dwebble",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 558,
+        "name": "Crustle",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 597,
+        "name": "Ferroseed",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 598,
+        "name": "Ferrothorn",
+        "form": "Normal",
+        "shadow_released": true
     },
     {
         "id": 672,
