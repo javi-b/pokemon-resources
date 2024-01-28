@@ -522,6 +522,150 @@
         "energy_delta": 15
     },
     {
+        "name": "Hidden Power Fire",
+        "type": "Fire",
+        "power": 15.0,
+        "duration": 1500,
+        "damage_window_start": 1100,
+        "damage_window_end": 1400,
+        "energy_delta": 15
+    },
+    {
+        "name": "Hidden Power Water",
+        "type": "Water",
+        "power": 15.0,
+        "duration": 1500,
+        "damage_window_start": 1100,
+        "damage_window_end": 1400,
+        "energy_delta": 15
+    },
+    {
+        "name": "Hidden Power Grass",
+        "type": "Grass",
+        "power": 15.0,
+        "duration": 1500,
+        "damage_window_start": 1100,
+        "damage_window_end": 1400,
+        "energy_delta": 15
+    },
+    {
+        "name": "Hidden Power Electric",
+        "type": "Electric",
+        "power": 15.0,
+        "duration": 1500,
+        "damage_window_start": 1100,
+        "damage_window_end": 1400,
+        "energy_delta": 15
+    },
+    {
+        "name": "Hidden Power Ice",
+        "type": "Ice",
+        "power": 15.0,
+        "duration": 1500,
+        "damage_window_start": 1100,
+        "damage_window_end": 1400,
+        "energy_delta": 15
+    },
+    {
+        "name": "Hidden Power Fighting",
+        "type": "Fighting",
+        "power": 15.0,
+        "duration": 1500,
+        "damage_window_start": 1100,
+        "damage_window_end": 1400,
+        "energy_delta": 15
+    },
+    {
+        "name": "Hidden Power Poison",
+        "type": "Poison",
+        "power": 15.0,
+        "duration": 1500,
+        "damage_window_start": 1100,
+        "damage_window_end": 1400,
+        "energy_delta": 15
+    },
+    {
+        "name": "Hidden Power Ground",
+        "type": "Ground",
+        "power": 15.0,
+        "duration": 1500,
+        "damage_window_start": 1100,
+        "damage_window_end": 1400,
+        "energy_delta": 15
+    },
+    {
+        "name": "Hidden Power Flying",
+        "type": "Flying",
+        "power": 15.0,
+        "duration": 1500,
+        "damage_window_start": 1100,
+        "damage_window_end": 1400,
+        "energy_delta": 15
+    },
+    {
+        "name": "Hidden Power Psychic",
+        "type": "Psychic",
+        "power": 15.0,
+        "duration": 1500,
+        "damage_window_start": 1100,
+        "damage_window_end": 1400,
+        "energy_delta": 15
+    },
+    {
+        "name": "Hidden Power Bug",
+        "type": "Bug",
+        "power": 15.0,
+        "duration": 1500,
+        "damage_window_start": 1100,
+        "damage_window_end": 1400,
+        "energy_delta": 15
+    },
+    {
+        "name": "Hidden Power Rock",
+        "type": "Rock",
+        "power": 15.0,
+        "duration": 1500,
+        "damage_window_start": 1100,
+        "damage_window_end": 1400,
+        "energy_delta": 15
+    },
+    {
+        "name": "Hidden Power Ghost",
+        "type": "Ghost",
+        "power": 15.0,
+        "duration": 1500,
+        "damage_window_start": 1100,
+        "damage_window_end": 1400,
+        "energy_delta": 15
+    },
+    {
+        "name": "Hidden Power Dragon",
+        "type": "Dragon",
+        "power": 15.0,
+        "duration": 1500,
+        "damage_window_start": 1100,
+        "damage_window_end": 1400,
+        "energy_delta": 15
+    },
+    {
+        "name": "Hidden Power Dark",
+        "type": "Dark",
+        "power": 15.0,
+        "duration": 1500,
+        "damage_window_start": 1100,
+        "damage_window_end": 1400,
+        "energy_delta": 15
+    },
+    {
+        "name": "Hidden Power Steel",
+        "type": "Steel",
+        "power": 15.0,
+        "duration": 1500,
+        "damage_window_start": 1100,
+        "damage_window_end": 1400,
+        "energy_delta": 15
+    },
+    {
         "name": "Take Down",
         "type": "Normal",
         "power": 8.0,
