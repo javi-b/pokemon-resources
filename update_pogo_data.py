@@ -195,27 +195,14 @@ def ManualPatch():
     for pkm_obj in pogo_pkm:
         for manual_obj in pogo_pkm_manual:
             if pkm_obj["id"] == manual_obj["id"] and pkm_obj["name"] == manual_obj["name"] and pkm_obj["form"] == manual_obj["form"]:
-                if "fm" in manual_obj:
-                    pkm_obj["fm"] = manual_obj["fm"]
-                    num_changes += 1
-                if "cm" in manual_obj:
-                    pkm_obj["cm"] = manual_obj["cm"]
-                    num_changes += 1
-                if "elite_fm" in manual_obj:
-                    pkm_obj["elite_fm"] = manual_obj["elite_fm"]
-                    num_changes += 1
-                if "elite_cm" in manual_obj:
-                    pkm_obj["elite_cm"] = manual_obj["elite_cm"]
-                    num_changes += 1
-                if "shadow" in manual_obj:
-                    pkm_obj["shadow"] = manual_obj["shadow"]
-                    num_changes += 1
-                if "shadow_released" in manual_obj:
-                    pkm_obj["shadow_released"] = manual_obj["shadow_released"]
-                    num_changes += 1
-                if "released" in manual_obj:
-                    pkm_obj["released"] = manual_obj["released"]
-                    num_changes += 1
+                for key in ["fm", "cm", "elite_fm", "elite_cm", "shadow", "shadow_released", "released"]:
+                    if key in manual_obj:
+                        if key in pkm_obj and pkm_obj[key] == manual_obj[key]:
+                            name = pkm_obj["name"] + ("(" + pkm_obj["form"] + ")" if (pkm_obj["form"] != "Normal") else "")
+                            print(" " + name + "[" + key + "] -> manual change is redundant!")
+                        else:
+                            pkm_obj[key] = manual_obj[key]
+                            num_changes += 1
     
     print(" " + str(num_changes) + " changes done")
 
