@@ -25,6 +25,12 @@
         "released": true
     },
     {
+        "id": 242,
+        "name": "Blissey",
+        "form": "Normal",
+        "elite_cm": "Wild Charge"
+    },
+    {
         "id": 341,
         "name": "Corphish",
         "form": "Normal",
