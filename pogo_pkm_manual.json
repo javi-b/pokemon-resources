@@ -240,6 +240,12 @@
         "shadow_released": false
     },
     {
+        "id": 780,
+        "name": "Drampa",
+        "form": "Normal",
+        "released": true
+    },
+    {
         "id": 866,
         "name": "Mr. Rime",
         "form": "Normal",
