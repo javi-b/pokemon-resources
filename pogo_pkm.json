@@ -5081,7 +5081,7 @@
             "Wrap"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -5109,7 +5109,7 @@
             "Scald"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -13950,10 +13950,12 @@
             "Hyper Beam",
             "Dazzling Gleam"
         ],
+        "elite_cm": [
+            "Wild Charge"
+        ],
         "shadow": false,
         "shadow_released": false,
-        "released": true,
-        "elite_cm": "Wild Charge"
+        "released": true
     },
     {
         "id": 243,
@@ -27202,7 +27204,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 551,
@@ -35832,7 +35834,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 724,
@@ -36517,7 +36519,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 744,
@@ -36596,7 +36598,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 745,
@@ -44714,7 +44716,7 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": false
+        "released": true
     },
     {
         "id": 980,
