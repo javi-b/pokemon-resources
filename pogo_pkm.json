@@ -42463,6 +42463,90 @@
         "released": true
     },
     {
+        "id": 905,
+        "name": "Enamorus",
+        "form": "Normal",
+        "types": [
+            "Fairy",
+            "Flying"
+        ],
+        "stats": {
+            "baseStamina": 179,
+            "baseAttack": 281,
+            "baseDefense": 162
+        },
+        "fm": [
+            "Astonish",
+            "Zen Headbutt",
+            "Fairy Wind"
+        ],
+        "cm": [
+            "Dazzling Gleam",
+            "Fly",
+            "Grass Knot"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": true
+    },
+    {
+        "id": 905,
+        "name": "Enamorus",
+        "form": "Incarnate",
+        "types": [
+            "Fairy",
+            "Flying"
+        ],
+        "stats": {
+            "baseStamina": 179,
+            "baseAttack": 281,
+            "baseDefense": 162
+        },
+        "fm": [
+            "Astonish",
+            "Zen Headbutt",
+            "Fairy Wind"
+        ],
+        "cm": [
+            "Dazzling Gleam",
+            "Fly",
+            "Grass Knot"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": true
+    },
+    {
+        "id": 905,
+        "name": "Enamorus",
+        "form": "Therian",
+        "types": [
+            "Fairy",
+            "Flying"
+        ],
+        "stats": {
+            "baseStamina": 179,
+            "baseAttack": 250,
+            "baseDefense": 201
+        },
+        "fm": [
+            "Astonish",
+            "Zen Headbutt",
+            "Fairy Wind"
+        ],
+        "cm": [
+            "Dazzling Gleam",
+            "Fly",
+            "Grass Knot"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "class": "POKEMON_CLASS_LEGENDARY",
+        "released": false
+    },
+    {
         "id": 906,
         "name": "Sprigatito",
         "form": "Normal",
