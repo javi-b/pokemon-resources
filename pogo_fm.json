@@ -826,5 +826,32 @@
         "damage_window_start": 1000,
         "damage_window_end": 1500,
         "energy_delta": 14
+    },
+    {
+        "name": "Psywave",
+        "type": "Psychic",
+        "power": 4.0,
+        "duration": 500,
+        "damage_window_start": 300,
+        "damage_window_end": 600,
+        "energy_delta": 7
+    },
+    {
+        "name": "Metal Sound",
+        "type": "Steel",
+        "power": 6.0,
+        "duration": 700,
+        "damage_window_start": 400,
+        "damage_window_end": 900,
+        "energy_delta": 9
+    },
+    {
+        "name": "Sand Attack",
+        "type": "Ground",
+        "power": 4.0,
+        "duration": 500,
+        "damage_window_start": 300,
+        "damage_window_end": 600,
+        "energy_delta": 7
     }
 ]
