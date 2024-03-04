@@ -3,6 +3,7 @@ import requests
 import lxml.html
 import json
 import os
+import copy
 
 # global constants and variables
 
@@ -156,6 +157,17 @@ def AddMove(gm_obj, is_fast):
         pogo_fm.append(move_obj)
     else:
         pogo_cm.append(move_obj)
+    
+    # checks for Hidden Power and adds corresponding moves
+    HIDDEN_POWER_TYPES = ["Fire", "Water", "Grass", "Electric", "Ice",
+                          "Fighting", "Poison", "Ground", "Flying", "Psychic",
+                          "Bug", "Rock", "Ghost", "Dragon", "Dark", "Steel"]
+    if move_obj["name"] == "Hidden Power" and is_fast:
+        for type in HIDDEN_POWER_TYPES:
+            hidden_power_move_obj = copy.copy(move_obj)
+            hidden_power_move_obj["name"] += " " + type
+            hidden_power_move_obj["type"] = type
+            pogo_fm.append(hidden_power_move_obj)
 
 def CleanType(type):
     return type[13:].capitalize()
