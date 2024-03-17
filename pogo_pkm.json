@@ -20403,7 +20403,7 @@
             "Fire Punch",
             "Precipice Blades"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "mega": [
             {
@@ -36138,11 +36138,15 @@
             "Fire Blast",
             "Flame Charge",
             "Dark Pulse",
-            "Blaze Kick"
+            "Blaze Kick",
+            "Darkest Lariat"
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": true
+        "released": true,
+        "elite_cm": [
+            "Blast Burn"
+        ]
     },
     {
         "id": 728,
@@ -38706,7 +38710,10 @@
         "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": true
+        "released": true,
+        "elite_cm": [
+            "Natures Madness"
+        ]
     },
     {
         "id": 787,

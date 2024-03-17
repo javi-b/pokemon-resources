@@ -24,6 +24,12 @@
         "shadow_released": false
     },
     {
+        "id": 383,
+        "name": "Groudon",
+        "form": "Normal",
+        "shadow": true
+    },
+    {
         "id": 384,
         "name": "Rayquaza",
         "form": "Normal",
@@ -141,6 +147,29 @@
         "name": "Zygarde",
         "form": "Ten_percent",
         "shadow_released": false
+    },
+    {
+        "id": 727,
+        "name": "Incineroar",
+        "form": "Normal",
+        "cm": [
+            "Fire Blast",
+            "Flame Charge",
+            "Dark Pulse",
+            "Blaze Kick",
+            "Darkest Lariat"
+        ],
+        "elite_cm": [
+            "Blast Burn"
+        ]
+    },
+    {
+        "id": 786,
+        "name": "Tapu Lele",
+        "form": "Normal",
+        "elite_cm": [
+            "Natures Madness"
+        ]
     },
     {
         "id": 866,
