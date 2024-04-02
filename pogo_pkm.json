@@ -20404,7 +20404,7 @@
             "Precipice Blades"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "mega": [
             {
                 "types": [

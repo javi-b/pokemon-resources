@@ -42,6 +42,12 @@
         "shadow_released": false
     },
     {
+        "id": 383,
+        "name": "Groudon",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
         "id": 384,
         "name": "Rayquaza",
         "form": "Normal",
