@@ -1047,7 +1047,7 @@
             "Aerial Ace",
             "Air Cutter"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -1073,7 +1073,7 @@
             "Aerial Ace",
             "Air Cutter"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -1107,7 +1107,7 @@
         "elite_cm": [
             "Air Cutter"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "mega": [
             {
@@ -27560,8 +27560,8 @@
             "Psychic",
             "Rock Slide"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -27586,8 +27586,8 @@
             "Super Power",
             "Ice Punch"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -27613,8 +27613,8 @@
             "Super Power",
             "Ice Punch"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": false
     },
     {
@@ -27640,8 +27640,8 @@
             "Psychic",
             "Rock Slide"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -27668,8 +27668,8 @@
             "Psychic",
             "Rock Slide"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": false
     },
     {
@@ -28231,7 +28231,7 @@
             "Psyshock",
             "Psychic"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -28256,7 +28256,7 @@
             "Futuresight",
             "Psychic"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -28281,7 +28281,7 @@
             "Futuresight",
             "Psychic"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -28306,7 +28306,7 @@
             "Night Shade",
             "Thunder"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -28331,7 +28331,7 @@
             "Night Shade",
             "Thunder"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -28356,7 +28356,7 @@
             "Shadow Ball",
             "Thunder"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -36141,12 +36141,12 @@
             "Blaze Kick",
             "Darkest Lariat"
         ],
-        "shadow": false,
-        "shadow_released": false,
-        "released": true,
         "elite_cm": [
             "Blast Burn"
-        ]
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
     },
     {
         "id": 728,
@@ -38707,13 +38707,13 @@
             "Focus Blast",
             "Futuresight"
         ],
+        "elite_cm": [
+            "Natures Madness"
+        ],
         "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": true,
-        "elite_cm": [
-            "Natures Madness"
-        ]
+        "released": true
     },
     {
         "id": 787,
