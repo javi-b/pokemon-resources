@@ -1,5 +1,23 @@
 [
     {
+        "id": 16,
+        "name": "Pidgey",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 17,
+        "name": "Pidgeotto",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 18,
+        "name": "Pidgeot",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
         "id": 144,
         "name": "Articuno",
         "form": "Galarian",
@@ -84,6 +102,42 @@
             "Zen Headbutt",
             "Magical Leaf"
         ]
+    },
+    {
+        "id": 574,
+        "name": "Gothita",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 575,
+        "name": "Gothorita",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 576,
+        "name": "Gothitelle",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 577,
+        "name": "Solosis",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 578,
+        "name": "Duosion",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 579,
+        "name": "Reuniclus",
+        "form": "Normal",
+        "shadow_released": true
     },
     {
         "id": 672,

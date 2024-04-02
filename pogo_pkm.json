@@ -1048,7 +1048,7 @@
             "Air Cutter"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -1074,7 +1074,7 @@
             "Air Cutter"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -1108,7 +1108,7 @@
             "Air Cutter"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "mega": [
             {
                 "types": [
@@ -28232,7 +28232,7 @@
             "Psychic"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -28257,7 +28257,7 @@
             "Psychic"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -28282,7 +28282,7 @@
             "Psychic"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -28307,7 +28307,7 @@
             "Thunder"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -28332,7 +28332,7 @@
             "Thunder"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -28357,7 +28357,7 @@
             "Thunder"
         ],
         "shadow": true,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
