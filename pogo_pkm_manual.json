@@ -110,6 +110,24 @@
         ]
     },
     {
+        "id": 555,
+        "name": "Darmanitan",
+        "form": "Galarian_standard",
+        "shadow_released": false
+    },
+    {
+        "id": 555,
+        "name": "Darmanitan",
+        "form": "Galarian_zen",
+        "shadow_released": false
+    },
+    {
+        "id": 555,
+        "name": "Darmanitan",
+        "form": "Zen",
+        "shadow_released": false
+    },
+    {
         "id": 574,
         "name": "Gothita",
         "form": "Normal",

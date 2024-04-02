@@ -27587,7 +27587,7 @@
             "Ice Punch"
         ],
         "shadow": true,
-        "shadow_released": true,
+        "shadow_released": false,
         "released": true
     },
     {
@@ -27614,7 +27614,7 @@
             "Ice Punch"
         ],
         "shadow": true,
-        "shadow_released": true,
+        "shadow_released": false,
         "released": false
     },
     {
@@ -27669,7 +27669,7 @@
             "Rock Slide"
         ],
         "shadow": true,
-        "shadow_released": true,
+        "shadow_released": false,
         "released": false
     },
     {
