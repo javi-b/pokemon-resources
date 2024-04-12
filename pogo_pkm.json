@@ -12945,6 +12945,19 @@
         ],
         "shadow": false,
         "shadow_released": false,
+        "mega": [
+            {
+                "types": [
+                    "Bug",
+                    "Fighting"
+                ],
+                "stats": {
+                    "baseStamina": 190,
+                    "baseAttack": 334,
+                    "baseDefense": 223
+                }
+            }
+        ],
         "released": true
     },
     {
