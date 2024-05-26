@@ -39636,7 +39636,7 @@
         "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_ULTRA_BEAST",
-        "released": false
+        "released": true
     },
     {
         "id": 805,
@@ -39663,7 +39663,7 @@
         "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_ULTRA_BEAST",
-        "released": false
+        "released": true
     },
     {
         "id": 806,
@@ -39690,7 +39690,7 @@
         "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_ULTRA_BEAST",
-        "released": false
+        "released": true
     },
     {
         "id": 807,

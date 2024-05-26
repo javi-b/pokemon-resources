@@ -211,6 +211,24 @@
         "shadow_released": false
     },
     {
+        "id": 804,
+        "name": "Naganadel",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 805,
+        "name": "Stakataka",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 806,
+        "name": "Blacephalon",
+        "form": "Normal",
+        "released": true
+    },
+    {
         "id": 866,
         "name": "Mr. Rime",
         "form": "Normal",
