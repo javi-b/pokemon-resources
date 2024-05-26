@@ -211,6 +211,14 @@
         "shadow_released": false
     },
     {
+        "id": 763,
+        "name": "Tsareena",
+        "form": "Normal",
+        "elite_cm": [
+            "High Jump Kick"
+        ]
+    },
+    {
         "id": 804,
         "name": "Naganadel",
         "form": "Normal",
@@ -233,6 +241,18 @@
         "name": "Mr. Rime",
         "form": "Normal",
         "shadow_released": false
+    },
+    {
+        "id": 960,
+        "name": "Wiglett",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 961,
+        "name": "Wugtrio",
+        "form": "Normal",
+        "released": true
     },
     {
         "id": 974,
