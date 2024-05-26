@@ -1933,5 +1933,32 @@
         "damage_window_start": 1200,
         "damage_window_end": 2000,
         "energy_delta": -50
+    },
+    {
+        "name": "Sunsteel Strike",
+        "type": "Steel",
+        "power": 230.0,
+        "duration": 3100,
+        "damage_window_start": 2300,
+        "damage_window_end": 3100,
+        "energy_delta": -100
+    },
+    {
+        "name": "Moongeist Beam",
+        "type": "Ghost",
+        "power": 230.0,
+        "duration": 3100,
+        "damage_window_start": 2300,
+        "damage_window_end": 3100,
+        "energy_delta": -100
+    },
+    {
+        "name": "High Jump Kick",
+        "type": "Fighting",
+        "power": 90.0,
+        "duration": 1500,
+        "damage_window_start": 450,
+        "damage_window_end": 800,
+        "energy_delta": -100
     }
 ]

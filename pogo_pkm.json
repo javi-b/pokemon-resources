@@ -1831,6 +1831,56 @@
     {
         "id": 25,
         "name": "Pikachu",
+        "form": "Gofest_2024_mtiara",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "form": "Gofest_2024_stiara",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
         "form": "Gotour_2024_a",
         "types": [
             "Electric"
@@ -5145,6 +5195,9 @@
             "Leaf Tornado",
             "Acid Spray"
         ],
+        "elite_fm": [
+            "Magical Leaf"
+        ],
         "shadow": true,
         "shadow_released": true,
         "released": true
@@ -5172,6 +5225,9 @@
             "Solar Beam",
             "Leaf Tornado",
             "Acid Spray"
+        ],
+        "elite_fm": [
+            "Magical Leaf"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -8928,6 +8984,90 @@
         "released": true
     },
     {
+        "id": 133,
+        "name": "Eevee",
+        "form": "Gofest_2024_mtiara",
+        "types": [
+            "Normal"
+        ],
+        "stats": {
+            "baseStamina": 146,
+            "baseAttack": 104,
+            "baseDefense": 114
+        },
+        "fm": [
+            "Quick Attack",
+            "Tackle"
+        ],
+        "cm": [
+            "Dig",
+            "Swift"
+        ],
+        "elite_cm": [
+            "Last Resort",
+            "Body Slam"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 133,
+        "name": "Eevee",
+        "form": "Gofest_2024_stiara",
+        "types": [
+            "Normal"
+        ],
+        "stats": {
+            "baseStamina": 146,
+            "baseAttack": 104,
+            "baseDefense": 114
+        },
+        "fm": [
+            "Quick Attack",
+            "Tackle"
+        ],
+        "cm": [
+            "Dig",
+            "Swift"
+        ],
+        "elite_cm": [
+            "Last Resort",
+            "Body Slam"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 133,
+        "name": "Eevee",
+        "form": "Normal",
+        "types": [
+            "Normal"
+        ],
+        "stats": {
+            "baseStamina": 146,
+            "baseAttack": 104,
+            "baseDefense": 114
+        },
+        "fm": [
+            "Quick Attack",
+            "Tackle"
+        ],
+        "cm": [
+            "Dig",
+            "Swift"
+        ],
+        "elite_cm": [
+            "Last Resort",
+            "Body Slam"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
         "id": 134,
         "name": "Vaporeon",
         "form": "Normal",
@@ -11975,6 +12115,122 @@
         "elite_cm": [
             "Last Resort",
             "Shadow Ball"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 196,
+        "name": "Espeon",
+        "form": "Gofest_2024_sscarf",
+        "types": [
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 163,
+            "baseAttack": 261,
+            "baseDefense": 175
+        },
+        "fm": [
+            "Confusion",
+            "Zen Headbutt"
+        ],
+        "cm": [
+            "Psybeam",
+            "Psychic",
+            "Futuresight",
+            "Psychic Fangs"
+        ],
+        "elite_cm": [
+            "Last Resort",
+            "Shadow Ball"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 196,
+        "name": "Espeon",
+        "form": "Normal",
+        "types": [
+            "Psychic"
+        ],
+        "stats": {
+            "baseStamina": 163,
+            "baseAttack": 261,
+            "baseDefense": 175
+        },
+        "fm": [
+            "Confusion",
+            "Zen Headbutt"
+        ],
+        "cm": [
+            "Psybeam",
+            "Psychic",
+            "Futuresight",
+            "Psychic Fangs"
+        ],
+        "elite_cm": [
+            "Last Resort",
+            "Shadow Ball"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 197,
+        "name": "Umbreon",
+        "form": "Normal",
+        "types": [
+            "Dark"
+        ],
+        "stats": {
+            "baseStamina": 216,
+            "baseAttack": 126,
+            "baseDefense": 240
+        },
+        "fm": [
+            "Feint Attack",
+            "Snarl"
+        ],
+        "cm": [
+            "Dark Pulse",
+            "Foul Play"
+        ],
+        "elite_cm": [
+            "Last Resort",
+            "Psychic"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 197,
+        "name": "Umbreon",
+        "form": "Gofest_2024_mscarf",
+        "types": [
+            "Dark"
+        ],
+        "stats": {
+            "baseStamina": 216,
+            "baseAttack": 126,
+            "baseDefense": 240
+        },
+        "fm": [
+            "Feint Attack",
+            "Snarl"
+        ],
+        "cm": [
+            "Dark Pulse",
+            "Foul Play"
+        ],
+        "elite_cm": [
+            "Last Resort",
+            "Psychic"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -38751,6 +39007,9 @@
             "Megahorn",
             "Solar Beam"
         ],
+        "elite_cm": [
+            "Natures Madness"
+        ],
         "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -38778,6 +39037,9 @@
             "Moonblast",
             "Ice Beam",
             "Hydro Pump"
+        ],
+        "elite_cm": [
+            "Natures Madness"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -39095,10 +39357,15 @@
             "baseDefense": 195
         },
         "fm": [
-            "Str"
+            "Metal Claw",
+            "Psycho Cut",
+            "Shadow Claw"
         ],
         "cm": [
-            "Struggle"
+            "Dark Pulse",
+            "Futuresight",
+            "Iron Head",
+            "Outrage"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -39119,10 +39386,15 @@
             "baseDefense": 220
         },
         "fm": [
-            "Str"
+            "Metal Claw",
+            "Psycho Cut",
+            "Shadow Claw"
         ],
         "cm": [
-            "Struggle"
+            "Dark Pulse",
+            "Futuresight",
+            "Iron Head",
+            "Outrage"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -39143,10 +39415,15 @@
             "baseDefense": 220
         },
         "fm": [
-            "Str"
+            "Metal Claw",
+            "Psycho Cut",
+            "Shadow Claw"
         ],
         "cm": [
-            "Struggle"
+            "Dark Pulse",
+            "Futuresight",
+            "Iron Head",
+            "Outrage"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -39166,10 +39443,15 @@
             "baseDefense": 195
         },
         "fm": [
-            "Str"
+            "Metal Claw",
+            "Psycho Cut",
+            "Shadow Claw"
         ],
         "cm": [
-            "Struggle"
+            "Dark Pulse",
+            "Futuresight",
+            "Iron Head",
+            "Outrage"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -39286,10 +39568,16 @@
             "baseDefense": 190
         },
         "fm": [
-            "Str"
+            "Sucker Punch",
+            "Counter",
+            "Poison Jab"
         ],
         "cm": [
-            "Struggle"
+            "Close Combat",
+            "Fire Punch",
+            "Thunder Punch",
+            "Ice Punch",
+            "Rock Slide"
         ],
         "shadow": false,
         "shadow_released": false,
