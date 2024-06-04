@@ -1325,7 +1325,8 @@
         "cm": [
             "Aerial Ace",
             "Drill Run",
-            "Sky Attack"
+            "Sky Attack",
+            "Fly"
         ],
         "elite_cm": [
             "Twister"
@@ -3106,7 +3107,8 @@
         "cm": [
             "Disarming Voice",
             "Body Slam",
-            "Moonblast"
+            "Moonblast",
+            "Swift"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -3134,7 +3136,8 @@
             "Dazzling Gleam",
             "Psychic",
             "Moonblast",
-            "Meteor Mash"
+            "Meteor Mash",
+            "Swift"
         ],
         "elite_fm": [
             "Pound"
@@ -3340,7 +3343,8 @@
         "cm": [
             "Disarming Voice",
             "Gyro Ball",
-            "Dazzling Gleam"
+            "Dazzling Gleam",
+            "Swift"
         ],
         "elite_cm": [
             "Play Rough",
@@ -3374,7 +3378,8 @@
             "Play Rough",
             "Ice Beam",
             "Disarming Voice",
-            "Icy Wind"
+            "Icy Wind",
+            "Swift"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -10523,7 +10528,8 @@
         "cm": [
             "Fire Blast",
             "Overheat",
-            "Solar Beam"
+            "Solar Beam",
+            "Thunder Punch"
         ],
         "elite_cm": [
             "Blast Burn"
@@ -10579,7 +10585,8 @@
         "cm": [
             "Fire Blast",
             "Overheat",
-            "Solar Beam"
+            "Solar Beam",
+            "Thunder Punch"
         ],
         "elite_cm": [
             "Blast Burn"
@@ -11117,7 +11124,8 @@
         "cm": [
             "Grass Knot",
             "Psyshock",
-            "Signal Beam"
+            "Signal Beam",
+            "Swift"
         ],
         "elite_cm": [
             "Psychic",
@@ -11147,7 +11155,8 @@
         "cm": [
             "Wild Charge",
             "Shadow Ball",
-            "Psychic"
+            "Psychic",
+            "Swift"
         ],
         "elite_cm": [
             "Body Slam"
@@ -13316,7 +13325,8 @@
             "Cross Chop",
             "Crunch",
             "Play Rough",
-            "Trailblaze"
+            "Trailblaze",
+            "Swift"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -13342,7 +13352,8 @@
             "Cross Chop",
             "Crunch",
             "Play Rough",
-            "Trailblaze"
+            "Trailblaze",
+            "Swift"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -13369,7 +13380,8 @@
             "Close Combat",
             "Hyper Beam",
             "Play Rough",
-            "Trailblaze"
+            "Trailblaze",
+            "Swift"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -13396,7 +13408,8 @@
             "Close Combat",
             "Hyper Beam",
             "Play Rough",
-            "Trailblaze"
+            "Trailblaze",
+            "Swift"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -20034,7 +20047,8 @@
         "cm": [
             "Fire Blast",
             "Hydro Pump",
-            "Draco Meteor"
+            "Draco Meteor",
+            "Fly"
         ],
         "elite_cm": [
             "Outrage"
@@ -20077,7 +20091,8 @@
         "cm": [
             "Fire Blast",
             "Hydro Pump",
-            "Draco Meteor"
+            "Draco Meteor",
+            "Fly"
         ],
         "elite_cm": [
             "Outrage"
@@ -22414,7 +22429,8 @@
         "cm": [
             "Water Pulse",
             "Earth Power",
-            "Body Slam"
+            "Body Slam",
+            "Earthquake"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -23350,7 +23366,8 @@
             "Brick Break",
             "Low Sweep",
             "Cross Chop",
-            "Blaze Kick"
+            "Blaze Kick",
+            "Thunder Punch"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -23379,7 +23396,8 @@
             "Close Combat",
             "Power Up Punch",
             "Aura Sphere",
-            "Blaze Kick"
+            "Blaze Kick",
+            "Thunder Punch"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -27001,7 +27019,8 @@
             "Psychic",
             "Aerial Ace",
             "Futuresight",
-            "Psychic Fangs"
+            "Psychic Fangs",
+            "Fly"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -28038,7 +28057,8 @@
         "cm": [
             "Acid Spray",
             "Brick Break",
-            "Foul Play"
+            "Foul Play",
+            "Thunder Punch"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -28064,7 +28084,8 @@
         "cm": [
             "Acid Spray",
             "Power Up Punch",
-            "Foul Play"
+            "Foul Play",
+            "Thunder Punch"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -28675,7 +28696,8 @@
         "cm": [
             "Ice Beam",
             "Bubble Beam",
-            "Hurricane"
+            "Hurricane",
+            "Fly"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -31639,7 +31661,8 @@
             "Gyro Ball",
             "Energy Ball",
             "Super Power",
-            "Solar Beam"
+            "Solar Beam",
+            "Thunder Punch"
         ],
         "elite_cm": [
             "Frenzy Plant"
@@ -37646,12 +37669,12 @@
             "Stomp",
             "Triple Axel"
         ],
-        "shadow": false,
-        "shadow_released": false,
-        "released": true,
         "elite_cm": [
             "High Jump Kick"
-        ]
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
     },
     {
         "id": 764,
@@ -38890,8 +38913,7 @@
         "cm": [
             "Dragon Claw",
             "Brick Break",
-            "Dragon Pulse",
-            "Brick Break"
+            "Dragon Pulse"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -39634,7 +39656,8 @@
             "Sludge Bomb",
             "Acrobatics",
             "Fell Stinger",
-            "Dragon Pulse"
+            "Dragon Pulse",
+            "Dragon Claw"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42917,7 +42940,8 @@
             "Thunder Punch",
             "Aerial Ace",
             "Ice Punch",
-            "Trailblaze"
+            "Trailblaze",
+            "Swift"
         ],
         "elite_cm": [
             "High Horsepower"
@@ -43487,7 +43511,8 @@
         },
         "fm": [
             "Bug Bite",
-            "Sucker Punch"
+            "Sucker Punch",
+            "Counter"
         ],
         "cm": [
             "X Scissor",
@@ -43544,7 +43569,8 @@
         "cm": [
             "Thunderbolt",
             "Discharge",
-            "Wild Charge"
+            "Wild Charge",
+            "Thunder Punch"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43572,7 +43598,8 @@
             "Thunderbolt",
             "Discharge",
             "Wild Charge",
-            "Close Combat"
+            "Close Combat",
+            "Thunder Punch"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -45096,7 +45123,8 @@
         },
         "fm": [
             "Ice Shard",
-            "Tackle"
+            "Tackle",
+            "Powder Snow"
         ],
         "cm": [
             "Body Slam",
@@ -45121,7 +45149,8 @@
         },
         "fm": [
             "Ice Shard",
-            "Tackle"
+            "Tackle",
+            "Powder Snow"
         ],
         "cm": [
             "Body Slam",
