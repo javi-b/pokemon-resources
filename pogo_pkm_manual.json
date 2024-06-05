@@ -175,6 +175,14 @@
         ]
     },
     {
+        "id": 706,
+        "name": "Goodra",
+        "form": "Normal",
+        "elite_cm": [
+            "Thunder Punch"
+        ]
+    },
+    {
         "id": 718,
         "name": "Zygarde",
         "form": "Normal",
@@ -209,6 +217,30 @@
         "name": "Zygarde",
         "form": "Ten_percent",
         "shadow_released": false
+    },
+    {
+        "id": 800,
+        "name": "Necrozma",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 800,
+        "name": "Necrozma",
+        "form": "Dawn_wings",
+        "released": true
+    },
+    {
+        "id": 800,
+        "name": "Necrozma",
+        "form": "Dusk_mane",
+        "released": true
+    },
+    {
+        "id": 802,
+        "name": "Marshadow",
+        "form": "Normal",
+        "released": true
     },
     {
         "id": 804,

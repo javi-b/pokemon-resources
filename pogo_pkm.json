@@ -35302,7 +35302,10 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": true
+        "released": true,
+        "elite_cm": [
+            "Thunder Punch"
+        ]
     },
     {
         "id": 707,
@@ -39395,7 +39398,7 @@
         "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": true
     },
     {
         "id": 800,
@@ -39424,7 +39427,7 @@
         "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": true
     },
     {
         "id": 800,
@@ -39453,7 +39456,7 @@
         "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": true
     },
     {
         "id": 800,
@@ -39481,7 +39484,7 @@
         "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": false
+        "released": true
     },
     {
         "id": 800,
@@ -39607,7 +39610,7 @@
         "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_MYTHIC",
-        "released": false
+        "released": true
     },
     {
         "id": 803,
