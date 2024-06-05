@@ -211,14 +211,6 @@
         "shadow_released": false
     },
     {
-        "id": 763,
-        "name": "Tsareena",
-        "form": "Normal",
-        "elite_cm": [
-            "High Jump Kick"
-        ]
-    },
-    {
         "id": 804,
         "name": "Naganadel",
         "form": "Normal",
