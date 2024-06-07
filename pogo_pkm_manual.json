@@ -99,6 +99,24 @@
             "Magical Leaf"
         ]
     },
+	{
+        "id": 524,
+        "name": "Roggenrola",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 525,
+        "name": "Boldore",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 526,
+        "name": "Gigalith",
+        "form": "Normal",
+        "shadow_released": true
+    },
     {
         "id": 555,
         "name": "Darmanitan",
