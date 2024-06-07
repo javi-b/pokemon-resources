@@ -26914,7 +26914,7 @@
             "Rock Blast",
             "Stone Edge"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": true,
         "released": true
     },
@@ -26939,7 +26939,7 @@
             "Bulldoze",
             "Stone Edge"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": true,
         "released": true
     },
@@ -26968,7 +26968,7 @@
         "elite_cm": [
             "Meteor Beam"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": true,
         "released": true
     },
