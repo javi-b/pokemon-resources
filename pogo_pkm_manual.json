@@ -103,18 +103,21 @@
         "id": 524,
         "name": "Roggenrola",
         "form": "Normal",
+        "shadow": true,
         "shadow_released": true
     },
     {
         "id": 525,
         "name": "Boldore",
         "form": "Normal",
+        "shadow": true,
         "shadow_released": true
     },
     {
         "id": 526,
         "name": "Gigalith",
         "form": "Normal",
+        "shadow": true,
         "shadow_released": true
     },
     {
