@@ -26915,7 +26915,7 @@
             "Stone Edge"
         ],
         "shadow": false,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -26940,7 +26940,7 @@
             "Stone Edge"
         ],
         "shadow": false,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -26969,7 +26969,7 @@
             "Meteor Beam"
         ],
         "shadow": false,
-        "shadow_released": false,
+        "shadow_released": true,
         "released": true
     },
     {
