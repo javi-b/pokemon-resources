@@ -35300,12 +35300,12 @@
             "Power Whip",
             "Aqua Tail"
         ],
-        "shadow": false,
-        "shadow_released": false,
-        "released": true,
         "elite_cm": [
             "Thunder Punch"
-        ]
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
     },
     {
         "id": 707,
@@ -39422,7 +39422,8 @@
             "Dark Pulse",
             "Futuresight",
             "Iron Head",
-            "Outrage"
+            "Outrage",
+            "Moongeist Beam"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -39451,7 +39452,8 @@
             "Dark Pulse",
             "Futuresight",
             "Iron Head",
-            "Outrage"
+            "Outrage",
+            "Sunsteel Strike"
         ],
         "shadow": false,
         "shadow_released": false,
