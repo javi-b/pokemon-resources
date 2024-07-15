@@ -249,12 +249,26 @@
         "id": 800,
         "name": "Necrozma",
         "form": "Dawn_wings",
+	"cm": [
+            "Dark Pulse",
+            "Futuresight",
+            "Iron Head",
+            "Outrage",
+	    "Moongeist Beam"
+        ],
         "released": true
     },
     {
         "id": 800,
         "name": "Necrozma",
         "form": "Dusk_mane",
+        "cm": [
+            "Dark Pulse",
+            "Futuresight",
+            "Iron Head",
+            "Outrage",
+	    "Sunsteel Strike"
+        ],
         "released": true
     },
     {
