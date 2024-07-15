@@ -196,14 +196,6 @@
         ]
     },
     {
-        "id": 706,
-        "name": "Goodra",
-        "form": "Normal",
-        "elite_cm": [
-            "Thunder Punch"
-        ]
-    },
-    {
         "id": 718,
         "name": "Zygarde",
         "form": "Normal",
@@ -249,12 +241,18 @@
         "id": 800,
         "name": "Necrozma",
         "form": "Dawn_wings",
+        "elite_cm": [
+            "Moongeist Beam"
+        ],
         "released": true
     },
     {
         "id": 800,
         "name": "Necrozma",
         "form": "Dusk_mane",
+        "elite_cm": [
+            "Sunsteel Strike"
+        ],
         "released": true
     },
     {
