@@ -39422,13 +39422,15 @@
             "Dark Pulse",
             "Futuresight",
             "Iron Head",
-            "Outrage",
-            "Moongeist Beam"
+            "Outrage"
         ],
         "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": true
+        "released": true,
+        "elite_cm": [
+            "Moongeist Beam"
+        ]
     },
     {
         "id": 800,
@@ -39452,13 +39454,15 @@
             "Dark Pulse",
             "Futuresight",
             "Iron Head",
-            "Outrage",
-            "Sunsteel Strike"
+            "Outrage"
         ],
         "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
-        "released": true
+        "released": true,
+        "elite_cm": [
+            "Sunsteel Strike"
+        ]
     },
     {
         "id": 800,
