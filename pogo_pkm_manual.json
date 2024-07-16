@@ -175,6 +175,14 @@
         "shadow_released": true
     },
     {
+        "id": 604,
+        "name": "Eelektross",
+        "form": "Normal",
+        "elite_fm": [
+            "Volt Switch"
+        ]
+    },
+    {
         "id": 672,
         "name": "Skiddo",
         "form": "Normal",
@@ -284,6 +292,30 @@
         "name": "Mr. Rime",
         "form": "Normal",
         "shadow_released": false
+    },
+    {
+        "id": 924,
+        "name": "Tandemaus",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 925,
+        "name": "Maushold",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 925,
+        "name": "Maushold",
+        "form": "Family_of_four",
+        "released": true
+    },
+    {
+        "id": 925,
+        "name": "Maushold",
+        "form": "Family_of_three",
+        "released": true
     },
     {
         "id": 960,
