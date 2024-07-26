@@ -23401,6 +23401,19 @@
         ],
         "shadow": false,
         "shadow_released": false,
+        "mega": [
+            {
+                "types": [
+                    "Fighting",
+                    "Steel"
+                ],
+                "stats": {
+                    "baseStamina": 172,
+                    "baseAttack": 310,
+                    "baseDefense": 175
+                }
+            }
+        ],
         "released": true
     },
     {
@@ -29627,12 +29640,12 @@
             "Dragon Claw",
             "Liquidation"
         ],
-        "shadow": false,
-        "shadow_released": false,
-        "released": true,
         "elite_fm": [
             "Volt Switch"
-        ]
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
     },
     {
         "id": 605,

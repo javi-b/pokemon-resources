@@ -853,5 +853,14 @@
         "damage_window_start": 300,
         "damage_window_end": 600,
         "energy_delta": 7
+    },
+    {
+        "name": "462",
+        "type": "Fighting",
+        "power": 9.0,
+        "duration": 900,
+        "damage_window_start": 700,
+        "damage_window_end": 900,
+        "energy_delta": 14
     }
 ]

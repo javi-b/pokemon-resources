@@ -175,14 +175,6 @@
         "shadow_released": true
     },
     {
-        "id": 604,
-        "name": "Eelektross",
-        "form": "Normal",
-        "elite_fm": [
-            "Volt Switch"
-        ]
-    },
-    {
         "id": 672,
         "name": "Skiddo",
         "form": "Normal",
