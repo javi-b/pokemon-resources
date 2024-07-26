@@ -187,13 +187,15 @@ def CleanMove(move, is_fast):
         elif move == 389:
             return "Oblivion Wing"
         elif move == 391:
-            return "Triple Axel";
+            return "Triple Axel"
         elif move == 392:
-            return "Trailblaze";
+            return "Trailblaze"
         elif move == 393:
-            return "Scorching Sands";
+            return "Scorching Sands"
+        elif move == 462:
+            return "Force Palm"
         else:
-            return str(move);
+            return str(move)
 
 def ManualPatch():
     """

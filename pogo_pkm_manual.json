@@ -58,6 +58,14 @@
         ]
     },
     {
+        "id": 448,
+        "name": "Lucario",
+        "form": "Normal",
+        "elite_fm": [
+            "Force Palm"
+        ]
+    },
+    {
         "id": 478,
         "name": "Froslass",
         "form": "Normal",
