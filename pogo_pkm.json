@@ -36537,7 +36537,10 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": true
+        "released": true,
+        "elite_cm": [
+            "Hydro Cannon"
+        ]
     },
     {
         "id": 731,
