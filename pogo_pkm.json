@@ -25411,8 +25411,8 @@
         "elite_cm": [
             "Grass Knot"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
     },

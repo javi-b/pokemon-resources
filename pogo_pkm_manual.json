@@ -88,6 +88,13 @@
         ]
     },
     {
+        "id": 488,
+        "name": "Cresselia",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
         "id": 492,
         "name": "Shaymin",
         "form": "Normal",
