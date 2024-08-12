@@ -136,6 +136,27 @@
         "shadow_released": true
     },
     {
+        "id": 532,
+        "name": "Timburr",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
+        "id": 533,
+        "name": "Gurdurr",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
+        "id": 534,
+        "name": "Conkeldurr",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
         "id": 555,
         "name": "Darmanitan",
         "form": "Galarian_standard",
@@ -152,6 +173,34 @@
         "name": "Darmanitan",
         "form": "Zen",
         "shadow_released": false
+    },
+    {
+        "id": 564,
+        "name": "Tirtouga",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
+        "id": 565,
+        "name": "Carracosta",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
+        "id": 566,
+        "name": "Archen",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
+    },
+    {
+        "id": 567,
+        "name": "Archeops",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
     },
     {
         "id": 574,

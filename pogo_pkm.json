@@ -27142,8 +27142,8 @@
             "Brick Break",
             "Rock Tomb"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -27167,8 +27167,8 @@
             "Brick Break",
             "Stone Edge"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -27195,8 +27195,8 @@
         "elite_cm": [
             "Brutal Swing"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -28282,8 +28282,8 @@
             "Ancient Power",
             "Body Slam"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -28309,8 +28309,8 @@
             "Body Slam",
             "Liquidation"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -28335,8 +28335,8 @@
             "Ancient Power",
             "Crunch"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -28361,8 +28361,8 @@
             "Ancient Power",
             "Crunch"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
