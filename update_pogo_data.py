@@ -179,9 +179,11 @@ def CleanMoves(moves, is_fast):
     return clean_moves
 
 def CleanMove(move, is_fast):
-    if isinstance(move, str):
+    if move == "V0462_MOVE_FORCE_PALM_FAST":
+        return "Force Palm"
+    elif isinstance(move, str):
         return (move[:-5] if is_fast else move).replace("_", " ").title()
-    else:
+    else: # if move isn't a string...
         if move == 387:
             return "Geomancy"
         elif move == 389:
@@ -192,8 +194,6 @@ def CleanMove(move, is_fast):
             return "Trailblaze"
         elif move == 393:
             return "Scorching Sands"
-        elif move == 462:
-            return "Force Palm"
         else:
             return str(move)
 
