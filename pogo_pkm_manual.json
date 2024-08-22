@@ -58,14 +58,6 @@
         ]
     },
     {
-        "id": 448,
-        "name": "Lucario",
-        "form": "Normal",
-        "elite_fm": [
-            "Force Palm"
-        ]
-    },
-    {
         "id": 478,
         "name": "Froslass",
         "form": "Normal",
@@ -91,7 +83,6 @@
         "id": 488,
         "name": "Cresselia",
         "form": "Normal",
-        "shadow": true,
         "shadow_released": true
     },
     {
@@ -139,21 +130,18 @@
         "id": 532,
         "name": "Timburr",
         "form": "Normal",
-        "shadow": true,
         "shadow_released": true
     },
     {
         "id": 533,
         "name": "Gurdurr",
         "form": "Normal",
-        "shadow": true,
         "shadow_released": true
     },
     {
         "id": 534,
         "name": "Conkeldurr",
         "form": "Normal",
-        "shadow": true,
         "shadow_released": true
     },
     {
@@ -178,28 +166,24 @@
         "id": 564,
         "name": "Tirtouga",
         "form": "Normal",
-        "shadow": true,
         "shadow_released": true
     },
     {
         "id": 565,
         "name": "Carracosta",
         "form": "Normal",
-        "shadow": true,
         "shadow_released": true
     },
     {
         "id": 566,
         "name": "Archen",
         "form": "Normal",
-        "shadow": true,
         "shadow_released": true
     },
     {
         "id": 567,
         "name": "Archeops",
         "form": "Normal",
-        "shadow": true,
         "shadow_released": true
     },
     {
