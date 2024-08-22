@@ -60,10 +60,13 @@ def GetFilenamesPairs(gm_obj):
     # form
     if "form" in gm_obj_s and isinstance(gm_obj_s["form"], str):
         form = gm_obj_s["form"]
-        if gm_obj_s["pokemonId"] in form:
+        # if pokemon name is in form but it isn't Unown...
+        if gm_obj_s["pokemonId"] in form and id != 201:
             form = form.replace(gm_obj_s["pokemonId"], "")[1:]
         if form != "NORMAL":
             pm_filename += ".f" + form;
+            if id == 201: # Unown...
+                form = form.replace(gm_obj_s["pokemonId"], "")
             filename += "-" + CleanStr(form)
 
     # suffix
