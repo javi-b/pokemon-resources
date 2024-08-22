@@ -5683,7 +5683,10 @@
         ],
         "shadow": true,
         "shadow_released": false,
-        "released": true
+        "released": true,
+        "elite_cm": [
+            "Wild Charge"
+        ]
     },
     {
         "id": 78,
@@ -5712,7 +5715,10 @@
         ],
         "shadow": true,
         "shadow_released": false,
-        "released": true
+        "released": true,
+        "elite_cm": [
+            "Wild Charge"
+        ]
     },
     {
         "id": 78,
@@ -5743,7 +5749,10 @@
         ],
         "shadow": true,
         "shadow_released": true,
-        "released": true
+        "released": true,
+        "elite_cm": [
+            "Wild Charge"
+        ]
     },
     {
         "id": 79,

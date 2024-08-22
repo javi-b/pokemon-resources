@@ -18,6 +18,22 @@
         "shadow_released": true
     },
     {
+        "id": 78,
+        "name": "Rapidash",
+        "form": "Normal",
+        "elite_cm": [
+            "Wild Charge"
+        ]
+    },
+    {
+        "id": 78,
+        "name": "Rapidash",
+        "form": "Galarian",
+        "elite_cm": [
+            "Wild Charge"
+        ]
+    },
+    {
         "id": 144,
         "name": "Articuno",
         "form": "Galarian",
