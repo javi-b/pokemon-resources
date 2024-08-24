@@ -58,16 +58,19 @@ def GetFilenamesPairs(gm_obj):
     filename = name
 
     # form
-    if "form" in gm_obj_s and isinstance(gm_obj_s["form"], str):
+    # set of pokemon who contain a form named Normal
+    NORMAL_FORMS_IDS = {649}
+    # set of pokemon whose names are part of their form in 'pm_filename'
+    NAMES_IN_FORM_IDS = {201, 412, 413}
+    if "form" in gm_obj_s and isinstance(gm_obj_s["form"], str) \
+            and (gm_obj_s["form"][-7:] != "_NORMAL" or id in NORMAL_FORMS_IDS):
         form = gm_obj_s["form"]
-        # if pokemon name is in form but it isn't Unown...
-        if gm_obj_s["pokemonId"] in form and id != 201:
+        if gm_obj_s["pokemonId"] in form and id not in NAMES_IN_FORM_IDS:
             form = form.replace(gm_obj_s["pokemonId"], "")[1:]
-        if form != "NORMAL":
-            pm_filename += ".f" + form;
-            if id == 201: # Unown...
-                form = form.replace(gm_obj_s["pokemonId"], "")
-            filename += "-" + CleanStr(form)
+        pm_filename += ".f" + form;
+        if id in NAMES_IN_FORM_IDS:
+            form = form.replace(gm_obj_s["pokemonId"], "")
+        filename += "-" + CleanStr(form)
 
     # suffix
     pm_filename += ".icon.png"
