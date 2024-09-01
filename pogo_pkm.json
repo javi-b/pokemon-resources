@@ -14258,6 +14258,57 @@
         "released": true
     },
     {
+        "id": 222,
+        "name": "Corsola",
+        "form": "Galarian",
+        "types": [
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 155,
+            "baseAttack": 116,
+            "baseDefense": 182
+        },
+        "fm": [
+            "Tackle",
+            "Astonish"
+        ],
+        "cm": [
+            "Rock Blast",
+            "Power Gem",
+            "Night Shade"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 222,
+        "name": "Corsola",
+        "form": "Normal",
+        "types": [
+            "Water",
+            "Rock"
+        ],
+        "stats": {
+            "baseStamina": 146,
+            "baseAttack": 118,
+            "baseDefense": 156
+        },
+        "fm": [
+            "Tackle",
+            "Bubble"
+        ],
+        "cm": [
+            "Rock Blast",
+            "Power Gem",
+            "Bubble Beam"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
         "id": 223,
         "name": "Remoraid",
         "form": "Normal",
@@ -41076,7 +41127,7 @@
         },
         "fm": [
             "Tackle",
-            "Ember"
+            "Fire Spin"
         ],
         "cm": [
             "Flame Charge",
@@ -41100,7 +41151,7 @@
         },
         "fm": [
             "Tackle",
-            "Ember"
+            "Fire Spin"
         ],
         "cm": [
             "Flame Charge",
@@ -41124,7 +41175,7 @@
         },
         "fm": [
             "Tackle",
-            "Ember"
+            "Fire Spin"
         ],
         "cm": [
             "Flame Charge",
@@ -42581,16 +42632,15 @@
             "baseDefense": 182
         },
         "fm": [
-            "Astonish",
-            "Hex"
+            "Tackle",
+            "Astonish"
         ],
         "cm": [
             "Rock Blast",
-            "Brine",
-            "Night Shade",
-            "Shadow Ball"
+            "Power Gem",
+            "Night Shade"
         ],
-        "shadow": true,
+        "shadow": false,
         "shadow_released": false,
         "released": false
     },
@@ -42607,17 +42657,16 @@
             "baseDefense": 182
         },
         "fm": [
-            "Astonish",
-            "Hex"
+            "Tackle",
+            "Astonish"
         ],
         "cm": [
             "Rock Blast",
-            "Brine",
-            "Night Shade",
-            "Shadow Ball"
+            "Power Gem",
+            "Night Shade"
         ],
-        "shadow": true,
-        "shadow_released": true,
+        "shadow": false,
+        "shadow_released": false,
         "released": false
     },
     {
@@ -43430,13 +43479,14 @@
             "baseDefense": 170
         },
         "fm": [
-            "Hex",
+            "Astonish",
             "Dragon Tail"
         ],
         "cm": [
             "Dragon Pulse",
             "Shadow Ball",
-            "Outrage"
+            "Outrage",
+            "Breaking Swipe"
         ],
         "shadow": false,
         "shadow_released": false,
