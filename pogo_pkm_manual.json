@@ -352,10 +352,82 @@
         "released": true
     },
     {
+        "id": 810,
+        "name": "Grookey",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 811,
+        "name": "Thwackey",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 812,
+        "name": "Rillaboom",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 813,
+        "name": "Scorbunny",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 814,
+        "name": "Raboot",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 815,
+        "name": "Cinderace",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 816,
+        "name": "Sobble",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 817,
+        "name": "Drizzile",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 818,
+        "name": "Inteleon",
+        "form": "Normal",
+        "released": true
+    },
+    {
         "id": 866,
         "name": "Mr. Rime",
         "form": "Normal",
         "shadow_released": false
+    },
+    {
+        "id": 885,
+        "name": "Dreepy",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 886,
+        "name": "Drakloak",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 887,
+        "name": "Dragapult",
+        "form": "Normal",
+        "released": true
     },
     {
         "id": 924,
