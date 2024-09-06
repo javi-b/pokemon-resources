@@ -3169,7 +3169,8 @@
             "Psychic",
             "Moonblast",
             "Meteor Mash",
-            "Swift"
+            "Swift",
+            "Draining Kiss"
         ],
         "elite_fm": [
             "Pound"
@@ -5964,7 +5965,8 @@
             "Focus Blast",
             "Psychic",
             "Sludge Bomb",
-            "Scald"
+            "Scald",
+            "Brutal Swing"
         ],
         "elite_cm": [
             "Surf"
@@ -10600,7 +10602,8 @@
             "Fire Punch",
             "Wild Charge",
             "Shadow Ball",
-            "Overheat"
+            "Overheat",
+            "Night Shade"
         ],
         "shadow": true,
         "shadow_released": false,
@@ -10946,7 +10949,8 @@
         },
         "fm": [
             "Struggle Bug",
-            "Bug Bite"
+            "Bug Bite",
+            "Counter"
         ],
         "cm": [
             "Bug Buzz",
@@ -11255,7 +11259,8 @@
         "cm": [
             "Ancient Power",
             "Dazzling Gleam",
-            "Aerial Ace"
+            "Aerial Ace",
+            "Draining Kiss"
         ],
         "elite_fm": [
             "Steel Wing",
@@ -13319,7 +13324,8 @@
         },
         "fm": [
             "Bug Bite",
-            "Struggle Bug"
+            "Struggle Bug",
+            "Volt Switch"
         ],
         "cm": [
             "Heavy Slam",
@@ -13347,7 +13353,8 @@
         },
         "fm": [
             "Bug Bite",
-            "Struggle Bug"
+            "Struggle Bug",
+            "Volt Switch"
         ],
         "cm": [
             "Heavy Slam",
@@ -17252,7 +17259,8 @@
         },
         "fm": [
             "Counter",
-            "Bullet Seed"
+            "Bullet Seed",
+            "Force Palm"
         ],
         "cm": [
             "Dynamic Punch",
@@ -17640,7 +17648,8 @@
         },
         "fm": [
             "Counter",
-            "Bullet Punch"
+            "Bullet Punch",
+            "Force Palm"
         ],
         "cm": [
             "Heavy Slam",
@@ -17666,7 +17675,8 @@
         },
         "fm": [
             "Counter",
-            "Bullet Punch"
+            "Bullet Punch",
+            "Force Palm"
         ],
         "cm": [
             "Heavy Slam",
@@ -20648,7 +20658,8 @@
         "cm": [
             "Stomp",
             "Aerial Ace",
-            "Leaf Blade"
+            "Leaf Blade",
+            "Brutal Swing"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -24333,7 +24344,8 @@
         "cm": [
             "Shadow Sneak",
             "Ominous Wind",
-            "Shadow Ball"
+            "Shadow Ball",
+            "Rock Tomb"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -25273,7 +25285,8 @@
         },
         "fm": [
             "Lick",
-            "Zen Headbutt"
+            "Zen Headbutt",
+            "Rollout"
         ],
         "cm": [
             "Hyper Beam",
@@ -25951,7 +25964,8 @@
             "Ominous Wind",
             "Psychic",
             "Dark Pulse",
-            "Poltergeist"
+            "Poltergeist",
+            "Shadow Punch"
         ],
         "elite_cm": [
             "Shadow Ball"
@@ -25980,7 +25994,8 @@
             "Ominous Wind",
             "Psychic",
             "Dark Pulse",
-            "Poltergeist"
+            "Poltergeist",
+            "Shadow Punch"
         ],
         "elite_cm": [
             "Shadow Ball"
@@ -29643,7 +29658,8 @@
         "cm": [
             "Foul Play",
             "Aerial Ace",
-            "Dark Pulse"
+            "Dark Pulse",
+            "Night Shade"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -29668,7 +29684,8 @@
         "cm": [
             "Foul Play",
             "Sludge Bomb",
-            "Flamethrower"
+            "Flamethrower",
+            "Night Shade"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -31424,13 +31441,15 @@
         },
         "fm": [
             "Low Kick",
-            "Poison Jab"
+            "Poison Jab",
+            "Force Palm"
         ],
         "cm": [
             "Brick Break",
             "Grass Knot",
             "Stone Edge",
-            "Blaze Kick"
+            "Blaze Kick",
+            "Brutal Swing"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -35392,7 +35411,8 @@
         "fm": [
             "Low Kick",
             "Snarl",
-            "Bullet Punch"
+            "Bullet Punch",
+            "Karate Chop"
         ],
         "cm": [
             "Close Combat",
@@ -37553,7 +37573,8 @@
             "Trailblaze",
             "Energy Ball",
             "Aura Sphere",
-            "Aerial Ace"
+            "Aerial Ace",
+            "Night Shade"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -37744,14 +37765,15 @@
             "Psychic",
             "Hydro Pump",
             "Moonblast",
-            "Disarming Voice"
+            "Disarming Voice",
+            "Sparkling Aria"
+        ],
+        "elite_cm": [
+            "Hydro Cannon"
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": true,
-        "elite_cm": [
-            "Hydro Cannon"
-        ]
+        "released": true
     },
     {
         "id": 731,
@@ -38195,7 +38217,8 @@
         ],
         "cm": [
             "Dazzling Gleam",
-            "Bug Buzz"
+            "Bug Buzz",
+            "Draining Kiss"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -38959,7 +38982,8 @@
             "Psychic",
             "Foul Play",
             "Futuresight",
-            "Trailblaze"
+            "Trailblaze",
+            "Brutal Swing"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -38985,7 +39009,8 @@
         "cm": [
             "Brick Break",
             "Close Combat",
-            "Super Power"
+            "Super Power",
+            "Brutal Swing"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -40235,7 +40260,8 @@
             "Psyshock",
             "Moonblast",
             "Focus Blast",
-            "Futuresight"
+            "Futuresight",
+            "Draining Kiss"
         ],
         "elite_cm": [
             "Natures Madness"
@@ -42799,7 +42825,8 @@
         "cm": [
             "Shadow Ball",
             "Sand Tomb",
-            "Rock Tomb"
+            "Rock Tomb",
+            "Brutal Swing"
         ],
         "shadow": true,
         "shadow_released": false,
@@ -42825,7 +42852,8 @@
         "cm": [
             "Shadow Ball",
             "Sand Tomb",
-            "Rock Tomb"
+            "Rock Tomb",
+            "Brutal Swing"
         ],
         "shadow": true,
         "shadow_released": true,

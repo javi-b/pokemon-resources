@@ -296,14 +296,6 @@
         "shadow_released": false
     },
     {
-        "id": 730,
-        "name": "Primarina",
-        "form": "Normal",
-        "elite_cm": [
-            "Hydro Cannon"
-        ]
-    },
-    {
         "id": 800,
         "name": "Necrozma",
         "form": "Normal",
