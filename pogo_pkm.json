@@ -40765,7 +40765,7 @@
             "baseDefense": 196
         },
         "fm": [
-            "Str"
+            "Splash"
         ],
         "cm": [
             "Struggle"
@@ -40789,7 +40789,7 @@
             "baseDefense": 225
         },
         "fm": [
-            "Str"
+            "Splash"
         ],
         "cm": [
             "Struggle"
@@ -40813,7 +40813,7 @@
             "baseDefense": 225
         },
         "fm": [
-            "Str"
+            "Splash"
         ],
         "cm": [
             "Struggle"
@@ -40837,7 +40837,7 @@
             "baseDefense": 225
         },
         "fm": [
-            "Str"
+            "Splash"
         ],
         "cm": [
             "Struggle"
@@ -42390,7 +42390,7 @@
             "Charm"
         ],
         "cm": [
-            "Psybeam",
+            "Psyshock",
             "Psychic",
             "Dazzling Gleam"
         ],
@@ -42415,7 +42415,7 @@
             "Charm"
         ],
         "cm": [
-            "Psybeam",
+            "Psyshock",
             "Psychic",
             "Dazzling Gleam"
         ],
@@ -42442,7 +42442,7 @@
             "Psycho Cut"
         ],
         "cm": [
-            "Psybeam",
+            "Psyshock",
             "Psychic",
             "Dazzling Gleam",
             "Power Whip"
