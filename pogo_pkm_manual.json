@@ -161,6 +161,14 @@
         "shadow_released": true
     },
     {
+        "id": 542,
+        "name": "Leavanny",
+        "form": "Normal",
+        "elite_fm": [
+            "Shadow Claw"
+        ]
+    },
+    {
         "id": 555,
         "name": "Darmanitan",
         "form": "Galarian_standard",

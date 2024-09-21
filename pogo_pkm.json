@@ -28628,7 +28628,10 @@
         ],
         "shadow": false,
         "shadow_released": false,
-        "released": true
+        "released": true,
+        "elite_fm": [
+            "Shadow Claw"
+        ]
     },
     {
         "id": 543,
