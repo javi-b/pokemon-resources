@@ -18,20 +18,18 @@
         "shadow_released": true
     },
     {
-        "id": 78,
-        "name": "Rapidash",
+        "id": 56,
+        "name": "Mankey",
         "form": "Normal",
-        "elite_cm": [
-            "Wild Charge"
-        ]
+        "shadow": true,
+        "shadow_released": true
     },
     {
-        "id": 78,
-        "name": "Rapidash",
-        "form": "Galarian",
-        "elite_cm": [
-            "Wild Charge"
-        ]
+        "id": 57,
+        "name": "Primeape",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
     },
     {
         "id": 144,
@@ -94,6 +92,13 @@
         "elite_cm": [
             "Spacial Rend"
         ]
+    },
+    {
+        "id": 485,
+        "name": "Heatran",
+        "form": "Normal",
+        "shadow": true,
+        "shadow_released": true
     },
     {
         "id": 488,

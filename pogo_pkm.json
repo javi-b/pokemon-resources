@@ -4339,8 +4339,8 @@
             "Low Sweep",
             "Brick Break"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -4371,8 +4371,8 @@
         "elite_cm": [
             "Cross Chop"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -5682,12 +5682,12 @@
         "elite_fm": [
             "Ember"
         ],
-        "shadow": true,
-        "shadow_released": false,
-        "released": true,
         "elite_cm": [
             "Wild Charge"
-        ]
+        ],
+        "shadow": true,
+        "shadow_released": false,
+        "released": true
     },
     {
         "id": 78,
@@ -5714,12 +5714,12 @@
             "Megahorn",
             "High Horsepower"
         ],
-        "shadow": true,
-        "shadow_released": false,
-        "released": true,
         "elite_cm": [
             "Wild Charge"
-        ]
+        ],
+        "shadow": true,
+        "shadow_released": false,
+        "released": true
     },
     {
         "id": 78,
@@ -5748,12 +5748,12 @@
         "elite_fm": [
             "Ember"
         ],
-        "shadow": true,
-        "shadow_released": true,
-        "released": true,
         "elite_cm": [
             "Wild Charge"
-        ]
+        ],
+        "shadow": true,
+        "shadow_released": true,
+        "released": true
     },
     {
         "id": 79,
@@ -21350,7 +21350,7 @@
             "Take Down"
         ],
         "cm": [
-            "Struggle"
+            "Iron Head"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -21373,7 +21373,7 @@
             "Take Down"
         ],
         "cm": [
-            "Struggle"
+            "Iron Head"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -26489,8 +26489,8 @@
         "elite_cm": [
             "Magma Storm"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
     },
