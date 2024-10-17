@@ -2,11 +2,11 @@
     {
         "name": "Fury Cutter",
         "type": "Bug",
-        "power": 3.0,
-        "duration": 400,
-        "damage_window_start": 100,
-        "damage_window_end": 400,
-        "energy_delta": 6
+        "power": 4.0,
+        "duration": 500,
+        "damage_window_start": 200,
+        "damage_window_end": 500,
+        "energy_delta": 8
     },
     {
         "name": "Bug Bite",
@@ -29,11 +29,11 @@
     {
         "name": "Sucker Punch",
         "type": "Dark",
-        "power": 7.0,
-        "duration": 700,
-        "damage_window_start": 300,
-        "damage_window_end": 700,
-        "energy_delta": 8
+        "power": 5.0,
+        "duration": 500,
+        "damage_window_start": 100,
+        "damage_window_end": 500,
+        "energy_delta": 6
     },
     {
         "name": "Dragon Breath",
@@ -47,38 +47,38 @@
     {
         "name": "Thunder Shock",
         "type": "Electric",
-        "power": 5.0,
-        "duration": 600,
-        "damage_window_start": 300,
-        "damage_window_end": 600,
-        "energy_delta": 8
+        "power": 4.0,
+        "duration": 500,
+        "damage_window_start": 200,
+        "damage_window_end": 500,
+        "energy_delta": 7
     },
     {
         "name": "Spark",
         "type": "Electric",
-        "power": 6.0,
-        "duration": 700,
-        "damage_window_start": 300,
-        "damage_window_end": 700,
-        "energy_delta": 9
+        "power": 4.0,
+        "duration": 500,
+        "damage_window_start": 100,
+        "damage_window_end": 500,
+        "energy_delta": 6
     },
     {
         "name": "Low Kick",
         "type": "Fighting",
-        "power": 6.0,
-        "duration": 600,
-        "damage_window_start": 300,
-        "damage_window_end": 600,
-        "energy_delta": 6
+        "power": 5.0,
+        "duration": 500,
+        "damage_window_start": 200,
+        "damage_window_end": 500,
+        "energy_delta": 5
     },
     {
         "name": "Karate Chop",
         "type": "Fighting",
-        "power": 8.0,
-        "duration": 800,
-        "damage_window_start": 600,
-        "damage_window_end": 800,
-        "energy_delta": 10
+        "power": 10.0,
+        "duration": 1000,
+        "damage_window_start": 800,
+        "damage_window_end": 1000,
+        "energy_delta": 13
     },
     {
         "name": "Ember",
@@ -92,11 +92,11 @@
     {
         "name": "Wing Attack",
         "type": "Flying",
-        "power": 8.0,
-        "duration": 800,
-        "damage_window_start": 550,
-        "damage_window_end": 750,
-        "energy_delta": 9
+        "power": 10.0,
+        "duration": 1000,
+        "damage_window_start": 750,
+        "damage_window_end": 950,
+        "energy_delta": 11
     },
     {
         "name": "Peck",
@@ -119,20 +119,20 @@
     {
         "name": "Shadow Claw",
         "type": "Ghost",
-        "power": 9.0,
-        "duration": 700,
-        "damage_window_start": 250,
-        "damage_window_end": 500,
-        "energy_delta": 6
+        "power": 6.0,
+        "duration": 500,
+        "damage_window_start": 50,
+        "damage_window_end": 300,
+        "energy_delta": 4
     },
     {
         "name": "Vine Whip",
         "type": "Grass",
-        "power": 7.0,
-        "duration": 600,
-        "damage_window_start": 350,
-        "damage_window_end": 600,
-        "energy_delta": 6
+        "power": 6.0,
+        "duration": 500,
+        "damage_window_start": 250,
+        "damage_window_end": 500,
+        "energy_delta": 5
     },
     {
         "name": "Razor Leaf",
@@ -146,38 +146,38 @@
     {
         "name": "Mud Shot",
         "type": "Ground",
-        "power": 5.0,
-        "duration": 600,
-        "damage_window_start": 350,
-        "damage_window_end": 550,
-        "energy_delta": 7
+        "power": 4.0,
+        "duration": 500,
+        "damage_window_start": 250,
+        "damage_window_end": 450,
+        "energy_delta": 6
     },
     {
         "name": "Ice Shard",
         "type": "Ice",
-        "power": 12.0,
-        "duration": 1200,
-        "damage_window_start": 600,
-        "damage_window_end": 900,
-        "energy_delta": 12
+        "power": 10.0,
+        "duration": 1000,
+        "damage_window_start": 400,
+        "damage_window_end": 700,
+        "energy_delta": 10
     },
     {
         "name": "Frost Breath",
         "type": "Ice",
-        "power": 10.0,
-        "duration": 900,
-        "damage_window_start": 450,
-        "damage_window_end": 750,
-        "energy_delta": 8
+        "power": 11.0,
+        "duration": 1000,
+        "damage_window_start": 550,
+        "damage_window_end": 850,
+        "energy_delta": 9
     },
     {
         "name": "Quick Attack",
         "type": "Normal",
-        "power": 8.0,
-        "duration": 800,
-        "damage_window_start": 250,
-        "damage_window_end": 550,
-        "energy_delta": 10
+        "power": 10.0,
+        "duration": 1000,
+        "damage_window_start": 450,
+        "damage_window_end": 750,
+        "energy_delta": 13
     },
     {
         "name": "Scratch",
@@ -200,11 +200,11 @@
     {
         "name": "Pound",
         "type": "Normal",
-        "power": 7.0,
-        "duration": 600,
-        "damage_window_start": 340,
-        "damage_window_end": 540,
-        "energy_delta": 6
+        "power": 6.0,
+        "duration": 500,
+        "damage_window_start": 240,
+        "damage_window_end": 440,
+        "energy_delta": 5
     },
     {
         "name": "Cut",
@@ -218,56 +218,56 @@
     {
         "name": "Poison Jab",
         "type": "Poison",
-        "power": 10.0,
-        "duration": 800,
-        "damage_window_start": 200,
-        "damage_window_end": 800,
-        "energy_delta": 7
+        "power": 13.0,
+        "duration": 1000,
+        "damage_window_start": 400,
+        "damage_window_end": 1000,
+        "energy_delta": 9
     },
     {
         "name": "Acid",
         "type": "Poison",
-        "power": 9.0,
-        "duration": 800,
-        "damage_window_start": 400,
-        "damage_window_end": 600,
-        "energy_delta": 8
+        "power": 11.0,
+        "duration": 1000,
+        "damage_window_start": 600,
+        "damage_window_end": 800,
+        "energy_delta": 10
     },
     {
         "name": "Psycho Cut",
         "type": "Psychic",
-        "power": 5.0,
-        "duration": 600,
-        "damage_window_start": 370,
-        "damage_window_end": 570,
-        "energy_delta": 8
+        "power": 4.0,
+        "duration": 500,
+        "damage_window_start": 270,
+        "damage_window_end": 470,
+        "energy_delta": 7
     },
     {
         "name": "Rock Throw",
         "type": "Rock",
-        "power": 12.0,
-        "duration": 900,
-        "damage_window_start": 500,
-        "damage_window_end": 800,
-        "energy_delta": 7
+        "power": 13.0,
+        "duration": 1000,
+        "damage_window_start": 600,
+        "damage_window_end": 900,
+        "energy_delta": 8
     },
     {
         "name": "Metal Claw",
         "type": "Steel",
-        "power": 8.0,
-        "duration": 700,
-        "damage_window_start": 430,
-        "damage_window_end": 630,
-        "energy_delta": 7
+        "power": 6.0,
+        "duration": 500,
+        "damage_window_start": 230,
+        "damage_window_end": 430,
+        "energy_delta": 5
     },
     {
         "name": "Bullet Punch",
         "type": "Steel",
-        "power": 9.0,
-        "duration": 900,
-        "damage_window_start": 300,
-        "damage_window_end": 900,
-        "energy_delta": 10
+        "power": 10.0,
+        "duration": 1000,
+        "damage_window_start": 400,
+        "damage_window_end": 1000,
+        "energy_delta": 11
     },
     {
         "name": "Water Gun",
@@ -282,109 +282,109 @@
         "name": "Splash",
         "type": "Water",
         "power": 0,
-        "duration": 1730,
-        "damage_window_start": 1030,
-        "damage_window_end": 1230,
-        "energy_delta": 20
+        "duration": 1500,
+        "damage_window_start": 800,
+        "damage_window_end": 1000,
+        "energy_delta": 17
     },
     {
         "name": "Mud Slap",
         "type": "Ground",
-        "power": 18.0,
-        "duration": 1400,
-        "damage_window_start": 1150,
-        "damage_window_end": 1350,
-        "energy_delta": 12
+        "power": 19.0,
+        "duration": 1500,
+        "damage_window_start": 1250,
+        "damage_window_end": 1450,
+        "energy_delta": 13
     },
     {
         "name": "Zen Headbutt",
         "type": "Psychic",
-        "power": 12.0,
-        "duration": 1100,
-        "damage_window_start": 850,
-        "damage_window_end": 1050,
-        "energy_delta": 10
+        "power": 11.0,
+        "duration": 1000,
+        "damage_window_start": 750,
+        "damage_window_end": 950,
+        "energy_delta": 9
     },
     {
         "name": "Confusion",
         "type": "Psychic",
-        "power": 20.0,
-        "duration": 1600,
-        "damage_window_start": 600,
-        "damage_window_end": 1600,
-        "energy_delta": 15
+        "power": 19.0,
+        "duration": 1500,
+        "damage_window_start": 500,
+        "damage_window_end": 1500,
+        "energy_delta": 14
     },
     {
         "name": "Poison Sting",
         "type": "Poison",
-        "power": 5.0,
-        "duration": 600,
-        "damage_window_start": 375,
-        "damage_window_end": 575,
-        "energy_delta": 7
+        "power": 4.0,
+        "duration": 500,
+        "damage_window_start": 275,
+        "damage_window_end": 475,
+        "energy_delta": 6
     },
     {
         "name": "Bubble",
         "type": "Water",
-        "power": 12.0,
-        "duration": 1200,
-        "damage_window_start": 750,
-        "damage_window_end": 1000,
-        "energy_delta": 14
+        "power": 10.0,
+        "duration": 1000,
+        "damage_window_start": 550,
+        "damage_window_end": 800,
+        "energy_delta": 12
     },
     {
         "name": "Feint Attack",
         "type": "Dark",
-        "power": 10.0,
-        "duration": 900,
-        "damage_window_start": 750,
-        "damage_window_end": 900,
-        "energy_delta": 9
+        "power": 11.0,
+        "duration": 1000,
+        "damage_window_start": 850,
+        "damage_window_end": 1000,
+        "energy_delta": 10
     },
     {
         "name": "Steel Wing",
         "type": "Steel",
-        "power": 11.0,
-        "duration": 800,
-        "damage_window_start": 500,
-        "damage_window_end": 800,
-        "energy_delta": 6
+        "power": 14.0,
+        "duration": 1000,
+        "damage_window_start": 700,
+        "damage_window_end": 1000,
+        "energy_delta": 8
     },
     {
         "name": "Fire Fang",
         "type": "Fire",
-        "power": 12.0,
-        "duration": 900,
-        "damage_window_start": 640,
-        "damage_window_end": 840,
-        "energy_delta": 8
+        "power": 13.0,
+        "duration": 1000,
+        "damage_window_start": 740,
+        "damage_window_end": 940,
+        "energy_delta": 9
     },
     {
         "name": "Rock Smash",
         "type": "Fighting",
-        "power": 15.0,
-        "duration": 1300,
-        "damage_window_start": 550,
-        "damage_window_end": 800,
-        "energy_delta": 10
+        "power": 17.0,
+        "duration": 1500,
+        "damage_window_start": 750,
+        "damage_window_end": 1000,
+        "energy_delta": 12
     },
     {
         "name": "Transform",
         "type": "Normal",
         "power": 0,
-        "duration": 2230,
-        "damage_window_start": 300,
-        "damage_window_end": 700,
+        "duration": 2000,
+        "damage_window_start": 70,
+        "damage_window_end": 470,
         "energy_delta": 0
     },
     {
         "name": "Counter",
         "type": "Fighting",
-        "power": 12.0,
-        "duration": 900,
-        "damage_window_start": 700,
-        "damage_window_end": 900,
-        "energy_delta": 8
+        "power": 13.0,
+        "duration": 1000,
+        "damage_window_start": 800,
+        "damage_window_end": 1000,
+        "energy_delta": 9
     },
     {
         "name": "Powder Snow",
@@ -398,47 +398,47 @@
     {
         "name": "Charge Beam",
         "type": "Electric",
-        "power": 8.0,
-        "duration": 1100,
-        "damage_window_start": 850,
-        "damage_window_end": 1050,
-        "energy_delta": 15
+        "power": 7.0,
+        "duration": 1000,
+        "damage_window_start": 750,
+        "damage_window_end": 950,
+        "energy_delta": 14
     },
     {
         "name": "Volt Switch",
         "type": "Electric",
-        "power": 14.0,
-        "duration": 1600,
-        "damage_window_start": 700,
-        "damage_window_end": 900,
-        "energy_delta": 21
+        "power": 13.0,
+        "duration": 1500,
+        "damage_window_start": 600,
+        "damage_window_end": 800,
+        "energy_delta": 20
     },
     {
         "name": "Dragon Tail",
         "type": "Dragon",
-        "power": 15.0,
-        "duration": 1100,
-        "damage_window_start": 850,
-        "damage_window_end": 1050,
-        "energy_delta": 9
+        "power": 14.0,
+        "duration": 1000,
+        "damage_window_start": 750,
+        "damage_window_end": 950,
+        "energy_delta": 8
     },
     {
         "name": "Air Slash",
         "type": "Flying",
-        "power": 14.0,
-        "duration": 1200,
-        "damage_window_start": 1000,
-        "damage_window_end": 1200,
-        "energy_delta": 10
+        "power": 12.0,
+        "duration": 1000,
+        "damage_window_start": 800,
+        "damage_window_end": 1000,
+        "energy_delta": 8
     },
     {
         "name": "Infestation",
         "type": "Bug",
-        "power": 10.0,
-        "duration": 1100,
-        "damage_window_start": 850,
-        "damage_window_end": 1050,
-        "energy_delta": 14
+        "power": 9.0,
+        "duration": 1000,
+        "damage_window_start": 750,
+        "damage_window_end": 950,
+        "energy_delta": 13
     },
     {
         "name": "Struggle Bug",
@@ -452,65 +452,65 @@
     {
         "name": "Astonish",
         "type": "Ghost",
-        "power": 8.0,
-        "duration": 1100,
-        "damage_window_start": 700,
-        "damage_window_end": 1050,
-        "energy_delta": 14
+        "power": 7.0,
+        "duration": 1000,
+        "damage_window_start": 600,
+        "damage_window_end": 950,
+        "energy_delta": 13
     },
     {
         "name": "Hex",
         "type": "Ghost",
-        "power": 10.0,
-        "duration": 1200,
-        "damage_window_start": 1000,
-        "damage_window_end": 1200,
-        "energy_delta": 16
+        "power": 8.0,
+        "duration": 1000,
+        "damage_window_start": 800,
+        "damage_window_end": 1000,
+        "energy_delta": 13
     },
     {
         "name": "Iron Tail",
         "type": "Steel",
-        "power": 15.0,
-        "duration": 1100,
-        "damage_window_start": 850,
-        "damage_window_end": 1050,
-        "energy_delta": 7
+        "power": 14.0,
+        "duration": 1000,
+        "damage_window_start": 750,
+        "damage_window_end": 950,
+        "energy_delta": 6
     },
     {
         "name": "Fire Spin",
         "type": "Fire",
-        "power": 14.0,
-        "duration": 1100,
-        "damage_window_start": 850,
-        "damage_window_end": 1050,
-        "energy_delta": 10
+        "power": 13.0,
+        "duration": 1000,
+        "damage_window_start": 750,
+        "damage_window_end": 950,
+        "energy_delta": 9
     },
     {
         "name": "Bullet Seed",
         "type": "Grass",
-        "power": 8.0,
-        "duration": 1100,
-        "damage_window_start": 850,
-        "damage_window_end": 1050,
-        "energy_delta": 14
+        "power": 7.0,
+        "duration": 1000,
+        "damage_window_start": 750,
+        "damage_window_end": 950,
+        "energy_delta": 13
     },
     {
         "name": "Extrasensory",
         "type": "Psychic",
-        "power": 12.0,
-        "duration": 1100,
-        "damage_window_start": 850,
-        "damage_window_end": 1050,
-        "energy_delta": 12
+        "power": 11.0,
+        "duration": 1000,
+        "damage_window_start": 750,
+        "damage_window_end": 950,
+        "energy_delta": 11
     },
     {
         "name": "Snarl",
         "type": "Dark",
-        "power": 12.0,
-        "duration": 1100,
-        "damage_window_start": 850,
-        "damage_window_end": 1050,
-        "energy_delta": 14
+        "power": 11.0,
+        "duration": 1000,
+        "damage_window_start": 750,
+        "damage_window_end": 950,
+        "energy_delta": 13
     },
     {
         "name": "Hidden Power",
@@ -668,47 +668,47 @@
     {
         "name": "Take Down",
         "type": "Normal",
-        "power": 8.0,
-        "duration": 1200,
-        "damage_window_start": 950,
-        "damage_window_end": 1100,
-        "energy_delta": 10
+        "power": 7.0,
+        "duration": 1000,
+        "damage_window_start": 750,
+        "damage_window_end": 900,
+        "energy_delta": 8
     },
     {
         "name": "Waterfall",
         "type": "Water",
-        "power": 16.0,
-        "duration": 1200,
-        "damage_window_start": 950,
-        "damage_window_end": 1100,
-        "energy_delta": 8
+        "power": 13.0,
+        "duration": 1000,
+        "damage_window_start": 750,
+        "damage_window_end": 900,
+        "energy_delta": 7
     },
     {
         "name": "Yawn",
         "type": "Normal",
         "power": 0,
-        "duration": 1700,
-        "damage_window_start": 1400,
-        "damage_window_end": 1600,
-        "energy_delta": 15
+        "duration": 1500,
+        "damage_window_start": 1200,
+        "damage_window_end": 1400,
+        "energy_delta": 13
     },
     {
         "name": "Present",
         "type": "Normal",
-        "power": 5.0,
-        "duration": 1300,
-        "damage_window_start": 1100,
-        "damage_window_end": 1300,
-        "energy_delta": 20
+        "power": 6.0,
+        "duration": 1500,
+        "damage_window_start": 1300,
+        "damage_window_end": 1500,
+        "energy_delta": 23
     },
     {
         "name": "Smack Down",
         "type": "Rock",
-        "power": 16.0,
-        "duration": 1200,
-        "damage_window_start": 800,
-        "damage_window_end": 1100,
-        "energy_delta": 8
+        "power": 13.0,
+        "duration": 1000,
+        "damage_window_start": 600,
+        "damage_window_end": 900,
+        "energy_delta": 7
     },
     {
         "name": "Charm",
@@ -722,20 +722,20 @@
     {
         "name": "Lock On",
         "type": "Normal",
-        "power": 1.0,
-        "duration": 300,
-        "damage_window_start": 170,
-        "damage_window_end": 300,
-        "energy_delta": 6
+        "power": 2.0,
+        "duration": 500,
+        "damage_window_start": 370,
+        "damage_window_end": 500,
+        "energy_delta": 10
     },
     {
         "name": "Thunder Fang",
         "type": "Electric",
-        "power": 12.0,
-        "duration": 1200,
-        "damage_window_start": 400,
-        "damage_window_end": 900,
-        "energy_delta": 16
+        "power": 10.0,
+        "duration": 1000,
+        "damage_window_start": 200,
+        "damage_window_end": 700,
+        "energy_delta": 13
     },
     {
         "name": "Ice Fang",
@@ -758,19 +758,19 @@
     {
         "name": "Incinerate",
         "type": "Fire",
-        "power": 29.0,
-        "duration": 2300,
-        "damage_window_start": 500,
-        "damage_window_end": 2300,
-        "energy_delta": 20
+        "power": 32.0,
+        "duration": 2500,
+        "damage_window_start": 700,
+        "damage_window_end": 2500,
+        "energy_delta": 22
     },
     {
         "name": "Fairy Wind",
         "type": "Fairy",
         "power": 9.0,
-        "duration": 970,
-        "damage_window_start": 600,
-        "damage_window_end": 970,
+        "duration": 1000,
+        "damage_window_start": 630,
+        "damage_window_end": 1000,
         "energy_delta": 13
     },
     {
@@ -785,38 +785,38 @@
     {
         "name": "Magical Leaf",
         "type": "Grass",
-        "power": 16.0,
-        "duration": 1400,
-        "damage_window_start": 750,
-        "damage_window_end": 1300,
-        "energy_delta": 16
+        "power": 17.0,
+        "duration": 1500,
+        "damage_window_start": 850,
+        "damage_window_end": 1400,
+        "energy_delta": 17
     },
     {
         "name": "Rollout",
         "type": "Rock",
-        "power": 14.0,
-        "duration": 1400,
-        "damage_window_start": 960,
-        "damage_window_end": 1200,
-        "energy_delta": 18
+        "power": 15.0,
+        "duration": 1500,
+        "damage_window_start": 1060,
+        "damage_window_end": 1300,
+        "energy_delta": 19
     },
     {
         "name": "Water Shuriken",
         "type": "Water",
-        "power": 10.0,
-        "duration": 1100,
-        "damage_window_start": 1000,
-        "damage_window_end": 1100,
-        "energy_delta": 15
+        "power": 9.0,
+        "duration": 1000,
+        "damage_window_start": 900,
+        "damage_window_end": 1000,
+        "energy_delta": 14
     },
     {
         "name": "Leafage",
         "type": "Grass",
-        "power": 9.0,
-        "duration": 700,
-        "damage_window_start": 400,
-        "damage_window_end": 900,
-        "energy_delta": 6
+        "power": 6.0,
+        "duration": 500,
+        "damage_window_start": 200,
+        "damage_window_end": 700,
+        "energy_delta": 4
     },
     {
         "name": "Geomancy",
@@ -839,11 +839,11 @@
     {
         "name": "Metal Sound",
         "type": "Steel",
-        "power": 6.0,
-        "duration": 700,
-        "damage_window_start": 400,
-        "damage_window_end": 900,
-        "energy_delta": 9
+        "power": 4.0,
+        "duration": 500,
+        "damage_window_start": 200,
+        "damage_window_end": 700,
+        "energy_delta": 6
     },
     {
         "name": "Sand Attack",
@@ -857,10 +857,10 @@
     {
         "name": "Force Palm",
         "type": "Fighting",
-        "power": 9.0,
-        "duration": 900,
-        "damage_window_start": 700,
-        "damage_window_end": 900,
-        "energy_delta": 14
+        "power": 10.0,
+        "duration": 1000,
+        "damage_window_start": 800,
+        "damage_window_end": 1000,
+        "energy_delta": 16
     }
 ]

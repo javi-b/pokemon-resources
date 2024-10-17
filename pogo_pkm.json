@@ -781,7 +781,7 @@
         "cm": [
             "Struggle"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -804,7 +804,7 @@
         "cm": [
             "Struggle"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -833,7 +833,7 @@
         "elite_fm": [
             "Bug Bite"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -9698,6 +9698,38 @@
         "released": true
     },
     {
+        "id": 143,
+        "name": "Snorlax",
+        "form": "Normal",
+        "types": [
+            "Normal"
+        ],
+        "stats": {
+            "baseStamina": 330,
+            "baseAttack": 190,
+            "baseDefense": 169
+        },
+        "fm": [
+            "Zen Headbutt",
+            "Lick"
+        ],
+        "cm": [
+            "Heavy Slam",
+            "Hyper Beam",
+            "Earthquake",
+            "Outrage",
+            "Skull Bash",
+            "Body Slam",
+            "Super Power"
+        ],
+        "elite_fm": [
+            "Yawn"
+        ],
+        "shadow": true,
+        "shadow_released": true,
+        "released": true
+    },
+    {
         "id": 144,
         "name": "Articuno",
         "form": "Normal",
@@ -17960,6 +17992,19 @@
         ],
         "shadow": true,
         "shadow_released": true,
+        "mega": [
+            {
+                "types": [
+                    "Steel",
+                    "Fairy"
+                ],
+                "stats": {
+                    "baseStamina": 137,
+                    "baseAttack": 188,
+                    "baseDefense": 217
+                }
+            }
+        ],
         "released": true
     },
     {
@@ -17990,6 +18035,19 @@
         ],
         "shadow": true,
         "shadow_released": true,
+        "mega": [
+            {
+                "types": [
+                    "Steel",
+                    "Fairy"
+                ],
+                "stats": {
+                    "baseStamina": 137,
+                    "baseAttack": 188,
+                    "baseDefense": 217
+                }
+            }
+        ],
         "released": true
     },
     {
@@ -28626,12 +28684,12 @@
             "Silver Wind",
             "Leaf Storm"
         ],
-        "shadow": false,
-        "shadow_released": false,
-        "released": true,
         "elite_fm": [
             "Shadow Claw"
-        ]
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
     },
     {
         "id": 543,
@@ -28655,7 +28713,7 @@
             "Sludge Bomb",
             "Gyro Ball"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -28681,7 +28739,7 @@
             "Sludge Bomb",
             "Gyro Ball"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -28708,7 +28766,7 @@
             "Gyro Ball",
             "X Scissor"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -30346,7 +30404,7 @@
             "Drill Run",
             "Aerial Ace"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -30373,7 +30431,7 @@
             "Drill Run",
             "Aerial Ace"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -31292,7 +31350,7 @@
             "Body Slam",
             "Signal Beam"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -31319,7 +31377,7 @@
             "Signal Beam",
             "Focus Blast"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -43198,14 +43256,15 @@
             "baseDefense": 121
         },
         "fm": [
-            "Thunder Shock",
-            "Bite"
+            "Charge Beam",
+            "Bite",
+            "Thunder Shock"
         ],
         "cm": [
-            "Crunch",
-            "Payback",
-            "Thunderbolt",
-            "Wild Charge"
+            "Seed Bomb",
+            "Outrage",
+            "Aura Wheel (E)",
+            "Psychic Fangs"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43225,14 +43284,15 @@
             "baseDefense": 121
         },
         "fm": [
-            "Thunder Shock",
-            "Bite"
+            "Charge Beam",
+            "Bite",
+            "Thunder Shock"
         ],
         "cm": [
-            "Crunch",
-            "Payback",
-            "Thunderbolt",
-            "Wild Charge"
+            "Seed Bomb",
+            "Outrage",
+            "Aura Wheel (E)",
+            "Psychic Fangs"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -43252,14 +43312,15 @@
             "baseDefense": 121
         },
         "fm": [
-            "Thunder Shock",
-            "Bite"
+            "Charge Beam",
+            "Bite",
+            "Thunder Shock"
         ],
         "cm": [
-            "Crunch",
-            "Payback",
-            "Thunderbolt",
-            "Wild Charge"
+            "Seed Bomb",
+            "Outrage",
+            "Aura Wheel (D)",
+            "Psychic Fangs"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -46618,8 +46679,8 @@
             "Ice Punch",
             "Shadow Ball"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {

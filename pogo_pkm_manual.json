@@ -21,14 +21,12 @@
         "id": 56,
         "name": "Mankey",
         "form": "Normal",
-        "shadow": true,
         "shadow_released": true
     },
     {
         "id": 57,
         "name": "Primeape",
         "form": "Normal",
-        "shadow": true,
         "shadow_released": true
     },
     {
@@ -97,7 +95,6 @@
         "id": 485,
         "name": "Heatran",
         "form": "Normal",
-        "shadow": true,
         "shadow_released": true
     },
     {
@@ -130,21 +127,18 @@
         "id": 524,
         "name": "Roggenrola",
         "form": "Normal",
-        "shadow": true,
         "shadow_released": true
     },
     {
         "id": 525,
         "name": "Boldore",
         "form": "Normal",
-        "shadow": true,
         "shadow_released": true
     },
     {
         "id": 526,
         "name": "Gigalith",
         "form": "Normal",
-        "shadow": true,
         "shadow_released": true
     },
     {
@@ -164,14 +158,6 @@
         "name": "Conkeldurr",
         "form": "Normal",
         "shadow_released": true
-    },
-    {
-        "id": 542,
-        "name": "Leavanny",
-        "form": "Normal",
-        "elite_fm": [
-            "Shadow Claw"
-        ]
     },
     {
         "id": 555,

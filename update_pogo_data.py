@@ -146,7 +146,10 @@ def AddMove(gm_obj, is_fast):
     else:
         move_obj["power"] = 0
     move_obj["duration"] = gm_obj_s["durationMs"]
-    move_obj["damage_window_start"] = gm_obj_s["damageWindowStartMs"]
+    if "damageWindowStartMs" in gm_obj_s:
+        move_obj["damage_window_start"] = gm_obj_s["damageWindowStartMs"]
+    else:
+        move_obj["damage_window_start"] = 0
     move_obj["damage_window_end"] = gm_obj_s["damageWindowEndMs"]
     if "energyDelta" in gm_obj_s:
         move_obj["energy_delta"] = gm_obj_s["energyDelta"]
@@ -194,6 +197,10 @@ def CleanMove(move, is_fast):
             return "Trailblaze"
         elif move == 393:
             return "Scorching Sands"
+        elif move == 406:
+            return "Aura Wheel (E)"
+        elif move == 407:
+            return "Aura Wheel (D)"
         else:
             return str(move)
 
