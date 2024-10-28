@@ -1570,6 +1570,38 @@
     {
         "id": 25,
         "name": "Pikachu",
+        "form": "Normal",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "elite_cm": [
+            "Surf",
+            "Thunder"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
         "form": "Doctor",
         "types": [
             "Electric"
