@@ -8359,7 +8359,8 @@
         },
         "fm": [
             "Hidden Power",
-            "Water Gun"
+            "Water Gun",
+            "Psywave"
         ],
         "cm": [
             "Hydro Pump",
@@ -8367,7 +8368,8 @@
             "Psychic",
             "Thunder",
             "Ice Beam",
-            "Psybeam"
+            "Psybeam",
+            "Surf"
         ],
         "elite_fm": [
             "Tackle"
@@ -22867,7 +22869,8 @@
         },
         "fm": [
             "Water Gun",
-            "Take Down"
+            "Take Down",
+            "Rollout"
         ],
         "cm": [
             "Hyper Fang",
@@ -22893,7 +22896,8 @@
         },
         "fm": [
             "Water Gun",
-            "Take Down"
+            "Take Down",
+            "Rollout"
         ],
         "cm": [
             "Hyper Fang",
@@ -25760,7 +25764,8 @@
         },
         "fm": [
             "Fury Cutter",
-            "Wing Attack"
+            "Wing Attack",
+            "Sand Attack"
         ],
         "cm": [
             "Earthquake",
@@ -25787,7 +25792,8 @@
         },
         "fm": [
             "Fury Cutter",
-            "Wing Attack"
+            "Wing Attack",
+            "Sand Attack"
         ],
         "cm": [
             "Earthquake",
@@ -25948,6 +25954,19 @@
         ],
         "shadow": true,
         "shadow_released": true,
+        "mega": [
+            {
+                "types": [
+                    "Psychic",
+                    "Fighting"
+                ],
+                "stats": {
+                    "baseStamina": 169,
+                    "baseAttack": 326,
+                    "baseDefense": 230
+                }
+            }
+        ],
         "released": true
     },
     {
@@ -25979,6 +25998,19 @@
         ],
         "shadow": true,
         "shadow_released": true,
+        "mega": [
+            {
+                "types": [
+                    "Psychic",
+                    "Fighting"
+                ],
+                "stats": {
+                    "baseStamina": 169,
+                    "baseAttack": 326,
+                    "baseDefense": 230
+                }
+            }
+        ],
         "released": true
     },
     {
@@ -36238,7 +36270,8 @@
             "Hydro Pump",
             "Aqua Tail",
             "Outrage",
-            "Gunk Shot"
+            "Gunk Shot",
+            "Focus Blast"
         ],
         "shadow": false,
         "shadow_released": false,
