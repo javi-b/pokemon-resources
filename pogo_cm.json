@@ -1996,5 +1996,14 @@
         "damage_window_start": 2750,
         "damage_window_end": 3000,
         "energy_delta": -50
+    },
+    {
+        "name": "465",
+        "type": "Grass",
+        "power": 75.0,
+        "duration": 2700,
+        "damage_window_start": 1800,
+        "damage_window_end": 2700,
+        "energy_delta": -33
     }
 ]

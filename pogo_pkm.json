@@ -2014,6 +2014,106 @@
     {
         "id": 25,
         "name": "Pikachu",
+        "form": "Normal",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "form": "Normal",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "form": "Normal",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "form": "Normal",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
         "form": "Horizons",
         "types": [
             "Electric"
@@ -41532,8 +41632,7 @@
         ],
         "cm": [
             "Drill Peck",
-            "Brave Bird",
-            "Iron Head"
+            "Brave Bird"
         ],
         "shadow": false,
         "shadow_released": false,
