@@ -1570,7 +1570,7 @@
     {
         "id": 25,
         "name": "Pikachu",
-        "form": "Normal",
+        "form": "Diwali_2024",
         "types": [
             "Electric"
         ],
@@ -9835,7 +9835,7 @@
     {
         "id": 143,
         "name": "Snorlax",
-        "form": "Normal",
+        "form": "Wildarea_2024",
         "types": [
             "Normal"
         ],
@@ -17049,7 +17049,7 @@
         "cm": [
             "Aerial Ace"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -17075,7 +17075,7 @@
             "Brave Bird",
             "Sky Attack"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -26621,7 +26621,7 @@
             "Hydro Pump",
             "Aqua Tail"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
@@ -26649,8 +26649,8 @@
             "Hydro Pump",
             "Aqua Tail"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
     },
@@ -26677,8 +26677,8 @@
             "Hydro Pump",
             "Aqua Tail"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true,
         "elite_cm": [
@@ -27571,7 +27571,7 @@
             "Seed Bomb",
             "Wrap"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -27596,7 +27596,7 @@
             "Leaf Tornado",
             "Wrap"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -27624,7 +27624,7 @@
         "elite_cm": [
             "Frenzy Plant"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -27649,7 +27649,7 @@
             "Flamethrower",
             "Body Slam"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -27675,7 +27675,7 @@
             "Flamethrower",
             "Rock Tomb"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -27705,7 +27705,7 @@
         "elite_cm": [
             "Blast Burn"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -27730,7 +27730,7 @@
             "Water Pulse",
             "Night Slash"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -27755,7 +27755,7 @@
             "Water Pulse",
             "X Scissor"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -27785,7 +27785,7 @@
         "elite_cm": [
             "Hydro Cannon"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -27813,8 +27813,8 @@
             "X Scissor",
             "Dark Pulse"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -27843,8 +27843,8 @@
         "elite_cm": [
             "Hydro Cannon"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -29835,7 +29835,7 @@
             "Seed Bomb",
             "Gunk Shot"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -29861,7 +29861,7 @@
             "Gunk Shot",
             "Body Slam"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -33330,8 +33330,8 @@
             "Bulldoze",
             "Earthquake"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -33358,8 +33358,8 @@
             "Fire Punch",
             "Scorching Sands"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -44658,7 +44658,11 @@
             "Grass Knot",
             "Play Rough",
             "Energy Ball",
-            "Night Slash"
+            "Night Slash",
+            "Flower Trick"
+        ],
+        "elite_cm": [
+            "Frenzy Plant"
         ],
         "shadow": false,
         "shadow_released": false,
