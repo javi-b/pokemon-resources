@@ -2014,7 +2014,7 @@
     {
         "id": 25,
         "name": "Pikachu",
-        "form": "Normal",
+        "form": "Gotour_2025_a",
         "types": [
             "Electric"
         ],
@@ -2039,7 +2039,7 @@
     {
         "id": 25,
         "name": "Pikachu",
-        "form": "Normal",
+        "form": "Gotour_2025_a_02",
         "types": [
             "Electric"
         ],
@@ -2064,7 +2064,7 @@
     {
         "id": 25,
         "name": "Pikachu",
-        "form": "Normal",
+        "form": "Gotour_2025_b",
         "types": [
             "Electric"
         ],
@@ -2089,7 +2089,7 @@
     {
         "id": 25,
         "name": "Pikachu",
-        "form": "Normal",
+        "form": "Gotour_2025_b_02",
         "types": [
             "Electric"
         ],
@@ -30596,6 +30596,9 @@
             "Drill Run",
             "Aerial Ace"
         ],
+        "elite_cm": [
+            "Razor Shell"
+        ],
         "shadow": true,
         "shadow_released": false,
         "released": true
@@ -31541,6 +31544,9 @@
             "Acid Spray",
             "Signal Beam",
             "Focus Blast"
+        ],
+        "elite_cm": [
+            "Energy Ball"
         ],
         "shadow": true,
         "shadow_released": false,
@@ -32651,7 +32657,8 @@
             "Iron Head",
             "Blizzard",
             "Stone Edge",
-            "Outrage"
+            "Outrage",
+            "Fusion Bolt"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -32703,13 +32710,15 @@
         },
         "fm": [
             "Dragon Breath",
-            "Steel Wing"
+            "Steel Wing",
+            "Ice Fang"
         ],
         "cm": [
             "Dragon Pulse",
             "Blizzard",
             "Ancient Power",
-            "Focus Blast"
+            "Focus Blast",
+            "Fusion Flare"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -37387,7 +37396,7 @@
             "Hyper Beam",
             "Bulldoze"
         ],
-        "shadow": true,
+        "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
@@ -37417,7 +37426,7 @@
             "Hyper Beam",
             "Bulldoze"
         ],
-        "shadow": true,
+        "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
@@ -37447,7 +37456,7 @@
             "Hyper Beam",
             "Bulldoze"
         ],
-        "shadow": true,
+        "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
@@ -37477,7 +37486,7 @@
             "Hyper Beam",
             "Bulldoze"
         ],
-        "shadow": true,
+        "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
@@ -37507,7 +37516,7 @@
             "Hyper Beam",
             "Bulldoze"
         ],
-        "shadow": true,
+        "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
@@ -37537,7 +37546,7 @@
             "Hyper Beam",
             "Bulldoze"
         ],
-        "shadow": true,
+        "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
@@ -41636,6 +41645,9 @@
         "cm": [
             "Sky Attack",
             "Payback"
+        ],
+        "elite_cm": [
+            "Iron Head"
         ],
         "shadow": false,
         "shadow_released": false,
