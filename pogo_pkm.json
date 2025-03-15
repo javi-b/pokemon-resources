@@ -665,7 +665,8 @@
         },
         "fm": [
             "Water Gun",
-            "Bite"
+            "Bite",
+            "Rollout"
         ],
         "cm": [
             "Flash Cannon",
@@ -706,7 +707,8 @@
         },
         "fm": [
             "Water Gun",
-            "Bite"
+            "Bite",
+            "Rollout"
         ],
         "cm": [
             "Flash Cannon",
@@ -735,7 +737,8 @@
         },
         "fm": [
             "Water Gun",
-            "Bite"
+            "Bite",
+            "Rollout"
         ],
         "cm": [
             "Flash Cannon",
@@ -3946,7 +3949,8 @@
         },
         "fm": [
             "Infestation",
-            "Confusion"
+            "Confusion",
+            "Psywave"
         ],
         "cm": [
             "Silver Wind",
@@ -3976,7 +3980,8 @@
         },
         "fm": [
             "Infestation",
-            "Confusion"
+            "Confusion",
+            "Psywave"
         ],
         "cm": [
             "Silver Wind",
@@ -7912,7 +7917,8 @@
         },
         "fm": [
             "Tackle",
-            "Infestation"
+            "Infestation",
+            "Rollout"
         ],
         "cm": [
             "Sludge Bomb",
@@ -7967,7 +7973,8 @@
         },
         "fm": [
             "Tackle",
-            "Infestation"
+            "Infestation",
+            "Rollout"
         ],
         "cm": [
             "Sludge Bomb",
@@ -9029,13 +9036,15 @@
         },
         "fm": [
             "Frost Breath",
-            "Water Gun"
+            "Water Gun",
+            "Psywave"
         ],
         "cm": [
             "Hydro Pump",
             "Surf",
             "Blizzard",
-            "Skull Bash"
+            "Skull Bash",
+            "Sparkling Aria"
         ],
         "elite_fm": [
             "Ice Shard"
@@ -9063,13 +9072,15 @@
         },
         "fm": [
             "Frost Breath",
-            "Water Gun"
+            "Water Gun",
+            "Psywave"
         ],
         "cm": [
             "Hydro Pump",
             "Surf",
             "Blizzard",
-            "Skull Bash"
+            "Skull Bash",
+            "Sparkling Aria"
         ],
         "elite_fm": [
             "Ice Shard"
@@ -9097,13 +9108,15 @@
         },
         "fm": [
             "Frost Breath",
-            "Water Gun"
+            "Water Gun",
+            "Psywave"
         ],
         "cm": [
             "Hydro Pump",
             "Surf",
             "Blizzard",
-            "Skull Bash"
+            "Skull Bash",
+            "Sparkling Aria"
         ],
         "elite_fm": [
             "Ice Shard"
@@ -11016,7 +11029,9 @@
         "cm": [
             "Dig",
             "Brick Break",
-            "Hyper Beam"
+            "Hyper Beam",
+            "Swift",
+            "Trailblaze"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -11427,7 +11442,8 @@
             "Ancient Power",
             "Dazzling Gleam",
             "Aerial Ace",
-            "Draining Kiss"
+            "Draining Kiss",
+            "Psyshock"
         ],
         "elite_fm": [
             "Steel Wing",
@@ -14372,7 +14388,8 @@
             "Avalanche",
             "Bulldoze",
             "Stone Edge",
-            "High Horsepower"
+            "High Horsepower",
+            "Icicle Spear"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -14399,7 +14416,8 @@
             "Avalanche",
             "Bulldoze",
             "Stone Edge",
-            "High Horsepower"
+            "High Horsepower",
+            "Icicle Spear"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -16336,7 +16354,8 @@
             "Earthquake",
             "Sludge Wave",
             "Surf",
-            "Muddy Water"
+            "Muddy Water",
+            "Sludge"
         ],
         "elite_cm": [
             "Hydro Cannon"
@@ -16379,7 +16398,8 @@
             "Earthquake",
             "Sludge Wave",
             "Surf",
-            "Muddy Water"
+            "Muddy Water",
+            "Sludge"
         ],
         "elite_cm": [
             "Hydro Cannon"
@@ -16467,7 +16487,8 @@
             "Bite",
             "Fire Fang",
             "Thunder Fang",
-            "Ice Fang"
+            "Ice Fang",
+            "Sucker Punch"
         ],
         "cm": [
             "Crunch",
@@ -16494,7 +16515,8 @@
             "Bite",
             "Fire Fang",
             "Thunder Fang",
-            "Ice Fang"
+            "Ice Fang",
+            "Sucker Punch"
         ],
         "cm": [
             "Crunch",
@@ -16603,7 +16625,8 @@
         "cm": [
             "Dig",
             "Grass Knot",
-            "Thunder"
+            "Thunder",
+            "Swift"
         ],
         "shadow": true,
         "shadow_released": false,
@@ -16655,7 +16678,8 @@
         "cm": [
             "Dig",
             "Grass Knot",
-            "Thunder"
+            "Thunder",
+            "Swift"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -18002,7 +18026,8 @@
         "cm": [
             "Power Gem",
             "Foul Play",
-            "Shadow Sneak"
+            "Shadow Sneak",
+            "Dazzling Gleam"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -18041,7 +18066,8 @@
         "cm": [
             "Power Gem",
             "Foul Play",
-            "Shadow Sneak"
+            "Shadow Sneak",
+            "Dazzling Gleam"
         ],
         "shadow": true,
         "shadow_released": false,
@@ -18080,7 +18106,8 @@
         "cm": [
             "Power Gem",
             "Foul Play",
-            "Shadow Sneak"
+            "Shadow Sneak",
+            "Dazzling Gleam"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -18744,7 +18771,8 @@
             "Gunk Shot",
             "Sludge Bomb",
             "Ice Beam",
-            "Acid Spray"
+            "Acid Spray",
+            "Sludge"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -18868,7 +18896,8 @@
         },
         "fm": [
             "Splash",
-            "Water Gun"
+            "Water Gun",
+            "Rollout"
         ],
         "cm": [
             "Heavy Slam",
@@ -18894,7 +18923,8 @@
         },
         "fm": [
             "Zen Headbutt",
-            "Water Gun"
+            "Water Gun",
+            "Rollout"
         ],
         "cm": [
             "Surf",
@@ -19024,12 +19054,14 @@
         },
         "fm": [
             "Charge Beam",
-            "Extrasensory"
+            "Extrasensory",
+            "Psywave"
         ],
         "cm": [
             "Psychic",
             "Shadow Ball",
-            "Mirror Coat"
+            "Mirror Coat",
+            "Dynamic Punch"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -20264,7 +20296,8 @@
             "Grass Knot",
             "Bulldoze",
             "Stone Edge",
-            "Rock Slide"
+            "Rock Slide",
+            "Rock Tomb"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -20292,7 +20325,8 @@
             "Grass Knot",
             "Bulldoze",
             "Stone Edge",
-            "Rock Slide"
+            "Rock Slide",
+            "Rock Tomb"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -21022,7 +21056,8 @@
         },
         "fm": [
             "Ice Shard",
-            "Frost Breath"
+            "Frost Breath",
+            "Rollout"
         ],
         "cm": [
             "Avalanche",
@@ -23176,7 +23211,8 @@
         "fm": [
             "Poison Jab",
             "Razor Leaf",
-            "Magical Leaf"
+            "Magical Leaf",
+            "Poison Sting"
         ],
         "cm": [
             "Solar Beam",
@@ -25754,7 +25790,8 @@
             "Ancient Power",
             "Dazzling Gleam",
             "Aerial Ace",
-            "Flamethrower"
+            "Flamethrower",
+            "Psyshock"
         ],
         "elite_cm": [
             "Aura Sphere"
@@ -25926,7 +25963,8 @@
             "Avalanche",
             "Bulldoze",
             "Stone Edge",
-            "High Horsepower"
+            "High Horsepower",
+            "Icicle Spear"
         ],
         "elite_cm": [
             "Ancient Power"
@@ -25956,7 +25994,8 @@
             "Avalanche",
             "Bulldoze",
             "Stone Edge",
-            "High Horsepower"
+            "High Horsepower",
+            "Icicle Spear"
         ],
         "elite_cm": [
             "Ancient Power"
@@ -26188,7 +26227,8 @@
             "Psychic",
             "Dark Pulse",
             "Poltergeist",
-            "Shadow Punch"
+            "Shadow Punch",
+            "Dynamic Punch"
         ],
         "elite_cm": [
             "Shadow Ball"
@@ -26218,7 +26258,8 @@
             "Psychic",
             "Dark Pulse",
             "Poltergeist",
-            "Shadow Punch"
+            "Shadow Punch",
+            "Dynamic Punch"
         ],
         "elite_cm": [
             "Shadow Ball"
@@ -30111,7 +30152,8 @@
         "cm": [
             "Futuresight",
             "Shadow Ball",
-            "Thunder"
+            "Thunder",
+            "Psyshock"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -35407,7 +35449,8 @@
             "Moonblast",
             "Petal Blizzard",
             "Psychic",
-            "Disarming Voice"
+            "Disarming Voice",
+            "Trailblaze"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -35435,7 +35478,8 @@
             "Moonblast",
             "Petal Blizzard",
             "Psychic",
-            "Disarming Voice"
+            "Disarming Voice",
+            "Trailblaze"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -35463,7 +35507,8 @@
             "Moonblast",
             "Petal Blizzard",
             "Psychic",
-            "Disarming Voice"
+            "Disarming Voice",
+            "Trailblaze"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -35491,7 +35536,8 @@
             "Moonblast",
             "Petal Blizzard",
             "Psychic",
-            "Disarming Voice"
+            "Disarming Voice",
+            "Trailblaze"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -35519,7 +35565,8 @@
             "Moonblast",
             "Petal Blizzard",
             "Psychic",
-            "Disarming Voice"
+            "Disarming Voice",
+            "Trailblaze"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -35547,7 +35594,8 @@
             "Moonblast",
             "Petal Blizzard",
             "Psychic",
-            "Disarming Voice"
+            "Disarming Voice",
+            "Trailblaze"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -36380,7 +36428,8 @@
             "Aqua Tail",
             "Outrage",
             "Gunk Shot",
-            "Focus Blast"
+            "Focus Blast",
+            "Sludge Bomb"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -38449,7 +38498,8 @@
         },
         "fm": [
             "Fairy Wind",
-            "Struggle Bug"
+            "Struggle Bug",
+            "Charm"
         ],
         "cm": [
             "Dazzling Gleam",
@@ -40307,7 +40357,8 @@
         "cm": [
             "Psychic Fangs",
             "Aqua Tail",
-            "Crunch"
+            "Crunch",
+            "Psyshock"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -40333,7 +40384,8 @@
         "cm": [
             "Outrage",
             "Dragon Pulse",
-            "Fly"
+            "Fly",
+            "Swift"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -44754,7 +44806,11 @@
             "Flamethrower",
             "Disarming Voice",
             "Crunch",
-            "Shadow Ball"
+            "Shadow Ball",
+            "Torch Song"
+        ],
+        "elite_cm": [
+            "Blast Burn"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -45682,7 +45738,8 @@
         },
         "fm": [
             "Thunder Shock",
-            "Water Gun"
+            "Water Gun",
+            "Sucker Punch"
         ],
         "cm": [
             "Parabolic Charge",
@@ -46274,12 +46331,14 @@
         },
         "fm": [
             "Wing Attack",
-            "Rock Throw"
+            "Rock Throw",
+            "Sucker Punch"
         ],
         "cm": [
             "Payback",
             "Aerial Ace",
-            "Fly"
+            "Fly",
+            "Rock Tomb"
         ],
         "shadow": false,
         "shadow_released": false,

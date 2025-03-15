@@ -2023,5 +2023,14 @@
         "damage_window_start": 1800,
         "damage_window_end": 2200,
         "energy_delta": -50
+    },
+    {
+        "name": "Torch Song",
+        "type": "Fire",
+        "power": 100.0,
+        "duration": 3500,
+        "damage_window_start": 2500,
+        "damage_window_end": 3500,
+        "energy_delta": -50
     }
 ]
