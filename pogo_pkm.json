@@ -2227,6 +2227,38 @@
     {
         "id": 25,
         "name": "Pikachu",
+        "form": "Normal",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "elite_cm": [
+            "Surf",
+            "Thunder"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
         "form": "Pop_star",
         "types": [
             "Electric"
@@ -8880,6 +8912,115 @@
         "shadow": false,
         "shadow_released": false,
         "released": true
+    },
+    {
+        "id": 128,
+        "name": "Tauros",
+        "form": "Normal",
+        "types": [
+            "Normal"
+        ],
+        "stats": {
+            "baseStamina": 181,
+            "baseAttack": 198,
+            "baseDefense": 183
+        },
+        "fm": [
+            "Tackle",
+            "Zen Headbutt"
+        ],
+        "cm": [
+            "Horn Attack",
+            "Iron Head",
+            "Earthquake",
+            "Trailblaze"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 128,
+        "name": "Tauros",
+        "form": "Paldea_aqua",
+        "types": [
+            "Fighting",
+            "Water"
+        ],
+        "stats": {
+            "baseStamina": 181,
+            "baseAttack": 210,
+            "baseDefense": 193
+        },
+        "fm": [
+            "Tackle",
+            "Zen Headbutt",
+            "Double Kick"
+        ],
+        "cm": [
+            "Iron Head",
+            "Earthquake",
+            "Trailblaze",
+            "Aqua Jet"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 128,
+        "name": "Tauros",
+        "form": "Paldea_blaze",
+        "types": [
+            "Fighting",
+            "Fire"
+        ],
+        "stats": {
+            "baseStamina": 181,
+            "baseAttack": 210,
+            "baseDefense": 193
+        },
+        "fm": [
+            "Tackle",
+            "Zen Headbutt",
+            "Double Kick"
+        ],
+        "cm": [
+            "Iron Head",
+            "Earthquake",
+            "Trailblaze",
+            "Flame Charge"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 128,
+        "name": "Tauros",
+        "form": "Paldea_combat",
+        "types": [
+            "Fighting"
+        ],
+        "stats": {
+            "baseStamina": 181,
+            "baseAttack": 210,
+            "baseDefense": 193
+        },
+        "fm": [
+            "Tackle",
+            "Zen Headbutt",
+            "Double Kick"
+        ],
+        "cm": [
+            "Iron Head",
+            "Earthquake",
+            "Trailblaze",
+            "Close Combat"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
     },
     {
         "id": 129,
@@ -20940,6 +21081,9 @@
             "Megahorn",
             "Payback"
         ],
+        "elite_cm": [
+            "Brutal Swing"
+        ],
         "shadow": true,
         "shadow_released": true,
         "mega": [
@@ -20977,6 +21121,9 @@
             "Thunder",
             "Megahorn",
             "Payback"
+        ],
+        "elite_cm": [
+            "Brutal Swing"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -29873,8 +30020,7 @@
         ],
         "cm": [
             "Gunk Shot",
-            "Seed Bomb",
-            "Gunk Shot"
+            "Seed Bomb"
         ],
         "shadow": true,
         "shadow_released": false,
@@ -43856,7 +44002,7 @@
         ],
         "stats": {
             "baseStamina": 192,
-            "baseAttack": 332,
+            "baseAttack": 295,
             "baseDefense": 240
         },
         "fm": [
@@ -43945,8 +44091,8 @@
         ],
         "stats": {
             "baseStamina": 192,
-            "baseAttack": 250,
-            "baseDefense": 292
+            "baseAttack": 231,
+            "baseDefense": 282
         },
         "fm": [
             "Metal Claw",
