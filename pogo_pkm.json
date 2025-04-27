@@ -2195,7 +2195,7 @@
     {
         "id": 25,
         "name": "Pikachu",
-        "form": "Normal",
+        "form": "Kurta",
         "types": [
             "Electric"
         ],
@@ -7983,7 +7983,6 @@
             "Sludge",
             "Hyper Beam",
             "Play Rough",
-            "Hyper Beam",
             "Overheat",
             "Brutal Swing"
         ],
@@ -14194,7 +14193,8 @@
             "Megahorn",
             "Close Combat",
             "Earthquake",
-            "Rock Blast"
+            "Rock Blast",
+            "Upper Hand"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -17935,7 +17935,8 @@
         "cm": [
             "Heavy Slam",
             "Low Sweep",
-            "Cross Chop"
+            "Cross Chop",
+            "Upper Hand"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -17960,7 +17961,8 @@
         "cm": [
             "Heavy Slam",
             "Low Sweep",
-            "Cross Chop"
+            "Cross Chop",
+            "Upper Hand"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -17987,7 +17989,8 @@
             "Heavy Slam",
             "Close Combat",
             "Dynamic Punch",
-            "Super Power"
+            "Super Power",
+            "Upper Hand"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -18014,7 +18017,8 @@
             "Heavy Slam",
             "Close Combat",
             "Dynamic Punch",
-            "Super Power"
+            "Super Power",
+            "Upper Hand"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -28749,10 +28753,24 @@
         "cm": [
             "Disarming Voice",
             "Dazzling Gleam",
-            "Hyper Beam"
+            "Hyper Beam",
+            "Body Slam"
         ],
         "shadow": false,
         "shadow_released": false,
+        "mega": [
+            {
+                "types": [
+                    "Normal",
+                    "Fairy"
+                ],
+                "stats": {
+                    "baseStamina": 230,
+                    "baseAttack": 147,
+                    "baseDefense": 239
+                }
+            }
+        ],
         "released": true
     },
     {
@@ -29711,7 +29729,8 @@
             "Acid Spray",
             "Brick Break",
             "Foul Play",
-            "Thunder Punch"
+            "Thunder Punch",
+            "Upper Hand"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -29738,7 +29757,8 @@
             "Acid Spray",
             "Power Up Punch",
             "Foul Play",
-            "Thunder Punch"
+            "Thunder Punch",
+            "Upper Hand"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -41936,8 +41956,9 @@
             "baseDefense": 82
         },
         "fm": [
-            "Quick Attack",
-            "Snarl"
+            "Sucker Punch",
+            "Snarl",
+            "Quick Attack"
         ],
         "cm": [
             "Night Slash",
@@ -41960,8 +41981,9 @@
             "baseDefense": 164
         },
         "fm": [
-            "Quick Attack",
-            "Snarl"
+            "Sucker Punch",
+            "Snarl",
+            "Quick Attack"
         ],
         "cm": [
             "Night Slash",
@@ -42114,7 +42136,8 @@
         "cm": [
             "Body Slam",
             "Surf",
-            "Rock Blast"
+            "Rock Blast",
+            "Crunch"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42340,7 +42363,8 @@
         "cm": [
             "Dig",
             "Bulldoze",
-            "Earth Power"
+            "Earth Power",
+            "Wrap"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -42365,7 +42389,8 @@
         "cm": [
             "Dig",
             "Bulldoze",
-            "Earth Power"
+            "Earth Power",
+            "Wrap"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -44002,20 +44027,17 @@
         ],
         "stats": {
             "baseStamina": 192,
-            "baseAttack": 295,
+            "baseAttack": 332,
             "baseDefense": 240
         },
         "fm": [
             "Metal Claw",
-            "Snarl",
-            "Quick Attack",
-            "Fire Fang"
+            "Air Slash"
         ],
         "cm": [
             "Play Rough",
-            "Iron Head",
-            "Wild Charge",
-            "Close Combat"
+            "Close Combat",
+            "Giga Impact"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -44091,20 +44113,17 @@
         ],
         "stats": {
             "baseStamina": 192,
-            "baseAttack": 231,
-            "baseDefense": 282
+            "baseAttack": 250,
+            "baseDefense": 292
         },
         "fm": [
             "Metal Claw",
-            "Snarl",
-            "Quick Attack",
             "Ice Fang"
         ],
         "cm": [
             "Moonblast",
-            "Iron Head",
-            "Crunch",
-            "Close Combat"
+            "Close Combat",
+            "Giga Impact"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -45758,7 +45777,7 @@
             "Mud Shot"
         ],
         "cm": [
-            "Rock Slide",
+            "Rock Blast",
             "Rock Tomb",
             "Ancient Power"
         ],
@@ -46148,6 +46167,7 @@
         "cm": [
             "Earth Power",
             "Seed Bomb",
+            "Wrap",
             "Acid Spray"
         ],
         "shadow": false,
@@ -46327,7 +46347,8 @@
         "cm": [
             "Psybeam",
             "Psyshock",
-            "Psychic"
+            "Psychic",
+            "Dazzling Gleam"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -46352,7 +46373,6 @@
         ],
         "cm": [
             "Play Rough",
-            "Brutal Swing",
             "Flash Cannon"
         ],
         "shadow": false,
@@ -46378,7 +46398,6 @@
         ],
         "cm": [
             "Play Rough",
-            "Brutal Swing",
             "Flash Cannon"
         ],
         "shadow": false,
@@ -46404,8 +46423,8 @@
         ],
         "cm": [
             "Play Rough",
-            "Brutal Swing",
             "Flash Cannon",
+            "Bulldoze",
             "Heavy Slam"
         ],
         "shadow": false,
@@ -46722,7 +46741,7 @@
         ],
         "cm": [
             "Dazzling Gleam",
-            "Rock Slide",
+            "Power Gem",
             "Sludge Wave"
         ],
         "shadow": false,
@@ -46748,7 +46767,7 @@
         ],
         "cm": [
             "Dazzling Gleam",
-            "Rock Slide",
+            "Power Gem",
             "Sludge Wave"
         ],
         "shadow": false,

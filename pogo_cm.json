@@ -2032,5 +2032,32 @@
         "damage_window_start": 2500,
         "damage_window_end": 3500,
         "energy_delta": -50
+    },
+    {
+        "name": "Behemoth Blade",
+        "type": "Steel",
+        "power": 1.0,
+        "duration": 3500,
+        "damage_window_start": 2500,
+        "damage_window_end": 3500,
+        "energy_delta": -1
+    },
+    {
+        "name": "Behemoth Bash",
+        "type": "Steel",
+        "power": 1.0,
+        "duration": 1500,
+        "damage_window_start": 900,
+        "damage_window_end": 1400,
+        "energy_delta": -1
+    },
+    {
+        "name": "Upper Hand",
+        "type": "Fighting",
+        "power": 50.0,
+        "duration": 2000,
+        "damage_window_start": 2300,
+        "damage_window_end": 3100,
+        "energy_delta": -33
     }
 ]
