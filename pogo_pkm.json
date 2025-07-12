@@ -1917,6 +1917,198 @@
     {
         "id": 25,
         "name": "Pikachu",
+        "form": "Gofest_2025_goggles_blue",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "elite_cm": [
+            "Surf",
+            "Thunder"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "form": "Gofest_2025_goggles_red",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "elite_cm": [
+            "Surf",
+            "Thunder"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "form": "Gofest_2025_goggles_yellow",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "elite_cm": [
+            "Surf",
+            "Thunder"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "form": "Gofest_2025_monocle_blue",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "elite_cm": [
+            "Surf",
+            "Thunder"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "form": "Gofest_2025_monocle_red",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "elite_cm": [
+            "Surf",
+            "Thunder"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
+        "form": "Gofest_2025_monocle_yellow",
+        "types": [
+            "Electric"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 112,
+            "baseDefense": 96
+        },
+        "fm": [
+            "Thunder Shock",
+            "Quick Attack"
+        ],
+        "cm": [
+            "Discharge",
+            "Thunderbolt",
+            "Wild Charge"
+        ],
+        "elite_fm": [
+            "Present"
+        ],
+        "elite_cm": [
+            "Surf",
+            "Thunder"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 25,
+        "name": "Pikachu",
         "form": "Gotour_2024_a",
         "types": [
             "Electric"
@@ -17626,7 +17818,7 @@
             "Night Slash",
             "Brick Break"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -17652,7 +17844,7 @@
             "Brick Break",
             "Rock Slide"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -17679,7 +17871,7 @@
         "elite_cm": [
             "Body Slam"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "released": true
     },
@@ -26728,7 +26920,7 @@
             "Iron Head",
             "Thunder"
         ],
-        "shadow": false,
+        "shadow": true,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
@@ -26755,8 +26947,8 @@
             "Iron Head",
             "Thunder"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true
     },
@@ -26782,8 +26974,8 @@
             "Iron Head",
             "Thunder"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "class": "POKEMON_CLASS_LEGENDARY",
         "released": true,
         "elite_cm": [
@@ -30448,6 +30640,9 @@
             "Blizzard",
             "Flash Cannon",
             "Signal Beam"
+        ],
+        "elite_cm": [
+            "Avalanche"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -36457,8 +36652,8 @@
             "Psybeam",
             "Night Slash"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -36485,8 +36680,8 @@
             "Super Power",
             "Hyper Beam"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -36729,8 +36924,8 @@
             "Ancient Power",
             "Dragon Claw"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -36758,8 +36953,8 @@
             "Earthquake",
             "Meteor Beam"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -36785,8 +36980,8 @@
             "Aurora Beam",
             "Thunderbolt"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -36815,8 +37010,8 @@
             "Hyper Beam",
             "Meteor Beam"
         ],
-        "shadow": false,
-        "shadow_released": false,
+        "shadow": true,
+        "shadow_released": true,
         "released": true
     },
     {
@@ -43397,6 +43592,56 @@
         "released": true
     },
     {
+        "id": 870,
+        "name": "Falinks",
+        "form": "Gofest_2025_train_conductor",
+        "types": [
+            "Fighting"
+        ],
+        "stats": {
+            "baseStamina": 163,
+            "baseAttack": 193,
+            "baseDefense": 170
+        },
+        "fm": [
+            "Rock Smash",
+            "Counter"
+        ],
+        "cm": [
+            "Super Power",
+            "Brick Break",
+            "Megahorn"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 870,
+        "name": "Falinks",
+        "form": "Normal",
+        "types": [
+            "Fighting"
+        ],
+        "stats": {
+            "baseStamina": 163,
+            "baseAttack": 193,
+            "baseDefense": 170
+        },
+        "fm": [
+            "Rock Smash",
+            "Counter"
+        ],
+        "cm": [
+            "Super Power",
+            "Brick Break",
+            "Megahorn"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
         "id": 871,
         "name": "Pincurchin",
         "form": "Normal",
@@ -45339,6 +45584,9 @@
             "Close Combat",
             "Thunder Punch"
         ],
+        "elite_cm": [
+            "Brick Break"
+        ],
         "shadow": false,
         "shadow_released": false,
         "released": true
@@ -47246,13 +47494,15 @@
         },
         "fm": [
             "Snarl",
-            "Metal Claw"
+            "Metal Claw",
+            "Metal Sound"
         ],
         "cm": [
             "Dark Pulse",
             "Iron Head",
             "X Scissor",
-            "Focus Blast"
+            "Focus Blast",
+            "Foul Play"
         ],
         "shadow": false,
         "shadow_released": false,

@@ -2036,20 +2036,20 @@
     {
         "name": "Behemoth Blade",
         "type": "Steel",
-        "power": 1.0,
+        "power": 200.0,
         "duration": 3500,
         "damage_window_start": 2500,
         "damage_window_end": 3500,
-        "energy_delta": -1
+        "energy_delta": -100
     },
     {
         "name": "Behemoth Bash",
         "type": "Steel",
-        "power": 1.0,
+        "power": 125.0,
         "duration": 1500,
         "damage_window_start": 900,
         "damage_window_end": 1400,
-        "energy_delta": -1
+        "energy_delta": -50
     },
     {
         "name": "Upper Hand",
@@ -2059,5 +2059,32 @@
         "damage_window_start": 2300,
         "damage_window_end": 3100,
         "energy_delta": -33
+    },
+    {
+        "name": "Thunder Cage",
+        "type": "Electric",
+        "power": 1.0,
+        "duration": 3300,
+        "damage_window_start": 1880,
+        "damage_window_end": 3200,
+        "energy_delta": -1
+    },
+    {
+        "name": "Crush Grip",
+        "type": "Normal",
+        "power": 1.0,
+        "duration": 1800,
+        "damage_window_start": 700,
+        "damage_window_end": 1700,
+        "energy_delta": -1
+    },
+    {
+        "name": "Dragon Energy",
+        "type": "Dragon",
+        "power": 1.0,
+        "duration": 3300,
+        "damage_window_start": 1880,
+        "damage_window_end": 3200,
+        "energy_delta": -1
     }
 ]
